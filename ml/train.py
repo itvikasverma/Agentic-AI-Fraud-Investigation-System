@@ -46,6 +46,8 @@ def train_models():
     lr_probs = lr.predict_proba(X_test_scaled)[:, 1]
     
     print("Logistic Regression Performance:")
+    print("Confusion Matrix:")
+    print(confusion_matrix(y_test, lr_preds))
     print(classification_report(y_test, lr_preds))
     print(f"ROC-AUC: {roc_auc_score(y_test, lr_probs):.4f}")
     print(f"PR-AUC: {average_precision_score(y_test, lr_probs):.4f}")
@@ -69,6 +71,8 @@ def train_models():
     xgb_probs = xgb_model.predict_proba(X_test)[:, 1]
     
     print("XGBoost Performance:")
+    print("Confusion Matrix:")
+    print(confusion_matrix(y_test, xgb_preds))
     print(classification_report(y_test, xgb_preds))
     print(f"ROC-AUC: {roc_auc_score(y_test, xgb_probs):.4f}")
     print(f"PR-AUC: {average_precision_score(y_test, xgb_probs):.4f}")
@@ -86,6 +90,8 @@ def train_models():
     iso_preds = [1 if x == -1 else 0 for x in iso_preds] # Convert to 1 = fraud
     
     print("Isolation Forest Performance:")
+    print("Confusion Matrix:")
+    print(confusion_matrix(y_test, iso_preds))
     print(classification_report(y_test, iso_preds))
     
     # Save models
