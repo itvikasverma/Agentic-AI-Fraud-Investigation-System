@@ -1,0 +1,27 @@
+# Python Environments
+.env
+.venv/
+venv/
+ENV/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Databases & Data
+fraud_db.sqlite
+qdrant_data/
+*.sqlite
+*.db
+
+# IDEs & OS Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs & Caches
+*.log
+.pytest_cache/
+.coverage
+htmlcov/

@@ -1,0 +1,1001 @@
+customer_id,name,account_age_days,average_transaction,transaction_frequency_per_month,usual_locations,usual_devices,previous_fraud_count
+22c30cdd-d1ce-4f05-b72d-6c4c2346c07d,Jesse Lynch,916,253.8,23,"[""Quinnville"", ""Tylerfurt"", ""Kimview""]","[""71bbb326"", ""3ee0acb8"", ""d369528a""]",0
+deb03060-4459-422f-a62b-0dc49f740813,Shawn Lambert,2741,22.0,42,"[""Lucasborough"", ""Leeland"", ""Carolburgh""]","[""acc3cfde"", ""ed536c57"", ""3344765d""]",0
+8ee16991-436e-4cb6-a3c2-2976630405f3,Keith Gray,2670,20.59,49,"[""East Penny"", ""Annaville""]","[""6d857f9d"", ""a467644b""]",0
+81bdb212-7b59-4c96-a8e9-b88ff5b2a61a,Michael Doyle,342,173.26,42,"[""North Andrea""]","[""407ac204""]",0
+74df01e0-1df8-4991-b9dc-bfa7e7055d2f,Mary Leon,3400,351.56,5,"[""New Joy"", ""North Peter"", ""New Anthony""]","[""af1806dd"", ""c7b66da5"", ""58fb4177""]",0
+2b827bc6-9630-44ad-99d7-d3aef48f42e9,Greg Clayton,2618,236.71,31,"[""Port Amy""]","[""02d7948a"", ""afe49c40""]",0
+cbb76798-3c10-4eba-9dc7-e2b5cc15d507,Linda Woodward,2209,32.05,39,"[""West Reginaton"", ""Port Crystalport""]","[""c4fa0086"", ""ea3c9a0c""]",0
+8f7035f4-c1e8-4764-a434-2679122eb166,Tammy Fox,3057,277.08,37,"[""South Jessicatown"", ""Sarahburgh"", ""South Ronaldport""]","[""173fba6c"", ""a919682f""]",0
+be0c3056-8b70-423e-9400-7b0526c42d3d,Michael Munoz,10,354.51,29,"[""Lake Jennifer""]","[""c623c3c2""]",0
+4e6104a2-6726-41cc-b30a-ce93df1af86c,Stephen Wells,3575,43.91,2,"[""New William""]","[""34666024""]",0
+f101fe3c-8911-4538-ae3f-6e5cdd90ca3d,Monica Tucker,2779,342.18,12,"[""Lopezshire""]","[""02354965"", ""480342ae""]",0
+97dbc367-90a2-441b-a897-b702f7eabe87,Kirk Ruiz,3245,203.34,19,"[""New Lorettamouth"", ""South John""]","[""1deefe40"", ""a9b7c1b4""]",0
+9a2b0fb6-cb71-4444-a202-6222914fa719,Linda Smith,807,495.98,6,"[""East Timothyfort""]","[""ec6b87c2"", ""efeae5bb"", ""3a6b77b0""]",0
+9ceba489-bcaa-4e97-bc30-973238a173fe,Thomas Collier,1898,445.32,50,"[""Katieberg"", ""Port Matthewberg"", ""Port Jamesfurt""]","[""27bcc427"", ""22ceaa02"", ""9bd6376c""]",0
+d7b4a258-3529-49cc-9024-d4599f85f6c6,Matthew Wilkerson,69,358.44,48,"[""Port Patriciaville"", ""Cynthiaview""]","[""a400c653"", ""c27f4d4f""]",2
+f2388c1e-4b8f-4876-bcfe-4f0543a7175a,Joel Yates,509,40.71,45,"[""Port Matthewland"", ""North Tammy"", ""South Susan""]","[""4577b70d"", ""bafe3838""]",0
+3a76d516-1269-4651-b494-a73d31981e38,Joseph Herrera,3560,253.12,48,"[""Villegasborough"", ""Quinnside"", ""East Cassandra""]","[""a3e3bc81"", ""765be977""]",0
+141ee88e-ed3c-4549-90ac-074d48cde6f8,Kenneth Torres,2687,339.17,36,"[""New Seanshire"", ""Cruzview""]","[""5cf4a522""]",0
+0efa542d-012f-4d55-908c-81e531ef1756,Jennifer Smith,2290,111.07,16,"[""Obrienmouth"", ""Millerville""]","[""4909b94d"", ""38868e78"", ""92fbc30c""]",0
+c67cf929-f1c1-44dc-ac19-44044a39feba,Patrick Clark,1172,483.09,33,"[""Jodihaven"", ""Williamfort"", ""West Sara""]","[""96b95ffb"", ""5364b469""]",0
+4894a065-b780-4b36-83f2-3237c44c6123,Jessica Ferguson,529,37.11,43,"[""Edwardsstad"", ""Crossport"", ""Robertshire""]","[""af49053f"", ""3bd1ade8""]",0
+d3257a97-3ed5-4668-9a81-e64bf5f7de67,Christine Bruce,3058,486.78,18,"[""Hamiltontown""]","[""af8f2402""]",0
+973ab2d9-b321-4ceb-b9eb-a07fd28258e7,Jorge Holmes,2639,121.12,44,"[""Joshuaton"", ""Deannachester"", ""Mooremouth""]","[""662d762a""]",0
+d347747e-44dd-4be7-b918-f7204242aa30,Claudia Smith,1839,462.35,40,"[""Cummingston"", ""Davidfurt"", ""South Richardport""]","[""1595c3d9"", ""97120431"", ""e6624809""]",0
+2757055d-da2e-4a48-ba3a-2605e24f9dce,Kevin Walker,2031,62.69,48,"[""North Jillfort""]","[""f1c14363"", ""314f21fc""]",0
+3bf063ab-d90e-4384-9bc5-fe02b8b79ab3,Matthew Pena,1331,120.51,23,"[""Lake Sandra"", ""East Kathy"", ""New Richardport""]","[""af759d1a"", ""e64d2f8c"", ""aac5f04f""]",0
+953b23f0-7ba4-4d33-8d4a-ea037df81c8d,Frank Mckenzie,1915,437.4,46,"[""New Connorbury"", ""Arnoldside"", ""East Abigailborough""]","[""691bcee0""]",0
+7f4032b1-8a44-419f-8b2d-d3a4d70739e0,Cathy Wright,3335,379.66,31,"[""East Ashley""]","[""d3b5e466"", ""7e67ab38""]",0
+24ed2edd-0e67-455f-9321-446ae88eb0c0,Tabitha Johnson,1275,265.77,23,"[""East Mary"", ""West Stephanie"", ""Huntshire""]","[""26bce7dd"", ""7e42abc1"", ""d77dd68a""]",0
+1e7fa7d0-db2c-4b70-83d6-0541f7407c82,John Jones,2976,485.45,12,"[""Lake Jonathan"", ""Draketon""]","[""46580f9c"", ""1ef83244""]",0
+790775be-417d-420b-95b8-1c604f63574d,Andrea Meza,2962,296.62,2,"[""New Jodi""]","[""71b5ea81"", ""e1dfef9d""]",0
+734a44cc-a045-48b4-8af8-f29c5053a321,Shawn Lane,2126,45.83,1,"[""Rodrigueztown""]","[""75efa8c0"", ""08d556bc"", ""67a56bc1""]",0
+82fbee5f-ab93-432e-8c4c-0ba6864b24e4,Shawn Castro,3459,101.91,14,"[""Allenport""]","[""52adbf38""]",0
+07d32781-ec90-437f-876d-9f1c86ae94f7,Crystal Clay,399,215.6,50,"[""Jenniferville"", ""South Nathanton""]","[""6978c3d2"", ""8f1270bf""]",0
+52d09132-ef78-431d-b2f7-6c4a3040eb41,John Simmons,2751,180.8,12,"[""Walkerport"", ""Leechester"", ""Stephaniehaven""]","[""3f5ed74d""]",0
+d157632c-3784-430c-a83c-ea6a73f02cf9,Jessica Neal,1195,321.47,6,"[""South Robertside"", ""North Walterstad"", ""Rosemouth""]","[""7f97e7a3"", ""f1821ad2"", ""70cb7c60""]",0
+38bb951d-4138-4681-94b9-1adfcb5264d7,Peter Gregory,2388,404.77,1,"[""East Brianhaven""]","[""6fb24167""]",0
+3366f84f-22ed-4976-8dab-816ffb51b36b,Christopher Cook,1398,367.1,16,"[""North Jaymouth""]","[""90e05c8b"", ""14d0f374""]",0
+76d4fa6f-f20b-4ff1-a2c6-c9495609e4fb,Kristina Dawson,25,129.69,20,"[""Sandraport"", ""Jenniferfort"", ""North Cathy""]","[""5f4043bd"", ""bfad202d"", ""250d3f1d""]",0
+392d585d-910a-409d-ac35-bbc4d36536c9,Kristi Taylor,2249,209.33,43,"[""New Allisonside"", ""Port Austinland""]","[""54538959""]",0
+f801f976-d9a3-468a-a161-114bfb973798,Tiffany Wood DVM,3356,424.78,4,"[""Acevedotown"", ""Eddiechester"", ""Lake Brandon""]","[""9f555416""]",0
+4ab10140-5075-41d7-9b3c-0064cc51dd04,Nicole Garcia,3292,295.62,32,"[""Ashleyland""]","[""2bdbaf57"", ""526157c5"", ""0010cdeb""]",0
+072c548a-9696-40e2-87b7-356f6e1bd233,John Leonard,2874,342.81,38,"[""South Micheal"", ""Roberthaven"", ""North Emily""]","[""097494fe"", ""4832db4e"", ""08d6e0a3""]",0
+7fac4fde-01c1-4bc8-8ffe-5eb2dacb494c,Curtis Jefferson,950,205.61,16,"[""Amyland"", ""West Brendaport""]","[""9eee5fe2"", ""4ede549c"", ""ea3c54db""]",0
+de1755c9-2aa9-4feb-90b4-bdff52346139,Tammy Terry,2131,147.63,23,"[""West Katelynmouth""]","[""a50b76bc""]",0
+30f69db9-f59f-4c2c-afb1-b22cbbc70b95,David Walker,2266,158.69,44,"[""Watsonbury"", ""Destinyton""]","[""46bb866e""]",0
+06cc3740-204a-4e33-a183-c72b7c3dc9cd,Thomas Rodriguez,250,172.46,46,"[""Youngstad"", ""East Alexisville""]","[""d10030a8"", ""4c3f1fb6"", ""67a50878""]",0
+9d358b01-85ff-4d09-9d08-f9e40174a834,Sean Dougherty,1900,260.6,26,"[""Flowerschester""]","[""96443131""]",0
+e7fd82c6-0cea-4e57-bc00-854b7fdfce2a,John Colon,2026,360.18,4,"[""Williamsonview""]","[""9c6d5e69""]",1
+cf601cb7-b69e-4a5e-a8c8-8ab8d8b4b2e9,Vanessa Salazar,1119,185.53,46,"[""Bensonview""]","[""367525fc""]",0
+88e5ccb0-1a6d-46b6-8d15-837a8a97b6fa,David Ward,1233,300.82,41,"[""Williamsland"", ""Martinshire""]","[""1a3b31ea"", ""a9a19800"", ""65753a1a""]",0
+2f77ac9a-72ff-4835-8796-967865027119,Kyle Melendez,2931,242.1,25,"[""Karaton"", ""North Briannashire""]","[""ec134f0c"", ""cae38421""]",0
+085816e7-4d62-40f1-8f8d-8dc7a850a5fb,Matthew Cortez,3379,223.66,40,"[""South Christopher"", ""West Scott""]","[""9defd1ee""]",0
+f7474965-9b32-4bc3-a8b9-44f83fedca94,John Schneider,1554,499.28,35,"[""Port Matthewhaven"", ""North Taylormouth"", ""North Craig""]","[""052d83fe"", ""0b2ef2a2"", ""5b03ee98""]",0
+99d9a3f5-d7db-4cc5-a2a8-bea9a6af6aa7,Timothy Marshall,2702,494.87,10,"[""Donaldburgh""]","[""73de1343"", ""ceb67ada""]",0
+703d29bf-8fca-482b-a2fc-c8f03b52de15,Joshua Price,1455,188.57,8,"[""Port Denise"", ""Harrisonfurt"", ""Heatherstad""]","[""da398e01""]",0
+b0f8330e-e4a7-4ef2-b4b2-1a9a25cbce7f,Emily Branch,1264,209.16,42,"[""Port Jessicashire"", ""South Tracyfort""]","[""e6e6b77d""]",0
+95e3eed0-099f-464d-9c55-055b21f98b45,Brittany Kim,1995,270.91,8,"[""Vickiland"", ""North Denise"", ""New Brandon""]","[""72ae578a"", ""cc956619"", ""39bf13f4""]",0
+c5bf4ecd-23ee-4741-a2b8-d756271b5845,Susan Taylor,2052,380.15,31,"[""North Seth""]","[""b2ac9cf8""]",0
+102dc869-1082-4442-8af1-b6fcc987ebb4,Timothy Thompson,2147,184.98,40,"[""West Eric""]","[""ddfe67b4""]",0
+cba153bc-bfb8-4cf6-b60f-e18a6b5ab614,Charlene Little,1217,225.74,21,"[""Wilsonhaven""]","[""566a9b6f"", ""539dada1"", ""f9616171""]",0
+a5ab806f-fad2-4169-8af8-615fd84de9ab,Matthew Wright,3386,299.59,6,"[""East Williammouth""]","[""e573ace6"", ""42816738"", ""3b20b7fc""]",0
+e1a830a4-d85b-4270-a9d6-97ad93625834,Alexandria Allen,1826,17.95,1,"[""Margarettown""]","[""221e6107"", ""9cecbb24"", ""6ecf741e""]",0
+473e5a05-a152-4ce4-b694-2cb3bfed331f,Phillip Lewis,3560,258.89,44,"[""Port Amy""]","[""11a44ed6"", ""2103b368"", ""8b99422a""]",0
+d942c195-7f62-4c2a-bb61-9bea280c466c,Timothy Silva,3620,165.0,21,"[""Johnstonburgh"", ""East Barbara""]","[""405fef71"", ""2dd20abc"", ""bd066746""]",0
+4b6a888e-fd5a-4eae-8dfb-50a3fb8ca8e9,Adam Morris,348,185.95,39,"[""South Rebekahtown""]","[""1dc76542""]",0
+be2ff775-351d-4ecf-a6e5-cccab03e2e56,Peter Salinas,255,410.21,36,"[""Port Kathy"", ""East Omarchester""]","[""ac6b85b7"", ""5bee833c"", ""39e84910""]",0
+ed6668e1-5150-468b-b82e-879396022aad,Ashley Clark,1706,407.51,13,"[""Michellestad""]","[""240df808""]",0
+bf7b009d-8a48-4192-ab31-9d45a8e084c1,Lauren Clarke,2498,358.26,8,"[""Christinemouth"", ""Port Wendyport""]","[""51e18e89""]",0
+195fcaad-a6e2-4aa6-9111-c3ee3ffc25d8,Robert Richards,2502,304.67,4,"[""East Katieburgh""]","[""ee6c89ec"", ""024f36fc"", ""3ecd167c""]",0
+e8f76521-333b-4714-85ae-d30d45ec4494,Michael Quinn,562,178.75,9,"[""Greerberg""]","[""9bd17441""]",0
+ebb9cbff-e909-4685-9df5-734feeb5e974,Robert Guzman,1436,339.51,36,"[""East Clayton""]","[""f293821d"", ""912ffa4c""]",0
+70a5dc1b-aadd-41e5-9db6-b745410cdc3d,Sarah Miller,2692,439.01,23,"[""Angelachester"", ""Smithport""]","[""5db5c547"", ""2d109388"", ""82fc99d5""]",0
+b3dd22df-c19d-4591-8a4b-76b73dde1a95,Amanda Jordan,2649,494.0,22,"[""Meyerborough""]","[""35a02752"", ""c0dc3d15"", ""b38347ac""]",0
+8de567e9-7fa5-4cbe-82ab-d2603011e2dc,Daniel Avery,1880,230.48,19,"[""West Gregory"", ""South Juan"", ""Walkerville""]","[""1614774f"", ""d558499a""]",0
+f76c8102-2dae-4c10-934b-08e467d632d8,Paula Wong,931,178.8,35,"[""Griffinhaven"", ""Kathleenview"", ""Martinstad""]","[""6443cab4""]",0
+aad83633-4f5f-4d80-a78c-3af8b9491ea9,Linda Hodge,3013,405.77,34,"[""Port William"", ""Lake Jeremychester"", ""East Andrea""]","[""3b999e96"", ""d3f91b91"", ""2582e044""]",0
+ee92cfab-80de-4152-9bcb-93071be98c5f,Alicia Sanchez,2605,358.54,8,"[""Longhaven"", ""North Robert"", ""Katrinaport""]","[""94262a4d"", ""bf297b74"", ""ff07cc29""]",0
+3e58fcd8-bd3f-4dec-8659-bdaf533bb64b,Emily Williams,3291,390.56,31,"[""West Phylliston"", ""Port Erica""]","[""3cd155b5"", ""655ea22e"", ""f4973239""]",0
+0687af89-00d1-4016-9ce9-9c04273d1e86,Micheal Garcia,1896,42.35,21,"[""East Samuel"", ""Collierstad""]","[""60957ac9"", ""b37bc117""]",0
+60c7c304-74cf-4ae8-a845-f0479f0f6ccf,Joshua Parker,1446,186.15,39,"[""Williamsshire""]","[""03e6f255""]",0
+90384639-4503-4aa8-ba1f-3b7c60a73e33,Rebecca Wilson,1305,400.15,9,"[""East Brandonmouth""]","[""14eefd98"", ""9d9f1d9a"", ""03ad29bc""]",0
+34acbec2-c52f-4f7c-9c3f-d4807eb1ee36,Lee Gonzalez,1437,34.01,23,"[""Stevensfort""]","[""fc41ba21"", ""44f8e08c"", ""1b44982c""]",0
+67a6e586-1b79-4d91-bb6f-db8ce462259b,David Turner,915,286.58,27,"[""Patelmouth"", ""New Mariefurt"", ""Lake Jason""]","[""dda18997""]",0
+ee95a66f-962f-4ae6-b6e7-7f2e7b53d991,Tammy Gray,1800,45.83,44,"[""Lake Peterburgh""]","[""0b52ed85"", ""9c65fbe9"", ""3a6313b5""]",0
+923263c1-a144-4a75-84c6-186cd8895ec6,Julie Hughes,2610,493.54,9,"[""West Nicoleview"", ""Banksside"", ""Amandafort""]","[""b662e57b"", ""58d17d1f""]",0
+db26e05d-7812-42fa-a1eb-c97cd66ba372,Joy Miller,211,339.82,2,"[""Travisshire"", ""South Benjamin""]","[""8d7f152d"", ""9996a8a0""]",0
+f473ecef-af58-44eb-9379-8063750ed4ae,Richard Barton,1854,70.39,44,"[""Port Edwin""]","[""c6277639"", ""06e3a2f9"", ""1eabae5e""]",0
+bb3780e0-72b3-4efd-9398-6a73dcd12755,Andrew Hawkins,3180,153.83,11,"[""North Christopherhaven"", ""South Robertbury""]","[""84f23ad2""]",0
+41a01491-0f10-46a9-95fb-41430836a1df,Kevin Patel,1109,228.01,36,"[""Melissaborough"", ""Justinchester"", ""Lake Louistown""]","[""7c944561""]",0
+0c36c6a2-1e9a-41d6-aa2a-e4068c216347,Robert Wall,2695,82.86,19,"[""Port Cynthia""]","[""88b26e2d"", ""8f48dc82"", ""2633d2ef""]",0
+4026605e-1350-4c04-a4f1-231cbdb97bfb,Ann Walters,2064,429.47,13,"[""West Donnamouth"", ""Jonesside"", ""East Jesse""]","[""81cd8ba3"", ""2db5a9ac""]",0
+618c82a7-a227-4b3f-8740-8aac93385d56,Becky Rangel,3164,214.15,49,"[""Jamesbury"", ""Maysburgh"", ""Chasechester""]","[""49ca4aa0"", ""1b69b939"", ""a2905a55""]",0
+eb60d27e-f28e-4eba-bd12-1fd6dfa131d1,Patrick Stone,1775,20.19,12,"[""Bergertown"", ""Mccarthychester"", ""Port Michelechester""]","[""ec6c96e6"", ""d5dd9fc6"", ""9897b7ab""]",0
+5d03f6b0-4519-489d-ac2a-e5a2f445eada,Johnny Spears,149,264.27,34,"[""North Donald"", ""South Marymouth"", ""Kendraside""]","[""cfbe81b5""]",0
+34f17a98-82ae-40d9-927a-a5cfe5986f71,Wendy Lopez,2352,158.36,11,"[""Richardburgh""]","[""6aeac2a3""]",0
+65fa0f8f-510c-4cc0-bef0-e26244e88c8b,Laura Anderson,329,303.39,17,"[""Mcdonaldfort"", ""West Nancy""]","[""1b83eecd"", ""cb5fee25""]",0
+04f3d258-8508-4420-984a-9fc3829daeeb,Eric Jensen,2727,17.58,30,"[""New David"", ""East Gloriaberg""]","[""64dd4144""]",0
+60daafa2-b71b-4d58-b436-cabcc0169112,Matthew Jones,1873,239.63,36,"[""Jeffreymouth"", ""Reeseberg""]","[""1277bad3""]",1
+643092e3-3484-4ed4-9d5d-6d7d0209c4a5,Timothy Steele Jr.,1638,421.17,25,"[""Brendafort"", ""Johnsonberg"", ""Lake Sydneyland""]","[""69084a53""]",0
+9b16f54b-b316-46fa-bcda-1a637775e1ae,Stacey Nelson,2306,365.01,9,"[""Port Rodneymouth""]","[""1662b427"", ""13041148""]",0
+45ffc129-8f3c-48e9-91d9-fda22cfb789b,Sarah Farley,944,147.08,10,"[""Nashport""]","[""de050865""]",0
+bbf84468-e0e4-4764-a40e-b4e0581959cf,Ashley Smith,3437,383.72,2,"[""Snowborough""]","[""8fe62aa3"", ""dcef9d9c"", ""60c9bf5b""]",0
+2e0a5a8e-6d7b-44ab-838b-b033e08be510,Jeffery Fischer,3027,330.49,24,"[""South Michaelville"", ""Lake Drewtown""]","[""f77b8387""]",0
+6c65ee76-d775-4d2f-8074-1858bdbc636e,Drew White,835,179.54,7,"[""Ricefort"", ""South Erika"", ""West Barbara""]","[""8fba7b69"", ""53348ed0"", ""84cc48cd""]",0
+bfc1407d-6b22-420a-9b5d-415578b81d42,Sheila Robinson,1144,483.65,12,"[""West Marvintown"", ""New Seanshire""]","[""fbab59ae""]",0
+983abddf-0f38-4fce-b6be-fdbc22c54345,Rachel Richardson,3194,396.47,38,"[""North Gregory"", ""North Jessicamouth""]","[""a4d2da03""]",0
+2a5deb4d-64d3-47c1-8d92-4ca13dfbc90e,Mark Carroll,186,415.46,49,"[""Kennethberg""]","[""5c0cdcd1"", ""1f12d255""]",0
+e46fb3c0-f972-4eb1-8fdc-a4621259b5c7,Juan Wolfe MD,1343,390.02,44,"[""Rossborough"", ""Bryanport"", ""South Kevinhaven""]","[""e6ee02cc""]",0
+60946cbf-966c-4dec-af97-b5e785bb6ee1,Charles Suarez,2202,322.66,9,"[""Alexaburgh"", ""West Lydia""]","[""196e876a""]",0
+96289010-fe74-4868-95f6-9fb33082c03c,Jennifer Graham,698,356.54,38,"[""Kelseyfort"", ""New Anthonyfurt"", ""South Chadchester""]","[""2aebc7e2"", ""07a1709f"", ""2413951b""]",0
+d79f8f68-690c-4fc0-ba34-8f33edec7d0d,Anna Cummings,1022,452.79,45,"[""Aprilchester""]","[""aa1e2ab7"", ""21cd2f8a"", ""82e0d0bd""]",0
+3344c151-5138-457b-b438-6ad38b4a8466,Jennifer Orozco,2790,470.91,32,"[""Port Carlchester"", ""Kristinhaven"", ""Gonzalezland""]","[""379b6550"", ""fd709db2"", ""0a1cb383""]",0
+98a92ad9-0ed9-4241-a0bf-21e72cbeb87a,Mary Murray,1835,361.85,30,"[""West Ashleyborough""]","[""c0419184"", ""9f83a778""]",0
+e22514e0-19e3-4233-841f-ae6b93f392be,Willie Mitchell,20,334.27,24,"[""Mcintyreton""]","[""ab06aa62""]",0
+9ef72207-67cc-490e-8bf2-992b0ef7c8f3,Dustin Howell,1984,179.54,10,"[""Henryton"", ""Antoniofurt"", ""West Marktown""]","[""4663d35d"", ""c3f57627"", ""27690764""]",0
+2465b8e4-62b4-4533-86c9-83d39e17d8c2,Matthew Suarez,2105,411.81,6,"[""Shelbyview""]","[""61aec5cc"", ""e0a269c1""]",0
+20b79da0-3b87-4b3b-bbf8-e32f83212bb1,Miranda Parker,1270,186.03,1,"[""Millerfort"", ""Richardchester"", ""Lake Michaelview""]","[""609cdb89""]",0
+b87e23bf-13c6-4e65-93ac-6e3bc29b827e,Makayla Smith,1246,338.02,43,"[""East Monique""]","[""62020305""]",0
+2dbeea8b-4906-4036-aa2c-d27dbfddaef4,Lauren Mendoza,2772,196.36,17,"[""East Barrychester"", ""Jillland""]","[""cf81fab4""]",0
+b2aa3d0b-4188-4d5d-bbf7-0ad7a2971793,Carol Martin,3353,97.27,10,"[""South Robertmouth"", ""Torresside""]","[""ce655d41""]",0
+e88ed173-2bea-45bb-aeda-de712740848e,Joseph Perez,3442,138.27,32,"[""South Derek""]","[""4eed02c9"", ""80e82379""]",0
+4bbfb818-4e20-43c8-ae16-503b9cecbd7c,Steven Chapman,1638,324.93,41,"[""Martinview"", ""Ortizbury""]","[""70254f01"", ""65701c68""]",0
+325e6411-a31d-4622-a6c1-70b33ab99299,Marilyn Murphy,2689,361.66,11,"[""Port Richardbury"", ""East Derek"", ""Markville""]","[""35b5f12e""]",0
+130a9442-0fb3-473b-b7c0-9181fccfdbae,Pamela Atkinson,2774,380.28,46,"[""North Dustinfurt"", ""Port Reginaburgh""]","[""3d8e0cbc"", ""1f9a1044""]",0
+ec496796-15b9-47b6-a1f5-9b73c3d8d0aa,Devin Lopez,1582,426.8,45,"[""South Paulaberg"", ""North Jacquelinemouth"", ""Port Manuelmouth""]","[""a395deed""]",0
+4ee4487d-e455-4580-a2c9-01263c5784d8,Devin Banks,2219,289.78,23,"[""West Tammy""]","[""13a6358f"", ""0b5b9fb7""]",0
+9a1998d1-7674-4a85-9bd3-108be11325b7,Maureen Diaz PhD,2172,498.54,21,"[""Andersonhaven"", ""South Matthewbury"", ""Kennethland""]","[""95b046bb"", ""50321952"", ""d21bd812""]",0
+7bb542c0-ce61-4594-8f51-31526b4aeb50,Joseph Mendoza,1960,190.86,1,"[""Bethanybury""]","[""89d47c37""]",0
+e5a5be42-880e-408a-8d9a-d68f2777d385,Joseph Rose,3160,199.0,3,"[""East Carolynborough""]","[""15fec954""]",0
+c23a3967-0909-48ff-b39d-02a9650073cd,Deborah Flores,1342,77.34,38,"[""North James""]","[""85b82b10"", ""dd64e341"", ""a3ff94f8""]",0
+02b7cb11-0a11-45ec-92ee-c72c9641da86,Joshua West,393,168.43,32,"[""South Johnmouth"", ""New William"", ""Mckenzieborough""]","[""ee6f5551""]",0
+a37c67df-c662-44e6-affe-00152a108d88,Kelly Reeves,3346,174.0,47,"[""Jamesmouth"", ""Lake Rose""]","[""21d9eef3""]",0
+df3723bd-527b-43db-bd0f-6552f8c972d1,Leslie Alvarado,2029,49.25,45,"[""Port Sharon"", ""Williamsshire"", ""East Christine""]","[""c418759a""]",0
+122d81fc-883f-4e93-8d8d-fb8949bd5fe5,Jessica Meyers,3212,22.75,31,"[""South Christopher"", ""West Denise"", ""Josephshire""]","[""f6d54ab6""]",0
+9824c87c-d684-424d-801b-a1eece387f09,Brian Brooks,1733,396.87,34,"[""North Joelland""]","[""34ffc4d8"", ""ac6016a7""]",0
+511946b1-f527-41a6-b1c1-399a7603c16d,Daniel Mckinney,2769,434.47,17,"[""New Arthurton""]","[""ba375af6""]",0
+4a78a11e-e3c1-4ebe-a115-e08d933752ca,Amy Park,3488,59.78,39,"[""Michaelborough"", ""Cookbury"", ""Mitchellhaven""]","[""39f32136"", ""d0b06315""]",0
+6ef9c4c6-6c9b-4c1a-b5fa-93596085b867,Melissa Cervantes,2026,338.68,26,"[""Port Whitneyhaven""]","[""43f3acec"", ""bbc4aa83""]",0
+d0f32d23-bfc9-4446-a8da-fc4ab229ba60,Donna Mitchell PhD,2302,381.72,15,"[""Lake Maria""]","[""29cc7536"", ""5911e347"", ""c20a14bd""]",0
+0f19a3d7-c399-4af7-87e4-3cb7a99750b1,Benjamin Franco,3138,219.16,44,"[""Richardsonberg""]","[""e0733a86"", ""285b8a93"", ""2f83f743""]",0
+d6693527-be05-4104-8614-bb2623697077,Regina Evans,444,92.74,28,"[""Christopherburgh""]","[""7e8084d7"", ""183a0d44""]",0
+7ed636f4-ccb6-4414-9ae9-1b21eaa6e18f,Nicholas Howard,536,297.99,4,"[""Shermanhaven"", ""Turnerfurt""]","[""e087fdf4"", ""c110a201""]",0
+ab67e2ab-3365-431c-ade4-dbdf4dcc305c,James Brewer,1130,371.52,10,"[""Davidville"", ""Sherrifurt""]","[""65985c03"", ""eafa482a"", ""080ff484""]",0
+1fd2a0af-7f21-47bf-bb6e-b8778e71bc39,Mark Jones,2561,55.66,8,"[""Kristenstad"", ""South Julia"", ""Ashleymouth""]","[""3e042e59"", ""9aea366c""]",0
+b3c16c23-4559-41ed-9bfe-865f1f947de3,Virginia Grant,2634,94.46,48,"[""South Briannaside"", ""Cooleytown"", ""Jamesburgh""]","[""b2c41da0""]",0
+e69a8eef-7af5-4f8c-93e5-cf36c8c40bcb,Christopher Rogers,1057,438.96,6,"[""East Charles""]","[""38646b72"", ""0fb27d96""]",0
+bb21a9e0-e8d2-43d7-ae47-b4938239a87d,Amanda Watts,18,476.22,12,"[""New Briannastad"", ""Port Jasonberg""]","[""e395607f"", ""37d6150e""]",0
+d5eaf035-fd89-42c0-b8da-03973b433f60,Jennifer Buck,2736,398.65,5,"[""Lake Michealburgh"", ""Ianport"", ""New Monica""]","[""0345bc50"", ""39a972fe"", ""571a186a""]",0
+30a136dc-5585-41a8-8256-47fc8ccbd137,Shawn Nelson,709,95.23,39,"[""Chaneymouth"", ""Williamborough"", ""Bryanville""]","[""d8635a11""]",0
+c2b4c7fa-53c7-4ae4-a9b9-2d42341a00cf,Andrea Price,2758,236.24,47,"[""Anthonyshire""]","[""fcf61035"", ""a8c1ce88""]",0
+7cd86346-a9cc-4c48-a039-22a835509bee,Kristen Reyes,2380,438.99,20,"[""North Matthewview"", ""Fritzstad""]","[""3f00069e"", ""3b8df0c5"", ""f54e1d72""]",0
+acd6678a-b34e-4003-8337-fb78655a956e,Bryan Stephenson,3273,280.33,2,"[""Jacobburgh""]","[""86eb232a""]",0
+b777ba58-af0b-4e91-8d48-37a7f0a97491,Robert Wright,630,62.57,44,"[""Lisafurt"", ""Edwardstown"", ""Yorkstad""]","[""a4d54fa9"", ""fbde0376""]",0
+1616daeb-6662-400f-af9d-59e913a7d3b6,Jodi Barton,2979,250.2,37,"[""Trevinomouth"", ""Alexanderberg"", ""Lake Joe""]","[""a3d98567"", ""2c48c728""]",0
+fce2ef41-7dbf-4cc0-8c8f-4f994d229187,Mary Conner,1877,325.64,37,"[""South Monica"", ""Nathanielmouth""]","[""cdba5f48"", ""229c454d"", ""d06e4861""]",0
+4fed1a48-7728-4204-8c61-b11010143e65,Michele Beltran,654,218.96,42,"[""Lake Brandy"", ""Kathrynside"", ""Bendershire""]","[""1f041f91"", ""3be3b909""]",0
+bdb24a3d-bff3-44ef-9916-8b197a967d79,John Sandoval,1470,194.54,11,"[""New Joan"", ""Dianafurt""]","[""6562cc7a""]",0
+7dedadf0-4c67-46a9-a094-199d5c78901e,Erik Lee,2614,257.1,18,"[""New Christina"", ""South Dennis"", ""Sophiafort""]","[""bd3c1505""]",0
+10f4e1fe-1451-4054-b317-4ac170a4477e,Amber Chaney,873,183.88,23,"[""South Jefferyburgh""]","[""6ab5ebad"", ""1a930d1a""]",0
+5349fc1a-860a-4149-83ee-369f436fe6ba,Eric Schneider,1134,488.98,14,"[""Lake Johnview""]","[""aae2dafd""]",1
+b08467da-dc88-4df9-802c-6ad9861b6f0e,Nathan Hill,1322,38.99,12,"[""Sarahton""]","[""66228451"", ""e7088d81"", ""c282af6e""]",0
+6428fb82-915b-4260-a144-26cd0d871e3f,Jennifer Smith,264,338.51,21,"[""Lake Annashire"", ""Port Rebecca"", ""Washingtonmouth""]","[""9836aa64"", ""702c6e37"", ""c77b2dd1""]",0
+97e93662-7591-47f9-986e-86ec912e04a4,Elizabeth Blackwell,3465,78.36,35,"[""Simonmouth"", ""Port Tiffanystad"", ""Fergusonside""]","[""b22caabb""]",2
+e3046593-e64f-4de8-b4b9-7518445580ba,Brett Williams,1932,26.34,9,"[""Lake Michaelhaven"", ""West David"", ""Matthewville""]","[""ea6743d7"", ""66d2a753"", ""851d3d52""]",0
+249ee102-843b-4763-a46c-c397546b404d,Dr. Jeffrey Howard,533,414.49,7,"[""Baileymouth"", ""Johnsonside""]","[""e5c43745"", ""28a6977c""]",0
+f1ef7e14-b3f5-4132-b3a6-abea80871552,Michelle Miller,683,20.77,35,"[""Mcconnellside""]","[""43535eb1"", ""a7a32fdd"", ""3644ee7d""]",1
+39578071-0aa9-44e0-bb0d-fc8ba0785ee2,Jennifer King,1969,309.38,40,"[""Josephchester"", ""Lake Andrewberg"", ""Grossville""]","[""058352d0"", ""a034660d""]",0
+10ab867a-60c2-43ac-861a-4c2ee53fa3a1,Jennifer Walker,3414,244.11,43,"[""South Rachelhaven"", ""Lake Ianville""]","[""350265b6"", ""0ee84998""]",0
+54a43228-dde8-4693-bb30-570b3eab9a62,Tina Burke,9,435.48,30,"[""Lake Juliemouth"", ""Stevenfort""]","[""4bda8553"", ""6587c7f2""]",0
+1a2160c0-4cbf-4acb-abe6-6db599da5b9d,Ashley Stewart,1803,425.85,45,"[""Jeffreyberg"", ""Heatherton"", ""North William""]","[""7b731304""]",0
+bc8c252f-3021-49f9-b492-2a325d4b5dc8,Steven Harding,1903,67.31,23,"[""Brownville"", ""Port Maureenshire""]","[""04ebe05d""]",0
+1597cda7-b7a9-4ea4-9e4d-9ddd24a23271,Dana Johnson,370,298.01,10,"[""West Jenniferberg"", ""New Taylorborough""]","[""12f71267"", ""d770360f""]",0
+f3de45c8-ea4d-4a18-b159-6f06b3ab932e,Lisa Hansen,1796,324.35,5,"[""Lake Davidberg"", ""Port George""]","[""60f41716"", ""6c2e9830""]",0
+e068cb2f-950a-4080-8680-d9628fe312be,Christopher Scott,1764,11.1,43,"[""Elliottburgh"", ""Rasmussenton""]","[""e0a830a9"", ""42b97649""]",0
+a81fc624-23a6-4d5b-adc8-c76f7c0eec28,Julie Harper,3395,59.15,4,"[""South Shelby""]","[""5aa9aa49"", ""edc5534e"", ""ac90784c""]",0
+c9eca942-f6f1-4c10-9d42-0de9457762c5,William Morris,2290,393.96,45,"[""Lake Jessicaborough"", ""Garciaview"", ""Lake Brittneymouth""]","[""60084d9e""]",0
+ad570705-29dc-44b9-96ef-c38d05ad7c5f,Jeffrey Reed,3010,298.09,32,"[""North Lindaside"", ""Port Jeremy""]","[""bf661f0f"", ""0c65da98""]",0
+a3b7df80-c796-416b-8020-7e2daeac5394,Megan Pena DDS,2499,470.93,34,"[""East Diana""]","[""1dcc5047"", ""488c2b4c""]",0
+0c5cc276-daf1-48f5-8b79-1897eb582b1c,Allison Taylor,1632,484.67,30,"[""North Jessica""]","[""a56bd802"", ""d63618d8""]",0
+95c8171e-b804-4c81-a346-22b0f6b43b8b,Jeffrey Williams,702,192.96,25,"[""Port Stephanietown""]","[""bb54879a""]",0
+49353f4c-5f03-463d-93a2-14078df8a1cf,Bonnie Garcia,1766,481.64,24,"[""Troystad"", ""Cruzchester""]","[""33891f08"", ""18f0833a"", ""c50e4bc7""]",0
+3f91a887-f3dc-4fd3-8917-b0c7f1112717,Sabrina Davis,1041,121.39,31,"[""Wilsonville"", ""Port Ryanfort""]","[""2976af8d"", ""e33ca13d""]",0
+9471e606-1c9f-4dd4-b1ed-8689384e3144,Vickie Taylor,1587,19.7,8,"[""South Douglas"", ""Fordbury""]","[""2ceaef1a""]",0
+57e87435-e522-43fa-a1fa-bda884f58450,Jesse Adams,3268,381.46,15,"[""Lake Judith"", ""Kelseytown""]","[""e4a3a793"", ""ba1ef40f""]",0
+70c89684-0c9a-4751-be10-133a47fbf978,Dr. Kelsey Brooks,1052,131.64,19,"[""East Linda"", ""Katherinemouth"", ""Sextonstad""]","[""a080c9f6"", ""6859ca10""]",0
+024b1774-0b4f-441c-8a80-b00be176bc45,Eric Ayala,584,215.71,10,"[""Port Andre""]","[""1f0b4550""]",0
+32de52a3-71a8-4f9c-bb8b-0ac6d24cbd8b,Evan Morales,2366,181.78,8,"[""Lake Isaac"", ""Tylermouth""]","[""d086ec61""]",0
+4fb0be3d-21f4-4167-b500-3394384176e3,Kimberly Webster,164,484.12,27,"[""East Ernest"", ""Port Tyler"", ""Lake Brandon""]","[""a1af46cb"", ""b5bb6447"", ""bdea3788""]",0
+575ac6de-1cf2-4b25-9008-7a35cd697f9f,Kristie Aguilar,1116,356.1,18,"[""South Andrewmouth"", ""New Stephenfort"", ""West Carlatown""]","[""4e29405e"", ""40a1fbe6"", ""676f604b""]",0
+a08c9a94-ced4-4e8e-b03b-b8d188971b9f,John Combs,1791,128.16,24,"[""West Veronicaberg"", ""Deanberg""]","[""a04a556c""]",0
+16886121-4b9e-43cf-bce4-116d88d396ef,Amy Butler,2062,167.82,31,"[""Port Russell"", ""Shortville"", ""Port Markview""]","[""5021b0ce""]",2
+26780289-bfb2-40be-91ab-ba4d59bf7add,Omar Becker,1389,421.22,13,"[""North Tommyborough""]","[""44731139""]",0
+894e2c0d-10ac-42f2-800b-1532196af62a,Diane Blake,2356,265.01,38,"[""Romeroville"", ""Ramirezland"", ""Chanside""]","[""68f5c19e""]",0
+d5ba270b-01e3-4261-8d56-2a9c4d8bc780,William Lewis,2132,272.26,30,"[""East Ronald"", ""Middletonborough"", ""Lake Madison""]","[""5b29aa90"", ""51e24447"", ""8f6bb86c""]",0
+f723e86f-ecb6-438a-9f39-6fd7295ef975,Thomas Smith,3165,58.65,14,"[""Millschester""]","[""8beb47e4"", ""069cb54a""]",1
+6959e008-f66a-475c-8343-ecc2c8c45264,Felicia Johnson,2160,365.01,34,"[""Port Cathymouth"", ""Lake Jeremyland""]","[""a068e60f""]",0
+3a50a383-5c12-4714-999a-f6c725096ce5,John Leach,1970,499.01,3,"[""Gibsonland"", ""North Andrew"", ""South Brandonside""]","[""287f6c59"", ""bc451bce""]",2
+43027b6f-60c0-40f0-ba64-8ac33a78273c,David Elliott,2339,26.1,17,"[""Markbury"", ""Byrdborough""]","[""bc04be45"", ""6d3eca23""]",0
+045d9920-736e-4dff-b7e5-cba10db64473,Vickie Brown,2710,405.52,4,"[""Vasquezburgh"", ""South Brenda"", ""Lake Karen""]","[""1ef25b84""]",0
+1f16afae-9969-4278-be14-cc9308094ac5,Wanda Garcia,2655,298.82,6,"[""Mcdanieltown""]","[""af23ea96"", ""aa7654af"", ""61d96460""]",0
+907dc502-9f19-4174-8396-00a47676cea5,Bryan Walker,2285,14.76,11,"[""Espinozaland"", ""South Kristin"", ""West Kylemouth""]","[""0c55e16c"", ""eac0ea24""]",0
+29b87a59-bbd1-4ef6-8a44-46c977f4930e,Stacy Diaz,3113,152.98,47,"[""East Morganfurt"", ""Jamesview""]","[""22427ead"", ""065181e2""]",0
+a9f2b33c-a21f-45a9-b93a-1ed996479892,Joshua Williams,787,83.82,35,"[""South Kenneth"", ""Lake Maria""]","[""5b62e664"", ""94bee5c1""]",0
+4253e490-864e-47eb-b887-38face301eca,Sarah Mendoza,547,201.95,3,"[""Jordanborough"", ""Port Kathyland"", ""West Zachary""]","[""692357a6"", ""14b04e38""]",0
+b8029b51-3721-434a-99f5-4d350d3f470a,Emily Gates,2127,38.22,20,"[""Scotttown""]","[""b0e53a42""]",0
+7aaaf0d5-6a29-447d-a07c-db077042c4f4,Crystal Jones,2982,451.2,30,"[""Lake Maria"", ""Robertmouth""]","[""e4c1a3b6"", ""1f2eebb8""]",0
+e1d27654-470d-44d1-bd8c-e046a94c1505,Tyler Miller,3108,151.53,24,"[""Hopkinstown""]","[""c1ff6dab""]",0
+89598e96-2ccb-4c0a-bc6e-269c2bc096d9,Wendy Thomas,2936,94.46,28,"[""Gabrielletown"", ""Lake Emilyport""]","[""906a69fb""]",0
+aa608aea-7047-4853-9afd-db7fc6999fff,Christopher Freeman,2125,43.43,40,"[""Guyhaven"", ""North Meghanburgh"", ""Davistown""]","[""ff7a178c""]",0
+202cc793-df65-471e-8cd8-5cde2b949ffe,William Williams,3347,325.34,19,"[""Wellsborough"", ""South Deannamouth""]","[""9ddfbea5"", ""65e5d4c6""]",0
+d5e5a4dd-89c9-4916-9d1c-57b3740bfabc,Joshua Clarke,1578,398.22,34,"[""Christopherstad"", ""Donnaton"", ""West Erikside""]","[""0d354364"", ""38aa7d79"", ""980d5c1a""]",0
+2d32a275-c5a9-4b68-af1c-38ca4b08eeee,David Suarez,768,308.2,44,"[""Port Mariofort"", ""South Amy""]","[""6ea6d5f4"", ""af6ca7b8""]",0
+122c08c6-d20c-4aef-b12a-187c8229247d,Jason Floyd,1438,391.6,29,"[""New Jeffreyfort""]","[""0d3f9239""]",1
+8127b6f9-b4aa-4bd6-801a-2981e6fefa81,Neil Lopez,173,459.01,28,"[""Michaelview""]","[""5ee65ee1"", ""420df5b1""]",0
+3d2e6cd7-59ba-467e-bf72-22ec77635bc8,Natasha Carr,3077,100.82,38,"[""West Justin""]","[""f31d44df"", ""1aacaee3""]",0
+f47fb756-af0b-4fbe-a66d-613bcf73b395,Melissa Odonnell,409,331.67,1,"[""West Katiefort"", ""Lake Alexandrachester"", ""New Lawrenceburgh""]","[""4db6c376"", ""ab1ecfab""]",0
+95112bed-ed7e-40b1-a82e-db2dfc986fbd,Stephanie Anthony,400,102.4,48,"[""New David""]","[""850dce22"", ""e45de2b2""]",0
+7d9b9b5f-5b8e-4b90-9b84-e6c5f3bd1eb7,Joseph Martin,2399,240.56,40,"[""Lisatown""]","[""07499f25""]",0
+159fe1de-1fa8-468c-88fd-5f0c2e99d105,Brett Rivera,3380,94.17,45,"[""Espinozaberg"", ""Nguyenstad""]","[""b02b2c60"", ""728cad2b"", ""3dcc424d""]",0
+d47a13ed-6f31-4cc3-9a78-7e40e2b9e759,Monique Morgan,1505,276.35,25,"[""Colemanview"", ""Amandahaven"", ""West Chad""]","[""d872232b"", ""99317d05""]",0
+b586adbe-2403-48a3-a050-1ebe4bd804e6,Stephen Carpenter,2513,192.52,42,"[""Blacktown"", ""Port Raymond""]","[""560d5c92"", ""5175310c"", ""2a42b718""]",0
+80eab379-052e-4837-9397-abdb95abe00f,Samantha Baker,2260,338.92,13,"[""Lawrencehaven""]","[""b55c9cd8"", ""d70c3f08""]",1
+819a942e-cbf2-4f88-9024-d7111dec6ac1,Matthew Craig,1154,22.96,8,"[""New Alec""]","[""69a833a9"", ""d6f93d5f"", ""23bc7adf""]",0
+a261ddcc-2fe7-49ca-9ccd-f4110a39f8b5,Lori Daniel,1943,39.95,26,"[""East Vickie"", ""Butlerfurt"", ""North Jefffort""]","[""515c47bd""]",0
+9267f1d6-dce8-42bc-b04d-a412167064d1,Fred Cox,67,347.14,13,"[""North Jennyshire"", ""Lisabury"", ""West Elizabethhaven""]","[""4f701485"", ""7a1631af"", ""251bde68""]",0
+8641b9ee-55f3-454b-9d60-992c9c77f2a9,David Parker,3225,10.82,21,"[""South David"", ""Juanchester""]","[""caf968ec"", ""39d5d287"", ""d865d824""]",0
+b1d0b450-f885-4cb3-8834-98170b2d86e1,Jamie Gonzalez,1497,414.98,50,"[""West Juliaton"", ""Ortegafurt"", ""New Danielborough""]","[""f82bcd20"", ""81dbfcc3"", ""a6a7f8b2""]",0
+e6d693d9-5d6e-44b4-a4d0-5346151a2b88,James Vasquez,2682,63.13,42,"[""Smithfort""]","[""a4b4d1f2"", ""ff99d186"", ""dae5252a""]",0
+68130f06-215b-404a-a99c-77f1b9d904d5,Rebecca Leonard,1032,165.8,17,"[""Gilbertmouth"", ""Figueroatown"", ""Millerport""]","[""afc400a1""]",0
+6f023970-e759-447d-bb8e-b6c1224593c7,Jason Brooks,1355,426.42,14,"[""Fisherberg"", ""Port Matthew"", ""Jesusfurt""]","[""d959e119"", ""e0db5a9a""]",0
+2501d414-ab06-478c-8858-9d928e089da5,Adrienne Ritter,3134,102.86,1,"[""Jonesshire""]","[""bfcb53d9"", ""e8e06803""]",0
+275630d9-1890-4e50-a3f6-86af9c82bb56,Todd Davis,1028,323.38,26,"[""Stephanieberg"", ""Port Sarahmouth""]","[""cc09b138""]",0
+24ef6747-52f3-49e4-8bb1-ff1d9af73d9a,Todd Tran,3059,400.07,37,"[""Hardyburgh""]","[""fea9155d"", ""0d9955b0"", ""2915c9cc""]",0
+8690e320-1c40-40ab-8030-71f0125087e1,Mitchell Walsh,314,322.02,24,"[""Lake Laurenchester"", ""Port David"", ""Warrenview""]","[""238ecbf7""]",0
+bb21294a-26a3-47bd-8962-99ecc2ba7f7d,Daisy Evans,435,309.01,38,"[""Jacobsonburgh""]","[""3920cd49"", ""3cd40dc5""]",0
+38934d4f-5f25-46dc-9bf7-c6ddb0b10030,Jeffrey Cisneros,1805,490.32,49,"[""Port Donnatown"", ""East Stephanie""]","[""609b4410"", ""88b48b9f"", ""b1cbe3a6""]",0
+fcfb5799-d7c5-44e7-8ca0-e7677da38c7a,Allen Johnson,2473,143.26,15,"[""Blevinsstad""]","[""8bf19874"", ""7fffefe4"", ""f50d8c2e""]",1
+fea0a697-fe72-43a2-96ef-e400182ad530,Teresa Russell,1463,178.8,32,"[""Kathleenshire"", ""Port Philiphaven"", ""Juliaberg""]","[""73e4a885"", ""2f7b2d60""]",0
+82a137fb-2a75-46fd-9624-3a08af4eed6f,Kimberly Graves,2430,106.67,4,"[""Ianview"", ""East Jeffreyburgh""]","[""f4568dc7""]",0
+cffa33cf-5151-45f1-b9fd-ab4f8b4b136d,Melanie Page,966,54.62,12,"[""East Josephview"", ""North Brittneyshire""]","[""c52222b4""]",0
+744219b1-f4a0-42ed-9bcf-0fe94fe6827b,Richard Morris,1855,234.26,28,"[""Andersonborough""]","[""5ea07cfb""]",0
+f1457ff8-02d0-46ce-957b-37cd23fb64ab,Rhonda Lamb,1832,177.96,50,"[""South Carrie"", ""Evansview"", ""Ronaldburgh""]","[""dc8388fd""]",0
+91d1f42c-5f9c-44d5-a30a-bfa35458e1a0,Mark Taylor,3520,162.22,3,"[""Laurenborough"", ""East Heatherland""]","[""74a55215"", ""d2cd42b8"", ""6b4c24d2""]",0
+97350dee-086b-4e45-9ee5-c3fddbea94f0,Rachel Scott,855,133.14,12,"[""Averyhaven"", ""Sheilaberg""]","[""634a8f51""]",0
+dc0955d9-b220-4082-add9-efd4be9f2025,Thomas Anderson,906,103.07,49,"[""Daltonview""]","[""e0714ac1"", ""f16d566c"", ""7a940eba""]",0
+b50e96e2-ea87-4cab-8724-787d23c9dcca,Rachel Brown,3441,179.92,34,"[""North Michaelland""]","[""105aee9e"", ""4f4b2d9e""]",0
+436694bc-bcb2-4f6a-8610-210d3458d299,Jacob White,1523,311.34,25,"[""Gregoryhaven"", ""Boothmouth"", ""Danielland""]","[""e19a3be9"", ""6dae8592""]",0
+7895cf3c-abff-47b0-b5d0-b65d1d0cccc3,Jasmine Haley,727,384.37,19,"[""Lake Dwayne"", ""East Christopherberg"", ""Marcside""]","[""2eb4484a"", ""71fd3961""]",0
+b611fd1e-5e21-4887-9845-7f03d7af611e,Dustin Flores,1090,290.32,36,"[""West Deborahmouth"", ""Smithville"", ""Lake Evelyn""]","[""c24a913b"", ""1caeac39"", ""2be96fa9""]",0
+2e6758d2-a794-42b9-a893-353d9deba11b,Michele Williams,53,492.93,50,"[""North Jamesborough"", ""Zacharyburgh"", ""Teresaton""]","[""dd7cc328"", ""c97a6c7c"", ""c4a6f9f2""]",0
+5f469470-f2c2-4394-975e-961a98f255a6,Martha Riley,336,498.25,9,"[""Kevinstad"", ""Pruittfurt""]","[""6dd5c788""]",0
+e612d69f-54c2-41c1-89f2-17031fcb11c8,Lisa Beasley,1096,73.2,16,"[""Pattersonmouth"", ""West Jessica""]","[""48c610c2"", ""5428311b""]",0
+fec5f1e4-14a6-4d77-a532-c1f0584eef56,Tara Bradley,1369,429.67,9,"[""Patriciastad""]","[""350ed192""]",0
+cfab2029-fca7-4022-aa89-674c37f95032,Louis Welch,1297,462.62,23,"[""New Lisaland""]","[""ddb3a67c""]",0
+c41bf8be-6f15-409d-9dfa-6a89f54c9858,Martin Bell,449,440.12,2,"[""Ballardmouth""]","[""659ce403"", ""0d70bc76"", ""31930a4d""]",0
+4f7e73ed-b36d-4b05-9014-3ff8914de87b,Cheryl Rodriguez,3230,206.66,49,"[""North Tylertown"", ""Evansbury""]","[""26ce271b"", ""f6fca58c""]",0
+aba57560-64b4-4832-abd6-ff891038980f,Stephanie Lowe,3618,364.69,3,"[""Vasquezmouth"", ""Lucasview""]","[""c0168f95""]",0
+9b45cbbb-b130-4380-9cce-e8453a615a30,Colin Chan,3450,415.93,6,"[""Reneeside""]","[""955e960e"", ""98562ce3"", ""356d45cc""]",0
+8f11fa53-e199-45ff-b881-464ae2e82ffc,Ian Yates,613,81.29,34,"[""Robinsonchester"", ""Brianhaven""]","[""196bb184""]",0
+dadf8798-7f5a-4b96-b492-ca293af8cf3d,Bruce Jackson,367,427.31,28,"[""Lambmouth"", ""Benjaminview"", ""Fisherside""]","[""a142f4fb"", ""3b20f34b""]",0
+b96a34c3-2fa7-4218-82b2-52fdec48c422,Angela Zavala,985,53.2,9,"[""Stephensonbury""]","[""935f87fe""]",0
+7218c317-bcd4-43c6-9ed5-5b827204b0d1,Mark Russell,261,224.14,3,"[""Ericside""]","[""a66d951f""]",0
+7ef67e29-5c6c-43b1-ba3a-8dad325dec8b,Michael Chen,2952,397.54,16,"[""West Audrey""]","[""de416ddf"", ""26c9db59""]",0
+c6fb9709-e0fb-4607-99a7-8e0599d77a47,Linda Pena,1381,148.29,22,"[""Jenniferstad"", ""New Kylie""]","[""032c578a"", ""0fc544fe"", ""f183c1a0""]",0
+d67cd38a-e17d-46fa-8e4c-69c772befc87,Stacy Nichols,457,299.1,37,"[""Smithmouth""]","[""555d009c"", ""dcfe1ace""]",0
+3adfba29-2ff0-440f-b825-5c5b90074a8a,Olivia Shaw,2860,154.91,46,"[""Alyssafurt"", ""Walkerfurt"", ""North Sarah""]","[""ce22c16b"", ""977e0e69"", ""c26899ce""]",2
+3db700dc-153d-43a4-a76f-ee90d4493abe,Lauren Howe,3502,312.9,32,"[""East Karenshire"", ""West Tonyachester""]","[""9877c421"", ""24c8e16a"", ""2b601c0a""]",0
+c456d48c-696a-4a29-a9d6-b00788be644e,Trevor Barnes,2813,380.62,22,"[""New Antonio"", ""Port Tonyville""]","[""6c80f41f"", ""863b1853"", ""ff3f5cbf""]",0
+f95fbe28-bc9d-4656-9db0-78c80acaa331,Joseph Perez,1487,377.41,44,"[""New Derekfurt""]","[""1fdaeca1"", ""a6928d0d""]",0
+c265799e-f5ec-4398-a88e-870cd3f2bccb,Emily Whitaker,3156,393.96,7,"[""East Mirandashire"", ""Lake Erikaland""]","[""025d77ad"", ""2d218bcf""]",0
+e7b627a1-1004-441e-a2d9-110642fe0547,John Salas,1049,81.07,32,"[""Alifort"", ""New Alexandraberg"", ""Lake Margaretborough""]","[""39f2af7b""]",0
+7dd11578-37f6-42ec-9c6a-d7371002a503,Rachel Miller,1181,102.95,12,"[""East Brentland"", ""North Markstad"", ""Lake Billy""]","[""e5cde044"", ""53133518""]",0
+5ddb48cb-d95d-4a8c-82ae-545fba05f848,Virginia Wood,1903,88.52,11,"[""South Jessica""]","[""eafe8567"", ""f02e204e""]",0
+214628f1-4fd5-4742-9ad9-c00e50f1e60f,Robert Dixon,879,288.84,14,"[""Paulchester"", ""Jackfort""]","[""da79235f""]",0
+050e15aa-dd82-45da-9ca6-d39466f5b89b,Carl Beltran DVM,2867,468.41,12,"[""North Melissabury"", ""Port Drew"", ""Shirleybury""]","[""789a6272""]",0
+776228d8-ea3f-4617-b135-a4744132c7c8,John Vaughan,1663,459.9,2,"[""Flynnbury"", ""South Patricia""]","[""20d4da87"", ""aa28c519"", ""46693c99""]",0
+d6a6d5c3-7de0-4e11-8d00-5177aed81dd5,Kyle Shah,3331,381.84,15,"[""Lake Craig"", ""Lake Shawn""]","[""2bca0675"", ""4059ebc2"", ""33ee1577""]",0
+93f6e993-3ce9-4eac-85e3-8cdc85f45437,Catherine Marshall,3006,39.12,14,"[""Houstonfort"", ""North Kelseybury"", ""Turnerside""]","[""cbe6d748""]",0
+bbde6b49-628c-4e9e-a6b2-ceec1f59cdac,Tammy White,2250,73.35,19,"[""Port Lori""]","[""bd537bea"", ""b50d074e"", ""67a0934a""]",0
+38c7bcd5-f389-4ab1-bc16-a13db06431d9,Mary Perez,3237,208.75,40,"[""Masseychester"", ""Adamsland""]","[""245f2dee"", ""89a6cc24""]",0
+437ddd6b-3b72-48ca-9de5-047ee04b3534,Terri Collins,708,298.27,17,"[""East Garrettport""]","[""8113d376""]",0
+9330060b-2ff2-4ac0-aae6-ccd959a86d65,Donna Howell,2143,485.41,36,"[""East Paulside""]","[""85f6a103"", ""aecf68e1"", ""e6c6bf33""]",0
+6594fdf0-9783-4d45-b3a6-92d0909b987c,Teresa Kelley,1572,114.12,20,"[""Lake Judith"", ""Pricechester"", ""North Brooke""]","[""186c06e5"", ""67aab8ad"", ""0101a7c3""]",0
+410925c7-5c34-44ab-9b41-c91271d16202,Michael Mcintyre,1911,202.18,5,"[""Tuckerland""]","[""b31cf108"", ""c29c1942""]",0
+63ecad49-0609-4f75-a104-9527379d011b,Jeffrey Doyle,2789,318.44,22,"[""Trevorborough"", ""Port Lorimouth""]","[""ab66eee6""]",0
+7564192e-3753-4ab1-9b79-6f78f4f086d8,Dr. Katherine Davis DDS,3394,222.02,16,"[""West Feliciaside"", ""South Brian"", ""North Gregoryhaven""]","[""2a28d224""]",0
+09f81007-0025-446b-be20-fdf9e3fa3ced,Eileen Wilkins,734,138.67,47,"[""Barnesport""]","[""317e12cd"", ""05cbe218""]",0
+2a73ca6d-88c5-4109-ac70-7d0ee0fd1bc5,Jennifer Bennett,3129,456.06,2,"[""Michellefurt"", ""New Lucasside""]","[""d4e03b72"", ""b93782a9""]",0
+9bdfbd6a-7eb8-4d76-af2c-9e7c0639cd20,Steven Tucker,2046,334.14,23,"[""Port Jason"", ""Amyfort""]","[""d3e101c7"", ""b776ef3d"", ""1ba47fd7""]",0
+f93d417a-70bd-4675-a48e-05c63da79b55,Daniel Ferguson,2262,409.42,45,"[""Fischerfort""]","[""8b7412af"", ""34affdb5""]",0
+927b8888-2ab1-488d-97bb-680aa59768a8,Ryan Hanna,2681,222.29,10,"[""Levyton"", ""Monicashire""]","[""21332e3d"", ""1f539f79""]",0
+af869077-f68f-40f8-9909-1d1db238e776,Denise Dennis,2794,127.9,29,"[""East Joannberg"", ""East Eddiemouth""]","[""379ad040""]",0
+5bfbf5fb-db56-4926-8611-d45b00a593ed,William Rodriguez,2330,418.03,24,"[""South Jose""]","[""cb9d3dc1"", ""3ea55964"", ""572b9487""]",1
+27f464a6-7ba9-4031-8fd3-0c9c31587674,Erik Perez,3122,232.21,34,"[""Hamiltonberg"", ""Vasquezborough"", ""Hughesland""]","[""301b028f"", ""63e31fa3"", ""65fc9153""]",0
+523f78c7-a585-43cf-a1cb-5cb1fff94f2e,Cassandra Jones,978,376.99,3,"[""New Deanna""]","[""8409d5c4""]",0
+d2f5bf07-88e7-4d1b-9679-3ac31567bf4f,Ashley Meyer,2830,30.58,43,"[""Cynthiachester"", ""Smithshire""]","[""32c76b80""]",0
+887530a9-6788-41b4-8cc9-ab1a70378aca,Jonathan Moody,3603,284.88,6,"[""Angelaton"", ""Stevenstad"", ""East Nicholeborough""]","[""a7e5d787""]",0
+2a35930d-b966-4a95-8aec-0a31de610992,Melinda Harvey,2603,111.57,28,"[""Williammouth"", ""Jeffreyfurt""]","[""a755317f"", ""b0c0777f""]",0
+934abd47-3286-4c24-abd4-f6472ac089f8,Stephen Johnson,2380,228.79,13,"[""West Matthewborough"", ""Luismouth""]","[""24e57db9""]",0
+a601ccbf-aef8-4ad4-aa3c-c0fb1aea31d1,Marissa Bowen,3015,214.47,38,"[""Hallmouth"", ""Cynthiabury""]","[""8fd54261"", ""90bc62f2"", ""782e51b3""]",2
+4a89eef7-e60b-4d4a-9a0e-f2eb9338c7a5,Tanner Heath,1313,242.0,45,"[""Lake Nicoleburgh"", ""Kellyburgh"", ""Port Eileen""]","[""b95bf141"", ""359612c6"", ""35542a93""]",0
+d215d58c-bc7d-4545-951e-7b86c7df31e6,Jeffrey Bradley,2524,299.56,42,"[""Port Davidville"", ""Josephside"", ""Stewartmouth""]","[""68747061"", ""e9d1bb8c""]",0
+a876630b-3c1a-4f33-8cad-8d587b48ffe0,Victoria Curtis,1700,162.22,8,"[""Lake Taylor"", ""Angelaland""]","[""7b148da5"", ""211e4670"", ""943bde77""]",0
+fdb3fa61-c62b-44c6-87a6-cacd54efe852,Melanie Sampson,3102,176.42,42,"[""Markhaven"", ""New Denise"", ""Patrickmouth""]","[""5f45c0b6"", ""7723c40c""]",0
+7376ee60-3857-49e4-b27d-253f808d594d,James Hudson,783,391.93,11,"[""Karenton""]","[""c19b1236""]",1
+3b4eb2e2-769c-4282-b676-2f31e27c0d58,Stephanie Richard,2672,292.96,50,"[""Cookmouth"", ""Scottton""]","[""9dec3b38"", ""88e883f8""]",0
+53bde440-6673-4b20-a477-86bea7e9359b,Jeremy Thomas,992,300.4,36,"[""South Robertshire"", ""Anthonybury""]","[""5958b08d"", ""841972d4""]",0
+2ef97e93-cfd8-4d15-85ac-590e9eb17a38,Mark Hess,603,480.74,20,"[""Port Charles"", ""Andresshire""]","[""64e75383""]",0
+71c22712-a724-4222-b604-8cc2dd26801f,Misty Robinson,1396,74.01,11,"[""Dawnborough"", ""Lake David"", ""Richardbury""]","[""7e4dea31""]",0
+a4f26855-e99d-4057-b80b-5a6f2b79b60c,Richard Thompson,3438,414.1,38,"[""South Cole""]","[""2a08d3af"", ""015e968c"", ""b7bf4734""]",0
+8a31169a-7d8b-4996-9284-de1dd4a47f88,Courtney Henry,3212,344.45,33,"[""Darleneton"", ""Kendraberg""]","[""c5630fdd"", ""6186dce2""]",0
+71ebae40-4285-4559-8c83-7628079d37a0,Anthony Nelson,1879,12.88,31,"[""Lake Ronaldfort""]","[""2c56f6f1"", ""5975ef04""]",0
+81734089-f23b-4c68-b8af-ec379a6750c8,James Knight,2614,22.6,47,"[""Ericabury"", ""Jessicafort"", ""Harrisville""]","[""80130ba8"", ""839eeaa8""]",0
+b103e0e9-4a23-4cb3-b0a7-ed09cdaedbcf,Michelle Armstrong,2378,115.3,4,"[""New Kelliehaven""]","[""b09e3830""]",0
+10b63b28-170a-4268-bbfa-21800aa96112,Tiffany Brown,544,305.14,15,"[""East Robertshire""]","[""b7de067d"", ""f8c94fe5""]",0
+d8f89208-2254-4021-a80d-01893fac6825,Tammy Melendez,346,142.29,35,"[""East Derekstad""]","[""a86ea685"", ""d38b445b""]",0
+0a405b82-70d8-44d8-bf72-063679dedd32,Natalie Leonard,117,167.34,25,"[""Lake Susan""]","[""5502cb52"", ""23f62df7"", ""456302ff""]",1
+9285de79-68e5-4570-9f72-98225688906a,Stephen Martinez,954,212.08,29,"[""Anthonyhaven"", ""East Jessicachester""]","[""95926d33"", ""5697813a""]",0
+e63fdf5e-f455-4e14-9267-718215eb8ea0,Carrie Harrington,572,255.59,35,"[""Jennychester"", ""West Justin""]","[""5aa963be"", ""72bc2852""]",0
+cae3adc0-5823-4800-b032-c424d4e84fc9,Jackie Wolf,2301,495.99,2,"[""Bryantown"", ""Edwardborough"", ""Thomasstad""]","[""43471dcb"", ""c460e10c""]",0
+12089750-d689-491e-bc3c-be1da820231b,Seth Fields,1845,268.3,12,"[""North Johnhaven"", ""Josephtown"", ""Mccallmouth""]","[""9d840a92""]",0
+64716c8b-7102-4a2b-a0a1-82e8ae6cba43,Tammy Hamilton,2305,115.99,48,"[""Breannaberg"", ""South Rebecca""]","[""252fcc16"", ""be33562c""]",0
+edb20aeb-26b7-43a4-ad3b-df27a7d0b8e6,Troy Davis,629,441.2,28,"[""Port Amy"", ""Holmesside"", ""Port Jessicastad""]","[""e41009f9"", ""aed14c33""]",0
+2a4d73b6-7b3b-4bb0-9acb-1de261067509,Carrie Cook,992,264.96,27,"[""Marissahaven""]","[""ca44da69"", ""4b82de3a"", ""34353afb""]",0
+5ad2f008-0178-4756-bd8c-cf301161d9a7,Emily Vasquez,2571,400.3,40,"[""Port Christopher"", ""Sarahton"", ""North Lukeberg""]","[""470357bf""]",0
+0c2dc33c-a2f2-427f-85b1-c5b468eaae89,Brian Vargas,2551,269.45,18,"[""South Brandyton""]","[""2f5a38fa"", ""18cf4161"", ""8266f7d0""]",0
+f4679984-93bc-460d-b16a-4704683a2852,Logan Park,2536,78.66,32,"[""Anthonyfurt""]","[""35b6b838"", ""2b0627f3"", ""071c2261""]",0
+fbc44940-2833-4da3-9807-425f7b1d1082,Edward Gutierrez,696,474.97,15,"[""Baileymouth"", ""Berrybury"", ""East Sean""]","[""3d9b6706""]",0
+0c3e36f5-169d-4c4a-ba26-42110943f32f,Diane Glover,3517,279.09,26,"[""West Travismouth"", ""Sharpbury"", ""East Garrett""]","[""85cb8056""]",0
+031d14a3-bfbb-4e82-8e0b-e1375fc59d42,Justin Henry,98,193.41,20,"[""East Darlene"", ""East Paul""]","[""5d328ad3"", ""2f121c7b""]",0
+4bf0549b-426c-4de2-88c0-d61dcf2399f6,James Oconnell,2033,441.16,37,"[""Samanthashire"", ""Adamschester""]","[""52f644fe"", ""bc602ce6"", ""084ed2d3""]",0
+e93d360d-df41-4d3a-a6c8-662bab0bf50d,Laura Noble,3300,122.67,29,"[""Lorraineborough"", ""Donnaburgh""]","[""87ab62a8""]",0
+6dabcd3b-caf6-43ab-a5df-a4a569ea7141,Rebecca Cross,850,495.71,17,"[""North Sheryl"", ""Port Debbieburgh"", ""East Pam""]","[""6428bce5"", ""3c7b57cc"", ""d8888369""]",0
+d4a810ca-b267-4c53-8630-ad326ec6289b,Lauren English,1252,424.44,44,"[""Port Brittanyborough"", ""South Savannahton""]","[""c8160dc4""]",0
+c9f8450d-59e1-43d3-888a-3642d0e75e02,Stephanie Santiago,1678,222.77,43,"[""Rojaston"", ""South Danielchester""]","[""ad786fbb"", ""b42fd541"", ""990cecc9""]",0
+df6ceefc-bd74-4e86-b5b3-5e185243bc86,Monique Mccormick,3462,463.96,48,"[""Benjaminchester""]","[""024fffe4""]",0
+b08ab8f6-06af-4bd9-b4ad-359a621f052b,John Walker,814,19.77,4,"[""Amandafurt"", ""Karifurt"", ""Huangbury""]","[""fed46839""]",0
+45865d3d-c76e-4237-bbcf-39b6ffc9a38f,James Santos,364,412.72,26,"[""New Susanfort"", ""Port Heather""]","[""01626df8"", ""bd1cbee8"", ""3d136665""]",0
+bd5b769e-6b3b-4760-aff0-66442b5e2eb7,Rachel Clark,2742,145.38,36,"[""Terriville"", ""Beckfort""]","[""5c341627""]",0
+b6aa43af-b87d-48c6-a0d9-f4d3b0719381,Kelly Hall,3510,76.27,6,"[""Jessicahaven"", ""East Bryanburgh"", ""Lake Loganville""]","[""949537db""]",0
+04e21c9f-ee20-4c1f-8acc-6fb505fedafd,Dr. Jessica Garza,1823,189.75,50,"[""East Andrewfort"", ""Carriemouth""]","[""536563b4"", ""646f0da7"", ""82aa279b""]",0
+cdfc8060-5875-4614-be32-e65270aacd96,Heather Little,1137,79.34,9,"[""Christinemouth"", ""Muellertown""]","[""16b6510f"", ""2df87446""]",0
+7033e32d-af67-4d72-ad30-d52abf8eabc6,Ronald Romero,3545,69.27,10,"[""Jenniferton"", ""West Austin""]","[""d78a86df""]",0
+d2708f7d-f5d7-4777-bfa7-be39d9496257,Sean Garcia,721,46.66,43,"[""New Janicefurt"", ""Lake Kellie""]","[""3c22e330""]",2
+9ca7cbed-4a91-4ba4-be79-ea0720997a11,Anthony Reynolds,2681,383.4,36,"[""New Eric"", ""Jacobsville"", ""Samuelshire""]","[""34a1ed7a"", ""64b40a89"", ""727e3e1d""]",0
+f80375f7-56ac-4802-834f-54e40cea6494,Brooke Cuevas,2921,172.07,11,"[""Ianside"", ""Breannahaven""]","[""6597ab21"", ""904ae8f5""]",0
+a84b4b9b-1bfa-4564-aea6-49104e723b00,Latasha Martinez,2744,90.79,40,"[""Woodmouth"", ""East Michael""]","[""435db68d"", ""a23d87e4"", ""d6bd6a2b""]",0
+faa75cef-44f4-4eaa-a8e2-a857941d33d6,Nathan Norris,3351,355.4,44,"[""West Jason""]","[""c501f0e6"", ""a5350b40"", ""bb5e5077""]",0
+e36fc861-7d45-46bf-9e62-942ddec96fae,Cheyenne Cook,1295,120.8,25,"[""Lyonsville"", ""Goodville""]","[""f020c330"", ""a0e70206"", ""c94d00df""]",0
+15a10233-f795-4ff0-8c00-9c89d14552f8,Crystal Torres,3172,240.31,12,"[""Douglasshire""]","[""e41c0936"", ""b12d7ade""]",0
+e149fc40-c0f0-4e0f-8102-331fc0a3e690,Deborah Cameron,1345,355.38,39,"[""Rickychester"", ""South Ashleymouth""]","[""8ca37f11""]",0
+e7b7999d-1e4c-4aaf-af6b-524008508cd3,Patricia White,1426,99.54,41,"[""Spencershire""]","[""ad093d6f""]",0
+ab0b0e1b-c035-4aca-b170-a147dce4208d,Misty Poole,3056,377.22,23,"[""Kathytown""]","[""c05fcedf""]",0
+6e741a2c-05c0-4f79-ad7f-42a33fd677f0,Patrick Henderson,856,408.62,44,"[""Richardtown"", ""West Alisonburgh"", ""Melissashire""]","[""065edd48"", ""0669ce5f""]",0
+b860acc3-8b77-4e69-bfbe-3c8004834475,Angelica Morris,2188,289.51,47,"[""Simonborough"", ""North John""]","[""5372e7d7""]",0
+d2f45d81-8d92-4121-8dc6-1fe70ef158e8,Kimberly Davis,4,222.68,48,"[""Figueroaton"", ""Lake Steventown"", ""South Williammouth""]","[""5bb772f2"", ""fd277d17""]",0
+a02c5307-0a45-4fed-aab1-44f1df2a2468,Victoria Barron,2932,407.18,4,"[""Juareztown"", ""Port Anthony""]","[""aaf1506a""]",0
+25172576-e572-4cdd-a509-040ab04e5003,Dennis Stokes,2987,498.77,37,"[""Port Debrahaven"", ""South Timothyhaven"", ""New Isabella""]","[""327763d8"", ""b2e74fed""]",0
+474894e2-ae66-4724-9968-5fd1c2b4e02d,Richard Gibson,2815,101.21,9,"[""East Brian""]","[""bf3267b2"", ""b783640e""]",0
+d2cfa3fd-a959-4dc2-a15f-c01f41e5fc3a,Jennifer Acosta,1488,31.42,36,"[""Sloanside"", ""Garciastad""]","[""82de9474"", ""4e2b71e5""]",0
+c62f7853-5517-443e-8649-c8a09bf9af48,Jacqueline Watson,1162,31.03,38,"[""Warrenmouth""]","[""4523df5b"", ""aa033070""]",0
+d0979cbf-4d9e-4db7-b3ba-d6a6dc1c4425,Kenneth Williams,1417,361.54,15,"[""New Johnny"", ""Yvonneside"", ""Jenningsside""]","[""f306bb1f"", ""dd61f70a"", ""78a5fc98""]",0
+0b14eaab-64ff-4593-8eac-aa102eb1b8c5,Christine Ball,2380,480.59,34,"[""New Kelseyfurt""]","[""18be0002""]",0
+f5f968c5-e99c-429c-b7ba-ad750834b63c,Veronica Perez,1146,220.74,2,"[""Christybury"", ""New Keithfurt""]","[""7d31dfa4"", ""5b1cd807"", ""adf56c9c""]",0
+e7e685dd-05a0-47db-b749-40c667c638f6,Nicole Armstrong,1338,230.78,38,"[""West Jonathanfurt"", ""Wendyfurt"", ""West Kevin""]","[""9e637655"", ""8139d0b8""]",0
+3b3c06c1-1bf3-41cc-b086-fea4e015145f,Holly Ramirez,2024,11.36,49,"[""West Michelle"", ""Dunnbury""]","[""2ea07998"", ""42e071ae""]",0
+2f117145-453d-43bc-a07f-a635b08e373c,Kyle Wilson,3632,154.19,28,"[""Coxmouth"", ""Alexanderberg"", ""Port Michaelborough""]","[""f78725e3"", ""7889b736"", ""28c9b9d7""]",0
+3a018b44-3a19-4125-bf5c-ed728ad2f504,Lauren Austin,2224,43.44,22,"[""Lake Allisonbury""]","[""983b791f"", ""38c0bbf1"", ""355d9ed3""]",0
+ee4d8e4b-3fb0-4966-ad9e-3f7cd77a9c44,Angela Lee,2955,445.68,34,"[""West Pamela""]","[""6a6a67fe"", ""36c41856"", ""2265d955""]",0
+8e05e4a4-1d92-449f-9dac-fa1e30032915,David Mendez,1589,61.52,43,"[""Owenfort"", ""South Kristi"", ""Michaelburgh""]","[""3d8d18de"", ""e1075503"", ""08c288eb""]",0
+67886153-dfa1-402e-94e1-359d63cd73dc,Amy Murphy,2272,244.03,9,"[""West Heatherfort"", ""Stevenberg"", ""East Sandraland""]","[""cae0a996""]",0
+7966072b-b2d3-442a-b251-c5f8b1a7a1be,John Rodriguez,2250,111.66,42,"[""Jacobsfort""]","[""a643aad6""]",0
+b42e4ac2-9960-4674-8d16-38fd7d3ebde1,Melvin Beard,837,233.59,44,"[""Port Shanefort""]","[""3037a38a""]",0
+09cc51fb-8b07-484b-8dd4-6cb34121057e,Timothy Thomas,765,266.26,2,"[""Markborough"", ""New Rachelstad"", ""Lake Karenhaven""]","[""40b3feda""]",0
+d0a192c6-d5d8-46c5-b4c3-5a8b2b1b331a,William Lee,1203,347.58,43,"[""Micheletown""]","[""ff75fb0f"", ""fa52e934""]",0
+6f3e0185-f518-465e-b8d1-85afc6ac7625,Richard Riley,2092,172.15,13,"[""South Danny"", ""New David""]","[""6e914ea5""]",0
+6415fc26-b2a0-499e-b9f4-43e0d4c0c604,Natasha Williams,2026,360.23,32,"[""East Alejandra"", ""East Lawrence""]","[""f75562bc""]",0
+fab577ef-09db-49c6-a485-06d436877ec5,Corey Anderson,1269,340.96,4,"[""Mcgrathview"", ""Judithville""]","[""46692846"", ""22088e52"", ""8d29eb54""]",0
+35d94ac0-f951-4ef3-bbe8-c1d523491c25,Christie Evans,3372,341.07,26,"[""Lake Brian""]","[""1e9576f5"", ""62b7bd51"", ""fab93c74""]",0
+e231b7b3-14fb-48d1-b4f7-50a7de4f169b,Dr. Jason Phillips,394,218.19,50,"[""Martinmouth""]","[""c1119926"", ""4468bf96"", ""a38e7e31""]",0
+753a7def-0cc4-43df-86b1-fc73f2abf22b,Douglas Poole,2947,11.14,16,"[""Jessicaside"", ""New Katherinehaven""]","[""deaa86a7"", ""fb55d9cd""]",0
+465199a4-de0c-44ce-b68c-6711f5acd2e5,David Travis,27,400.81,15,"[""Port Jasminefort""]","[""1930860f""]",0
+5c4bc29e-82b1-44ee-ba3a-fabbb6e01967,Sherry Hill,1116,446.19,13,"[""Robertberg""]","[""c5b4a74e""]",0
+dabbcf7b-9001-490b-917e-24cec9b432d7,Crystal Miller,688,325.82,44,"[""Lake Carlos"", ""Lake Maria""]","[""bb7e22b3""]",0
+e4b66375-73c9-49e6-88aa-598c508c8c11,Caitlin Roberts,55,62.84,42,"[""East Anthony"", ""West Julieborough"", ""Port Keithburgh""]","[""611bed8d"", ""f0e5e8be"", ""ef1a7d4a""]",0
+3dd4f63c-1cb5-4c98-9aab-b4426884d4c9,Barry Jones,2894,497.79,14,"[""East Victoria"", ""Karafurt"", ""South Justinshire""]","[""5d14e69f"", ""950c2006"", ""f9d16357""]",0
+c786d406-914e-4ccc-93a2-c4c8f4a2ea5c,Roger Lawson,462,198.75,14,"[""Kristinland""]","[""3005c160"", ""47b046ba""]",0
+f82d8ea0-c624-4e89-90db-016a6af8f577,Melissa Bullock,1482,393.99,8,"[""Nicolehaven"", ""Richardburgh""]","[""97f29b16""]",0
+a58c4c88-97e1-4a6a-913b-dd8e3ac56a11,Eric Stewart,1430,241.14,11,"[""East Cameron""]","[""fc222f0f"", ""14be0f44""]",0
+8616871b-cbc1-4cbc-92c6-2c5982c1ee68,Karen Hill,3176,382.1,40,"[""West Lisaport"", ""South Mitchellfurt""]","[""b62b87d0"", ""6864d8c4"", ""ed5ce084""]",0
+10fab28a-e192-445c-bbd9-bb68d23f191d,Leslie Webb,1542,345.13,29,"[""Michelleborough"", ""Lake Derrick""]","[""b40642ed""]",0
+2331d025-c877-419d-a01f-d96a711b8fd2,Nicole Serrano,85,193.95,49,"[""West Christopher""]","[""a3919e08""]",0
+6a5c85b2-fe17-4e84-a037-dc9ff65d8d40,Troy Wilson,2967,119.44,48,"[""West Deniseview"", ""Kristinport"", ""Moniqueland""]","[""4db9c68a"", ""760ecc18""]",0
+28c20458-768b-4259-9fa2-82f0eea260d3,Marcia Smith,2247,406.44,8,"[""Port Ashley"", ""Lake David"", ""Joyfurt""]","[""b34aad2b""]",0
+0c4a9382-20ba-4396-a4a1-20d362b27ccd,Matthew Wallace,101,460.84,31,"[""Port Anthonyberg"", ""Lake Jamesview"", ""Lawsonmouth""]","[""8f866a73"", ""9a580817"", ""df3a55e0""]",0
+f3c5583a-059c-42fa-8a2a-6e4fb84972e6,Lindsey Watkins,1272,310.55,12,"[""South Frederick"", ""South Alexanderside""]","[""8a534d03"", ""d848bfcf""]",0
+1e7648bf-350e-4b61-937f-af73d1ffd85d,Donna Richards,1363,205.5,3,"[""West Fernando"", ""Jacobton"", ""Lake Crystalview""]","[""4f832636""]",0
+12814250-b5d9-49a5-8e8a-65206cd4db63,Jamie Williams,2841,153.45,11,"[""Wolfburgh"", ""Monicastad""]","[""03154555""]",0
+2cda02da-a519-4ca6-b011-0ddf334807bf,Nancy Vasquez,1054,50.82,24,"[""West Timfort"", ""Lake Donald"", ""Jasonborough""]","[""c242230c"", ""5b5b98ad"", ""81abc1dc""]",0
+fdf6dc24-30dc-4884-b4be-4d32f047d74b,Stephanie Holt,1326,142.08,4,"[""Keithshire"", ""South Molly"", ""Simmonsport""]","[""4dc79a58"", ""1b297f4a""]",0
+dfc0385b-ff58-4e6f-b0fc-7794ae527bf9,William Marks,632,73.53,8,"[""Port Sarahhaven""]","[""002dec92"", ""8e9fa023"", ""986c8ba4""]",0
+5c0e9464-674c-4be6-993e-bf4159efbf56,Barbara Hale,1062,308.92,11,"[""Joshuashire""]","[""b04118a3""]",0
+f6526466-19c2-4a68-af63-0f84e6e69334,Rose Wheeler,1974,382.78,8,"[""Port Margaret""]","[""d1c02881""]",0
+36803285-5c68-46c0-84ac-280dbeebe8a7,Mark Long,179,77.17,3,"[""Lake Josephstad""]","[""5775cea9""]",0
+76698a0d-f6e0-4b9f-bf2d-8f43b21f520b,Crystal Mccoy,3571,44.95,24,"[""Eddieport"", ""Davidchester""]","[""4577dd31"", ""16fc8604""]",0
+2ab5b68d-3071-48ec-843b-8da06a79ad55,Brittany Perez,2885,215.56,34,"[""New April""]","[""284ae9bb""]",0
+1249d032-e66d-4477-8c01-aef2415a9980,Ann Beck,2310,319.05,13,"[""Chelseaport"", ""Ashleyborough""]","[""c589546a""]",0
+13107292-8323-4a43-97e5-69eb77ba29ff,Mark Townsend,1591,428.78,8,"[""Gomezbury"", ""Anthonyborough"", ""New Justinland""]","[""62f940c4"", ""bcbcead9"", ""738b7114""]",0
+aa779f3f-77c9-467a-b8a6-a2ccb75d480c,Anna Kelley,1022,276.52,39,"[""Gatesport"", ""South Jessicaland"", ""Allenton""]","[""7bad7538"", ""41dd3b01"", ""507ebb07""]",0
+8b9885f6-2af6-4ee4-affa-5bbd69d8a834,Steven May,540,219.09,28,"[""North Deniseberg"", ""Fitzgeraldtown""]","[""4c835a88"", ""2091b66c"", ""e607b1b2""]",0
+fe1e296a-d533-448a-867a-2d6f3ae1eb1c,Latasha Reyes,1122,202.06,6,"[""Port Jonathan""]","[""6f979d7f""]",0
+0712491d-e4db-44fe-89c3-0c9e23d539b4,Terrence Hill,2310,134.78,35,"[""Lake Jessica"", ""Port Christine"", ""North Richardport""]","[""db0889f5"", ""31192bab"", ""d45b5ce8""]",0
+1eb91023-b29d-4f5d-8c93-901b83bcb526,Shannon Cohen,3447,318.99,26,"[""Lyonschester"", ""Rebeccaberg"", ""Josephberg""]","[""f1b05911""]",0
+0046e515-e8b9-4523-83ae-8eafbe009043,Diana Shaw,3430,440.04,28,"[""North Sarah""]","[""4ec6027f"", ""08d0af64""]",0
+e798d692-402d-4628-80c6-c2246dbb412f,Matthew Espinoza,2016,204.23,4,"[""West Hectorville"", ""Benjaminland"", ""Malloryton""]","[""e73d5dc0"", ""4bf2ee01"", ""b74b6fd5""]",0
+bde02eea-8a0e-47a2-9183-9ac8f9c488d2,Bruce Leonard,1419,424.47,32,"[""West Austin"", ""Carlaton"", ""New Katherine""]","[""5ee4a43f""]",0
+313381c7-5c5c-4da2-b2b0-25aa78c18d69,Alexis Smith,2165,12.07,42,"[""West Aaron"", ""Hoffmanland""]","[""55809f33"", ""9a3c3992""]",0
+ea904990-0ab1-46b3-9d1c-64ec06aa8b13,Melissa Phillips,3506,497.28,41,"[""East Jessica"", ""Zacharyburgh""]","[""5d25f39b"", ""cc4f4bef""]",0
+aa638f06-c0e3-4ab7-a661-9f4f6f19b804,Alexander Ramirez,2123,224.21,24,"[""East Joannabury"", ""Dariusstad""]","[""cc9c58e4""]",1
+93afa4f0-b8b3-40cd-be7d-adbc090d268b,Jermaine Webb,1292,85.1,14,"[""Port Christopherfurt""]","[""d67e76e6"", ""2c4b8f6d"", ""87a0c192""]",0
+73e748ca-14db-4c0e-8817-1c6dd47a3242,Felicia Sullivan,1530,483.1,5,"[""New Jasontown"", ""Schmittfurt"", ""Carpenterfurt""]","[""c661e216"", ""075852d3""]",0
+c9a724ca-07a3-4015-bfa9-931d1d4b0e69,David Jones,3411,380.79,27,"[""Lake Williammouth"", ""Port John""]","[""0072e96b""]",0
+e49e63d8-f649-43bb-b211-939c94c24d96,Mary Harding,288,321.96,27,"[""Velazquezburgh"", ""Taylorland"", ""East Jeffreyside""]","[""d5418255"", ""52cda0ed"", ""d2336037""]",0
+d3e36a6c-0436-4149-93fd-e0d4e296d33d,Jamie Mullen,225,57.04,33,"[""North Kevin""]","[""4f493948"", ""0ea9a370""]",0
+6666db14-39db-4be1-b9a7-dccf18999ae5,Deborah Taylor,2195,393.42,45,"[""West Edwardborough"", ""New Dennis"", ""Darrenhaven""]","[""7f226c61""]",0
+c6e4bc41-1518-4fbe-899d-ca183df13b89,Ronald Adams,699,493.77,10,"[""Port Rachelport"", ""Port Jenniferland""]","[""26bcad29"", ""956bffa3""]",0
+834ebede-83ad-4d1a-aca6-1190474f3fa5,Christy Bennett,2834,212.37,18,"[""Williamborough""]","[""c488dde9"", ""ad2b2c35""]",0
+a5df25a6-bbef-492d-876e-4143491eeedd,Karen Schultz,324,65.22,31,"[""West Kristinchester"", ""Laneville""]","[""ef94d74a""]",0
+63ae88f4-338d-4fea-bdf8-87e5e979bded,Maurice Powell,2211,61.13,45,"[""West Williammouth"", ""Jasminebury"", ""Port Autumn""]","[""f99cb07d""]",0
+a41f40ec-6651-4906-adf9-94d34fe15817,James Camacho,367,47.79,10,"[""Lisamouth""]","[""66bc86e5"", ""164444a4""]",0
+58946b3e-78ed-4b8d-ab3d-9105f26bbe4c,Kayla Steele,3188,317.62,27,"[""Webstertown"", ""New Tiffany""]","[""519346f7""]",0
+fb4382e8-54f6-483f-acef-8ec8d546ddf2,Jacqueline Scott,142,127.1,47,"[""West Stephen""]","[""97ecc9a0"", ""598f3461"", ""6d41ab17""]",0
+6486117c-d493-45f4-a8b5-f3b4418d41d9,Whitney Mcneil,2539,85.62,16,"[""North Jason"", ""Lake Kaitlyn""]","[""55e3fe50"", ""5e09813e"", ""d4a919fc""]",0
+fadba203-3868-44e2-bd74-4ab200dbe2c5,Natalie White,2837,386.19,1,"[""East James"", ""Sheliastad"", ""West Linda""]","[""993ba0c8"", ""f63611e5"", ""2fc0b618""]",0
+b377fe5a-2fee-42af-95be-89c126d2c01a,Ralph Garza,3320,275.62,40,"[""East James"", ""Jamesmouth""]","[""b6e6f6d3"", ""3be53d4d"", ""27ee380a""]",0
+8700f3bf-2b3c-452f-85db-afd316b9fe87,Alexander Perez,1874,474.86,39,"[""Lake Williambury""]","[""9d2f5376"", ""6b9336fb""]",0
+3bd3368f-2f91-429a-9f30-8e10ba581b08,Dale Lewis,2731,225.02,25,"[""Lake Kaylamouth""]","[""58f9e29a"", ""7690666e""]",0
+c7dee60f-1d3e-417d-a22e-250316d80946,Ms. Brittney Ho,1851,14.18,26,"[""North Isaacview"", ""Brockhaven"", ""North Robert""]","[""b1f075c4""]",0
+b89087a1-89fc-46c3-8a78-a75b290e32d3,Andrew Contreras,787,294.16,38,"[""East Ryanmouth"", ""West Faith""]","[""ba0cff7c"", ""23fc09cd"", ""d692e779""]",0
+b6906719-bfaf-47c4-8e79-aac8b1076951,Nathaniel Marquez,3126,302.16,16,"[""Port Nicolestad""]","[""4bcff05d""]",0
+87581b02-d0e9-47fe-ae02-9b90fc383920,Nicole Diaz,1843,297.61,26,"[""East Danielshire"", ""Spencerville"", ""Port Joy""]","[""9d1f04a4"", ""276f2ec1"", ""98033838""]",0
+b6a46474-4d42-484a-a87d-e0d97c4c3a68,James Harper,392,340.33,43,"[""New Randychester"", ""South Jakeberg"", ""East Brandonberg""]","[""7a38be79""]",0
+938558f6-4df8-4efd-b6ba-08a8e8890bb9,Kevin Mason,1151,388.42,7,"[""North Franciscobury"", ""West Sarahberg""]","[""ca5283c2""]",0
+d4ca88e9-3d4d-4519-8336-1cf8e856e60d,Christina Sanchez,774,410.75,42,"[""Henryton"", ""Port Fernandobury"", ""North Luistown""]","[""d1a5c90e"", ""46f17b15"", ""5ad79e0a""]",0
+042bd482-6234-4331-accf-79e4feb13e7e,Kathleen Phillips,1124,141.77,22,"[""Heidiborough"", ""Rodriguezmouth"", ""Lake Amberberg""]","[""30a502bf""]",0
+7d2a1480-fce4-496a-9095-84d4d529f6f8,Michelle Williams,3050,11.9,43,"[""Amberland"", ""Ruizmouth""]","[""6db025dc"", ""67dd6b21""]",0
+a1fd9337-5c8b-4467-880b-8e58aa8b1c51,Lisa Stone,2744,408.42,20,"[""Bellhaven""]","[""9cbbf0ac"", ""91e0ed80""]",0
+cb13b666-087f-433a-863f-5eeb3e1d2f5b,Mary Jackson,1221,101.68,25,"[""New Gabriella"", ""Cohenton"", ""West Christopher""]","[""5cb1bb92"", ""b19557d1"", ""356ded5f""]",0
+2de91782-9b17-42ae-83d0-21646d4b0f6d,Dr. Jenny Shea,992,354.76,20,"[""Friedmanchester""]","[""46ee120a"", ""32db0bfa"", ""54e4e4bb""]",0
+b2600e10-2cf5-4eaf-bef1-167e710512f5,Erica Walter,1924,410.65,33,"[""West Holly"", ""Cherylshire""]","[""f2cbc53f"", ""560b9ee1""]",0
+0a9bd791-e21b-4e1c-ac5f-f039447a71b3,Joseph Conway,1277,355.45,20,"[""Alexandraview""]","[""640557a5""]",0
+4dac9350-9641-4234-b5b1-0c782b0c56cf,Roger Wood,519,304.75,16,"[""Davidside"", ""South Deborah"", ""Millerton""]","[""3d4d39d9"", ""3d3efb7f"", ""4e321e77""]",0
+9ded4655-e94b-41fc-8534-0abdaaa3b29e,Jessica Tyler,188,393.79,20,"[""New Bryceside""]","[""99d582c0"", ""192a8bf5""]",0
+c7a713d8-4e4e-42dd-a7ac-6062136b927f,Ann Young DVM,1353,212.51,26,"[""North Debbietown""]","[""83067476""]",0
+9b06800c-0374-499a-ad1d-43f54c0c2cb9,Jacob Lewis,1225,479.88,47,"[""West Kurt""]","[""670bf02b"", ""643b68a4"", ""4051a73c""]",0
+a3b757d7-eb5d-4b63-893a-f3b780afeda5,Laura Richardson,1879,343.23,43,"[""Parkershire"", ""Gallegosshire""]","[""afd1aa9e""]",0
+2e5fb8a0-8b4c-4fdf-9108-fe03fcc5054b,Mrs. Kimberly Hunt DDS,2099,176.29,11,"[""Robinside""]","[""398ebf5a""]",0
+14e974d0-6203-4731-8014-f1df728216a5,Kevin Henderson,2851,112.53,39,"[""Deborahfurt"", ""East Michelle"", ""Danielview""]","[""3943fc7e"", ""dc061a91"", ""c423eb4a""]",1
+b47ec7da-a240-4873-a100-f3c4ae54b63d,Kimberly Ellis,2202,331.79,47,"[""Markside"", ""North Erinton"", ""Jasonfurt""]","[""36077d16"", ""41878eed""]",0
+ef8bc94c-6f7c-40e3-8f64-ecd7deee9766,Sarah Pierce,1005,207.33,9,"[""Jakefurt"", ""Lake Emilymouth""]","[""7e1ac564"", ""e6f033e5"", ""56674561""]",0
+97006222-6467-4c28-a2a0-cc4d374dc1ec,Charles Gonzalez,3522,404.58,46,"[""New Coryport"", ""Johnmouth""]","[""e4feb6c3"", ""6298d1e0"", ""4c883863""]",0
+e64527e2-b91d-4f77-917a-9ad636e26cda,Francisco Dunn,2718,374.57,34,"[""Zhangberg""]","[""73b8f09f"", ""c6054cdf"", ""a4cfa481""]",0
+1b4f5f4a-0b60-484b-ae6b-ff46c0c79b51,Ariel Macdonald,2870,247.28,18,"[""West Adamtown""]","[""963d5fa1"", ""ac9eabc7""]",0
+f5ab95ed-e173-4f00-bcab-c39f5ce1841a,Bryan Hogan,2696,243.04,14,"[""Wilsonport""]","[""9a12bd5b"", ""28ac8503""]",0
+e5194df4-01a0-4a6e-9b6e-69f26e9ebb07,Christina Scott,1910,333.76,8,"[""Lisachester"", ""New Hannah"", ""Robersonbury""]","[""06a4125f"", ""65046cb6""]",0
+a44028da-81b2-4a05-8be5-6e2b6872349d,Tonya Bell,3180,402.99,17,"[""Danielville"", ""Lewisstad"", ""Lake Mark""]","[""919312a4"", ""faace6fb"", ""757eeccb""]",0
+db2db7f1-936b-489b-b7f2-35556e1fe306,Angela Kelley,1333,433.28,3,"[""Kimberlybury""]","[""3674fea2"", ""6048f1f7"", ""1755871a""]",0
+bb13f4e6-87e4-4b36-aa78-ecb162b67eb5,Melissa Le,38,274.03,29,"[""Lake Kimberly"", ""Joshuafort"", ""Millerberg""]","[""3e86651f"", ""21de5c1d"", ""0b1e92c7""]",0
+f44f4200-65ac-453f-b300-81df6b3715f8,Lauren Christian,2148,274.83,3,"[""North Edwardton"", ""South Taylorville"", ""East Erika""]","[""76fbe54b""]",0
+e97d8989-9972-4ec7-8503-0febcf916026,Marcus Wade,2798,164.59,10,"[""Carlamouth"", ""North David""]","[""d8742df3""]",0
+66bfa942-f0e3-4152-8453-f875ada86ac9,Michael Bell,136,27.35,48,"[""Whitebury"", ""Wattsshire""]","[""ecb55022""]",0
+32a4c75f-a74d-4d1d-ae2a-95d3df924539,Robert Martinez,2350,328.68,18,"[""Lewisland"", ""East Marymouth""]","[""9c94ea4f"", ""3f9f951a""]",0
+d1c5d7dc-de70-48ce-a563-52e44ba6a27c,Joshua Williams,1448,392.91,39,"[""Christopherville""]","[""2b90019e""]",0
+c9d5c48c-9a5b-4e96-9df5-0e248883db6d,Mark Nguyen,2768,496.29,32,"[""Port Kristinport"", ""South Anita""]","[""870a1e90"", ""481573cc""]",1
+5fbadbbc-4e05-4eb0-9e8c-ab62a7119c45,Gary Alvarado,1876,170.26,3,"[""Benjaminborough"", ""Haynesshire""]","[""3400d5b1"", ""32a81fd8"", ""e0a94c85""]",0
+afb82090-895d-4d70-9192-4b1b10ea53f7,Michele Lewis,2867,264.43,39,"[""West Johnland""]","[""5d0912aa"", ""ed15c021""]",0
+0af67942-34ce-45f5-896f-2b88d894f41c,Christina Mendoza,459,384.28,6,"[""Wadestad"", ""South Karashire"", ""South Hollyberg""]","[""149169b7""]",0
+c734d5df-d0ef-4c3e-85a6-8ea348e940b2,Carla Roberts,1302,426.53,21,"[""Birdborough""]","[""1fcf91c7"", ""39e698cb""]",0
+2f51b3a0-3464-40d4-baca-9d9dffd67d50,David Jackson,3535,34.14,9,"[""East Katherine""]","[""ea4f32e0"", ""4ec09adb""]",0
+07ade266-0182-4f10-a373-9dba0404d944,Michael Williams,1180,119.23,9,"[""South Francis"", ""Davidsonberg"", ""Salinasberg""]","[""7147962d"", ""93eb3124""]",0
+69305196-0e3f-4415-9e9f-96ed7fdf015e,Ryan Miller,3359,77.23,46,"[""Tammyton"", ""Campbellview""]","[""10aae066"", ""d28adece"", ""a7232c4e""]",0
+0070244a-2cab-40b9-a56a-c6333e7b2d30,Sarah Hudson,1336,41.07,50,"[""North Tamibury"", ""West Katherineville"", ""New Michael""]","[""82e2b936""]",0
+74a639f9-e56b-48b2-af41-c5a30dbb998d,Ashley Page,2667,467.42,13,"[""Port Joshuaport""]","[""e5346f03"", ""b4189269""]",0
+94262606-91b5-4fe5-b82a-584a4b2b195f,Eric Stone,1476,390.65,3,"[""Joannashire"", ""East Michael"", ""Port Donna""]","[""c180693f"", ""d9d0d9f7""]",0
+3df8f615-7a63-4a65-b63c-8eb66cef9e97,Jacob Warner,3057,337.64,1,"[""Cervantestown"", ""Wrightbury"", ""Melanieborough""]","[""5dd802dc"", ""96313ec9"", ""25b19bcf""]",2
+d9eb46c6-3571-4383-a56e-20531a9c652b,Thomas Aguirre,2445,426.94,15,"[""Castrohaven"", ""New Justin"", ""Jessicafurt""]","[""e869f66f"", ""736e9e64""]",0
+9ddcf546-73ae-42a5-96d9-67ee82a9159a,Anthony Duke,3476,185.12,27,"[""Port Kellyfort"", ""Jordanchester""]","[""6245f15a"", ""00e7d060"", ""810eadbe""]",0
+e522e608-a308-4960-ad7d-241994743485,Jessica Delgado,937,131.94,42,"[""Scottchester""]","[""f3ba1853"", ""d2199f8a"", ""144efdb7""]",0
+dd863434-ee66-4731-8a4d-026913425133,Christopher Cunningham,1806,291.0,50,"[""Jacobside"", ""Hillside""]","[""a123be9b""]",0
+76dd96d2-a3b8-4a78-b218-d7362a0cad60,Vanessa Mosley,2532,148.77,19,"[""West Catherine"", ""New Christopher"", ""East Krystalbury""]","[""c1e26ed5"", ""1b5d7813"", ""be7093e3""]",0
+ae8f1e7f-3304-49c1-a525-1f501517e92b,Drew Cook,1192,227.11,20,"[""Ruthside"", ""Garyhaven"", ""Lake Brittney""]","[""be7d2bf6""]",0
+dadd70c1-b264-46f8-be3f-a41115d19d9d,Stephanie Ryan,2610,167.98,13,"[""New Danielland""]","[""03cb9c98"", ""f22fdff4""]",0
+a3cfeead-a69b-4da2-b94e-cf23787f1a7b,Lori White,292,166.02,7,"[""Port Laura"", ""New Oscarport"", ""Smithburgh""]","[""2ee6522a"", ""459aad03""]",0
+cd0827f0-dc30-4bc4-92ef-4c8ebf438c01,Sarah Reyes MD,989,269.44,41,"[""New Danny"", ""Lisamouth"", ""Daniellehaven""]","[""c3e35419"", ""f692b7bd""]",0
+4f008761-d15c-4279-863b-6217fa2ff769,Alexis Garrett,3148,31.54,12,"[""Michaelfurt"", ""Isaacville""]","[""ce7aa166"", ""6d2c9ce9""]",0
+363de557-91e7-40e9-8984-d121c5a9f588,Susan Clayton,241,379.58,22,"[""Leonardbury""]","[""984cbec2""]",0
+de8832c5-4d5f-4c11-b6ba-835851959aac,Jeffrey Anderson,250,146.63,46,"[""Smithberg""]","[""2712e58f""]",0
+5b9d072a-4289-4ee5-ae6b-81c6880ab5ee,Ashley Benson,2257,411.78,32,"[""West Nicole"", ""Port Ianstad""]","[""7f9c1a9a"", ""aa0680b2""]",0
+a7c32c1a-7ce0-4225-9d54-ed48d137a3dd,Dr. Robert Johnson,1806,394.4,9,"[""West Ashleyville"", ""South Courtneyberg""]","[""1befc489"", ""7f70fbd0"", ""36e75d7a""]",0
+757fb92d-7632-4a71-9550-0ef457b88026,Sierra Case,1537,38.36,7,"[""Warrenchester"", ""Rodriguezchester"", ""South Alexburgh""]","[""e46e2158"", ""31b8bffa"", ""c69901d9""]",0
+9d7de747-71d2-48f3-a201-80fc16747e0f,Paul Wagner,1901,314.74,11,"[""Sheltonfurt""]","[""40698528"", ""2e8167cd""]",0
+6f1a0498-d6a5-4ff9-a74e-aa3192ce4d48,Jill Horn,1709,414.54,6,"[""Kimberlyton""]","[""fe3daafb"", ""3281bc67""]",0
+c682f83d-5f51-4039-a7a6-bd95c01ce01a,Bonnie Castillo,684,147.64,11,"[""North Coryberg""]","[""f6cc311a"", ""5777b302""]",0
+64d04857-ba19-4cff-b5b5-eb2c5181be49,Michael Griffith,1096,176.12,8,"[""Wilsonchester"", ""Michellehaven"", ""Lake Andrew""]","[""0bc49063"", ""16e7c4c0""]",0
+daaa73c8-aa44-4e2a-8ac4-9b949882dba8,Dylan Castro,1532,230.43,34,"[""Chavezbury"", ""Mariashire"", ""East Melindabury""]","[""cbb00d0f"", ""1f992159""]",0
+b41ce3a5-145d-43be-9ee2-5d3fbce532c3,Maxwell Lee,2525,414.65,29,"[""Alvarezhaven"", ""Michaelbury""]","[""d8839f85""]",0
+c4b90a5a-526c-4fb7-9dd9-32b07a70ff39,Joshua Marquez,3015,174.64,14,"[""South Kristenshire"", ""North Tinamouth""]","[""fa5fe02e"", ""8afa6be0""]",0
+2452ff5c-10f7-4982-a7ab-1003a132f260,Terri Carter,1958,394.03,12,"[""East Juan""]","[""53cafda9"", ""307b5707""]",0
+df675918-6146-4df3-bc48-6eebc86ccfe6,Stacy Jones,1857,322.03,17,"[""New Jane"", ""Karenbury"", ""Lake Tina""]","[""222992fe"", ""3fb05ba4""]",0
+d6c1e04c-7c7c-4e76-8dff-36beb6414421,Darren Scott,870,322.66,37,"[""Montoyastad""]","[""c90f8564"", ""fdd52573""]",0
+bd6d368e-1169-4956-85a6-8de5a2e5d551,James Norman,109,385.84,29,"[""Jamieville"", ""West Gregory"", ""East Kaylabury""]","[""a54500f3""]",0
+785de42b-4ff9-4bab-adcb-ad9013118595,Christopher Davis,2528,398.18,37,"[""Nicoleport"", ""Port Jay""]","[""3beca270"", ""f2b6c235"", ""7f2ac3e6""]",0
+c8fbf3b9-52a7-4f40-b279-8a2172665508,Raymond Williams,2597,356.51,32,"[""East Lisatown"", ""Scotttown""]","[""e8531776"", ""63760098"", ""fc05346d""]",0
+75ced648-42c9-41cc-ae17-25f0261b6834,Chad Black,587,116.49,15,"[""New Erika"", ""East Marcus""]","[""09056322"", ""dc59e745""]",0
+61148af3-86b5-412e-a252-aec588067c91,Robert Castillo,836,333.57,34,"[""West Angelabury"", ""Morganland"", ""Lake Amanda""]","[""754abcb2"", ""ff66e694""]",0
+38b2996f-08d6-46f3-8ebe-f6d15c013b0c,John Burton,2548,420.56,17,"[""West Scottland"", ""North Melanie""]","[""7e35621b"", ""4f3bbff8"", ""9d520479""]",0
+b20ebbfa-a143-4031-9fac-71a12f5dfae5,Justin Watts,2297,106.65,9,"[""East Michaelchester"", ""Tonyatown""]","[""fb821570"", ""04fc8e7d""]",0
+ef1ca0b0-3c14-40a4-9569-282cc5c6c947,Allison Nelson,1184,192.44,47,"[""South Melissaburgh"", ""South Johnshire"", ""West Vincentton""]","[""77e35010""]",0
+abfd6635-319c-4f14-818c-0bd40e467cda,David Wilson,2720,308.81,24,"[""Warrenmouth"", ""Port Tylerfurt"", ""North Lauren""]","[""452253ec""]",0
+61e7df00-4602-46e3-b272-0a53d109a9dd,Carlos Nguyen,1559,46.18,2,"[""Michaelfurt"", ""East Christianborough"", ""North Ryan""]","[""3720dc86""]",0
+9dc1fbd6-ee23-485b-8bb1-4bf6251e0a8c,Dr. Jacob Lawson MD,2451,76.29,40,"[""Loriborough"", ""South Fredfurt""]","[""3f1412c7""]",0
+a29b031d-9e4c-4240-bbea-bb88af58bb6e,Francis Adams,2796,74.14,24,"[""Port Sandraside"", ""Williamsfort""]","[""e37cc8c8"", ""d1e97c40""]",0
+4e8d77f9-8fbb-459d-a46d-2c07867e3d64,Erika Patel,2138,104.71,13,"[""East Jason""]","[""f5ce8d84"", ""bf8f86ff""]",0
+9c7166f6-fdd4-4c3c-8753-deaa74b985ab,Brandi York,3448,324.92,6,"[""Hartville""]","[""cf4ea208"", ""8a8060b7"", ""2d82d9d6""]",0
+7ff6c798-4258-41c7-b91a-f373cc3403f0,Justin Kane,2150,103.0,50,"[""Ochoaborough"", ""Ryanfort"", ""Lake Michaelatown""]","[""0eae5204"", ""59379bc9""]",0
+cf7c6efb-1df5-4644-8667-beadd0128cec,Timothy Chapman,2702,456.07,8,"[""South Michaelland"", ""West Krista"", ""South Gregory""]","[""02a518e1"", ""adafe06d"", ""89bc2f20""]",0
+a65dce41-7150-4256-af26-b6fe58bcf388,Jessica Clayton,1786,238.06,46,"[""West Lindsey""]","[""d0596aad"", ""6cdbb57d""]",0
+4d0108e3-3e01-4cbb-8927-e8960d894b6c,Mandy Davis,1538,97.53,19,"[""Port Jonathan"", ""Rogersport""]","[""3d29c66e""]",0
+592c878f-20d4-45bc-a4fd-937657d81547,Michael Proctor,750,336.87,18,"[""North Peterberg"", ""New Stephen"", ""Erinchester""]","[""ade8adbe""]",0
+053cc475-7267-41b5-82bf-77466d34fac9,Donna Bennett,1903,111.67,2,"[""Donaldmouth"", ""Lake Michelleton""]","[""4f52b60d""]",0
+9a6af17b-3352-4060-829a-021a4002b4da,Wendy Washington,2327,68.48,2,"[""South Mercedesbury"", ""Maysland"", ""Anthonyview""]","[""c66f81cf"", ""a2c08093"", ""74c904c1""]",0
+588bda48-29ad-4cb9-9733-970e8eeacbac,Lindsey Lopez,2373,345.11,44,"[""North Stephenfurt""]","[""7fe1f63a"", ""29e66eca"", ""a97330d4""]",1
+d0fb1217-96ec-4516-809b-7d8e72212bdc,Mr. Daniel Lopez Jr.,947,404.51,49,"[""Christopherside"", ""Lake Luiston"", ""Williamfort""]","[""ba83139f""]",0
+0edd2a44-6a11-4fa9-9fa7-02d584129418,Kathleen Bruce,1819,65.96,36,"[""Jonfurt"", ""Lake Roy"", ""Lake Brandon""]","[""52143ccf""]",0
+e71f963b-7042-476f-bc88-4c751d96db2d,William Hill,2350,316.57,22,"[""Greenfort"", ""Pollardville"", ""Robertaview""]","[""cf2db2c2""]",0
+430a9e21-53f0-428b-8357-24a6fa80135b,Amanda Robinson,2011,495.14,35,"[""South Alexandershire""]","[""143071de"", ""84077ba2"", ""d1dd771b""]",0
+7d3af934-b711-46fa-894c-69e78b1d838e,Matthew Hernandez,497,404.87,18,"[""Munozburgh"", ""Port Tracey"", ""West Daniel""]","[""a5c7f512""]",0
+214a28dc-564b-432d-91d3-b8627052491d,Christina Gaines,1248,138.95,15,"[""Scotttown"", ""North Petershire"", ""Lake Austinview""]","[""8b832f85"", ""bd8bcab5""]",0
+f4a4f528-cbd8-4442-b10b-ead5d71296ea,Christine Long,2537,117.16,38,"[""Mcintoshstad""]","[""e0689a46"", ""cea52b1e"", ""93c9f19e""]",0
+e950f591-b665-4bc4-9c9b-31c657c674de,Kristen White,3024,20.41,9,"[""Williamsbury"", ""Port Douglaston"", ""North Cristina""]","[""81b28c44""]",0
+ba9a352e-619c-4959-986d-0a39a4cd3e34,Danielle Sheppard,2646,421.46,8,"[""South Paul"", ""Port Sara""]","[""739449db"", ""8d190d70""]",0
+46feca87-9880-47ac-8779-e123e52b786f,Marco Larson,1759,435.18,31,"[""Janiceland"", ""Lake Lauren"", ""West Timothy""]","[""08a60b2a"", ""5d80434f""]",0
+0d5c9281-8ee0-4b56-a370-1f0a79ff79a9,Kevin Morris Jr.,2953,496.67,35,"[""North Cheryl""]","[""6f401ee7"", ""37b14ed5""]",0
+303b873f-4ad3-42b4-8acd-afbf4fddb9d2,Brian Friedman,3311,250.14,14,"[""South Allison""]","[""d68a7593""]",0
+6774d8e3-c3eb-4f01-95ab-c5de9245be4e,Charles Brown,1688,385.47,17,"[""Gallegosberg"", ""New Evanburgh""]","[""670a12ad""]",0
+b8adb808-e37e-4636-9690-53bffbbd06be,Patrick Gordon,3254,199.28,38,"[""West Carolmouth"", ""Toddport"", ""Karaville""]","[""9867b989"", ""c15afafb""]",0
+a005886c-7589-4e89-bfbc-07634c61092e,Lauren Snow,2800,355.78,9,"[""Thomasshire""]","[""d4ec2944"", ""3a16616d""]",0
+6924720d-47f5-4987-bde1-42cfd9a1534c,Brandy Patton,1060,164.0,34,"[""Riosfort"", ""South Brandon""]","[""21159154"", ""182fe88a"", ""8f56bc02""]",0
+1e81c4e4-1471-4660-ac7e-c89dd1747998,Jason Bennett,2342,95.18,5,"[""Chavezborough"", ""North Nicolechester""]","[""c2be5e17"", ""65ef235a""]",0
+02d26c18-2137-4610-a7fd-89404bcb90b7,Dustin Jackson,1047,295.67,22,"[""Woodsville"", ""Carlshire"", ""Port Kevin""]","[""0fce7b8c"", ""ddb07b02""]",0
+26d798fb-7fae-4ee2-aac2-ce4ab7120e84,Kimberly Smith,3057,359.26,27,"[""Vanessaview"", ""Gonzalesstad"", ""Powellborough""]","[""983fdda8"", ""824d1260"", ""bb8c8540""]",0
+0455fd2e-f002-4a31-9c6a-368c4c05d301,Nicholas Warren,735,322.42,9,"[""West Marissaburgh"", ""Lake Paulhaven"", ""Crystalberg""]","[""fd6da986"", ""3e016d0a""]",0
+51d63d10-c229-49ce-a8cc-33348d13d6ec,Joseph Brown,431,197.9,44,"[""Solisshire"", ""Bushfurt"", ""Port Barry""]","[""58183dd4"", ""bf0eff71"", ""4a2ed1c4""]",0
+405bfab6-c22d-481f-83cb-4dfeb4f69d47,John Walker,1454,345.07,30,"[""Carlsonbury"", ""Cunninghamtown"", ""Danielburgh""]","[""29821c0e"", ""21bed5b0"", ""340d4a4a""]",0
+fea52413-5567-4a64-bf18-da49a48a6f15,Mrs. Melinda Nguyen,3101,409.52,20,"[""Ericaborough"", ""Tiffanybury""]","[""99d0f4b7"", ""14f27d51"", ""a5953dd9""]",0
+ca8ae064-9c86-432f-84ff-0248bca296aa,Kevin Cortez,2638,454.3,13,"[""Lake Whitney"", ""Port Lucas""]","[""de835c25"", ""8153a3f7"", ""bb3d493c""]",0
+6f15be3a-6903-42cb-a200-44d99b19eb84,Douglas Carter,2993,234.46,3,"[""West Jennifer"", ""Johnsonland"", ""Lake Jamesmouth""]","[""fadcf526"", ""bdca8ea8"", ""6995b348""]",0
+733abe56-b63b-48e9-85f6-e772f10a1822,Richard Morales,322,16.43,3,"[""Rodriguezport"", ""East Laura""]","[""bc8762fd"", ""1292a4ef"", ""3b6e1393""]",0
+c9b960a2-3cfd-4b5b-8259-451adc240ea7,Rebecca Young,1772,211.02,5,"[""Mcknightberg"", ""East Gregoryhaven"", ""Frankmouth""]","[""e9545f06"", ""8960229b""]",0
+598f114b-c536-4220-8095-3aa25b0351a1,Michael Washington,3253,252.38,19,"[""West Carlamouth"", ""Lauraburgh"", ""Christopherville""]","[""d3a7f37f""]",0
+162c1ab7-98a0-4acc-8397-971068fe92e4,Chad Weeks,2218,247.92,36,"[""Harrisfurt"", ""Thomastown"", ""East Mark""]","[""dea90c05""]",0
+1505dbdb-1ba9-468e-bfd6-af6136189f7b,Allison Kim,1321,345.72,29,"[""Bradleyton"", ""Wendytown"", ""Michaelstad""]","[""b191de0a""]",0
+765aab8f-758b-455e-87c6-d24218c649d5,Mark Hardy,306,18.18,31,"[""Lake Adam""]","[""740ddd9a"", ""ca7a0dd4"", ""4fdb27ce""]",0
+bfd3d30b-b3ab-491b-8bd3-9c1821409aa4,Tara Campbell,560,217.65,30,"[""New Rogerland"", ""East Nathanville"", ""South Elizabeth""]","[""be4de332""]",0
+c6d03998-1091-41d9-8f99-e63ee4172a52,Shane Gutierrez,3206,46.89,38,"[""North Kevin"", ""East Kathryn""]","[""54dc939f"", ""020e1f2f"", ""8f27f7e7""]",0
+e7104e72-2189-40a4-8ea7-ba4b5b06bd33,Stephen Edwards,819,37.24,38,"[""West Kelly"", ""Lake Christopher""]","[""8dc4a7e5"", ""47d9ed26""]",0
+c698add0-31a6-4dc5-850e-6a9c1e748973,Nicole Armstrong,265,378.44,24,"[""Lake Ambermouth""]","[""62041382"", ""15ee4dae"", ""a0648248""]",0
+3c7c568c-f6ad-4f4d-8185-9b873db21142,Janet Davies,3352,424.24,14,"[""Josephbury""]","[""2d9841b5"", ""f7f8c703"", ""cb5ba201""]",0
+465b6926-f137-44d1-b20c-f26d757f1f6d,Connor Hurst,2032,269.75,30,"[""Port Colleen"", ""East Edward""]","[""30eae600"", ""479b4fa5""]",0
+c474f8f1-7e44-427b-afe9-8bcda615d0bd,Thomas Hughes,3366,31.04,45,"[""Rasmussenland""]","[""854bbff3""]",0
+08c4faab-7ef3-49d2-bd58-cc8de70bf36f,Sheila Jimenez,95,276.04,21,"[""West Nancybury"", ""Port Amandashire""]","[""a7bfec67"", ""6b69162e""]",0
+9468a6fb-0483-43c9-b9d3-45135cf14165,Laura Harris,2023,170.8,21,"[""Hendersonport"", ""Edwardburgh""]","[""4319480f""]",0
+78781d25-56d9-466c-a018-8775081efdcf,Michael Lee,2597,218.43,37,"[""Smithberg""]","[""7c7c366c""]",0
+fcf7f60e-1822-455b-a8ca-04fd100d7a51,Heather Moran,3595,198.88,33,"[""Hallshire"", ""Daystad""]","[""6327c170"", ""3ddb089c"", ""0a8b6042""]",0
+b7b23e90-57f3-4432-9200-4e509b729c82,Regina Jensen,1415,132.88,31,"[""Nguyentown""]","[""5d7d1017"", ""50dc7e21""]",0
+047bc0b1-c7fc-4511-aa15-68a11f28d9a0,Charles Petersen,875,279.69,41,"[""Brownchester"", ""Aaronfort""]","[""e1204adb"", ""32ec8f19"", ""688f7f8a""]",0
+b99483ce-3f02-45ce-8106-d791eaa2e099,Justin Shields,3010,266.55,29,"[""Lake Valerietown"", ""East Conniestad""]","[""014d0975"", ""db564196"", ""805826d5""]",0
+4071f0ae-52b0-4891-ac4d-1800efcf637c,Laura Thomas,1513,43.68,28,"[""Clairehaven"", ""Joshualand"", ""Reynoldsstad""]","[""f5ee93ac"", ""976f378e""]",0
+be167f68-ab9e-463d-be67-a429c4bf8e46,Daniel Melton,669,288.59,31,"[""Lake Martinberg"", ""Lake Jessica"", ""Jonathanbury""]","[""6e56db18"", ""db0f4f5f""]",1
+df14c6b5-4924-42d1-9c59-b76233fd9389,Melissa Ortiz,680,195.33,31,"[""North Barbaratown"", ""Angelicabury"", ""Lake Samanthafurt""]","[""51239d16"", ""c4cb2d56"", ""1be167b4""]",0
+2c1a1490-8e29-4e14-913c-b37457004cc8,Theresa Lewis,1408,425.57,44,"[""Bensonbury"", ""Lake Ernest"", ""Smithmouth""]","[""18bacf90"", ""3f78d196""]",0
+200fa414-a7d1-4866-afc1-b29da0bbe8da,Bobby Wiggins,3459,369.16,26,"[""Freymouth""]","[""71d525ee""]",0
+50242ecb-ba7f-493f-bea4-f49e69047d09,Jimmy Miller,803,83.12,41,"[""West Michelleview"", ""Molinaberg""]","[""e6bd87ef"", ""962e6f0e""]",0
+8d15595f-a244-465a-aa7f-fae61a5b52bf,Rachel Graves,563,89.59,38,"[""Gwendolyntown"", ""Lake Sharon"", ""West Craig""]","[""2839b9e3"", ""4e37f404"", ""4e61db8c""]",0
+5e4616e7-a125-4ab1-b74d-73cc071ddac2,Robert Peterson,1778,237.34,17,"[""West Michelleview"", ""Robertburgh"", ""Tylerton""]","[""2e789272""]",0
+91ff3959-1ad4-4225-89e8-f8d7380fa1af,Frank Bailey,1310,452.98,3,"[""Reillyton"", ""North Emilychester""]","[""8ba729d4"", ""69eed742"", ""152ff894""]",0
+9617a3ad-2e7e-4b46-8501-4a6d22e79d8d,Terri Delacruz,148,211.96,49,"[""Rickyborough""]","[""7e2ae99b""]",0
+ec56c95e-ae3d-49d7-93e6-89a6a4b20697,Alan Reyes,2966,238.87,41,"[""East William"", ""Port Ethan"", ""South Sandrafurt""]","[""329215e2"", ""d9ea8501"", ""77c5eca3""]",0
+510e65d7-8c7e-4f56-b06e-6cee065290c4,Melissa Fisher,2533,47.32,17,"[""Jonesville"", ""East Stephen""]","[""bcb8abaf"", ""69511ab3""]",0
+54102715-b71c-4bf1-9345-0a585931fcca,Steven Benson,749,147.4,41,"[""Roberttown"", ""Huntport"", ""North Gerald""]","[""59b6b0b4""]",0
+093a116f-7132-4300-b382-c9d9d4bb80b2,William House,1689,274.28,28,"[""Gonzalezbury"", ""Jenniferfort"", ""New Erikahaven""]","[""2896fc77"", ""94a93404""]",0
+9a8250e8-940f-4e2c-87b5-7587da0c72eb,Edward White,2077,207.54,7,"[""Port Darrell"", ""North Jamesside"", ""Tonyaville""]","[""d171a4cd""]",0
+48e240db-b908-4cd1-a576-d31ede8d39e9,Lisa Long,1543,374.24,48,"[""New Emilychester"", ""Riveraville"", ""Hoffmanberg""]","[""9221cdc8""]",0
+72ab371f-6d2c-4d99-909c-0c444d23afce,Victoria Nguyen,2365,12.4,45,"[""Patrickborough"", ""West Robert""]","[""418c9b05""]",0
+cf9557a7-f335-4065-a126-83405138dbda,Alan White,2362,452.29,9,"[""West Jessica""]","[""d4045ae1"", ""3bf56981""]",0
+a4e35175-0923-4ba7-abf2-795dcc9e49c8,Stephanie Moore,2362,59.11,15,"[""North Daniellechester""]","[""66a54e79""]",0
+096102f3-58c3-4c7c-9485-0573227372dd,George Drake,2496,142.45,13,"[""Port Todd"", ""Jonchester""]","[""cd54f374""]",0
+78618449-d291-490d-ab7a-d1186e0d8ce8,Gabrielle Walker,1098,205.46,16,"[""Lake Kristi"", ""Davidmouth"", ""Chungstad""]","[""a8312b08"", ""20dcf893""]",0
+71b69d20-9381-495f-be09-dee578d06c7a,Ashley Cummings,2061,115.87,45,"[""Sharonmouth""]","[""71f4164b"", ""fed6ad95""]",0
+1f2cdce2-1ec6-4bd6-9d2f-3f052cab2e1b,Scott Carney,2660,121.27,39,"[""East David""]","[""d10c855d"", ""5941d16e"", ""b1dedcd1""]",0
+e320fa0e-d663-46a8-a01a-24aff3d546ad,Robin Evans,3139,46.79,14,"[""Herreramouth"", ""Perezview"", ""North Alexander""]","[""b5c41f79""]",0
+c7fc80ed-f089-4ca8-865f-1ee176105c1d,Andrew Patel,3632,461.68,12,"[""Port Susanton"", ""Martinland"", ""Markland""]","[""b5b3e0df"", ""c836db9a"", ""678e5e62""]",0
+1a08d040-3447-482a-9507-38fba92b9c42,Dean Baird,2972,318.85,25,"[""Teresastad""]","[""b7c95a0f"", ""202f763a""]",0
+83343882-df1f-4989-8b60-2ea09dd614c8,Michael Andersen,3050,349.66,34,"[""Lake Eric"", ""Port Brittanyview"", ""North Chad""]","[""b9bed59c"", ""879a1991"", ""62099f4c""]",0
+64b2cbab-c741-4c60-a8d4-9e7de39c4428,Alan Hanson,3412,48.32,43,"[""New Jennifer"", ""Terrenceton"", ""North Wesley""]","[""3c152f36"", ""bd68f929""]",0
+2eed6cd0-0d29-4746-991a-2908b4283100,Julia Cobb,995,217.83,15,"[""North Christopher"", ""Riverahaven""]","[""287336bc"", ""f367149b"", ""08f42783""]",0
+ac90e678-63e9-496b-83a1-29f80faabe76,Matthew Gay,1830,33.46,19,"[""Lake Audrey""]","[""7366a3b6"", ""658f3e23""]",0
+fe77da29-996f-4dd6-b739-2b180a46cd1a,Victoria Ramirez,1301,20.27,24,"[""Thomasside""]","[""e2337db9""]",0
+ce0d5dee-2b6a-423f-91c6-1b8f3fa543bd,Adam Anderson,1310,215.2,3,"[""West Williamview""]","[""570d2cd0""]",0
+73ce8784-0c0b-4479-ae8e-2fe3d4a667ab,Melissa Contreras,74,451.62,33,"[""Ginaport""]","[""3e3344ec"", ""f2792c66""]",0
+14ee4e57-0989-45d7-9c4b-de5f293cbdbc,Madison Stevens,1101,358.04,3,"[""Calvinbury"", ""West Brianmouth"", ""Latoyaburgh""]","[""5b6db7ac"", ""6604fb9f""]",0
+d8b344ed-54be-459e-a182-cfa1106ccbd4,Amy Lopez,413,103.51,11,"[""Vasquezbury"", ""Lake Melissa""]","[""11faa0d7""]",0
+b0cfce9d-bea7-4185-8bd3-c623df080508,Corey White,896,42.36,22,"[""North William"", ""Lake Rachel"", ""Josemouth""]","[""bc5c2855"", ""6f33d25e""]",0
+f8b68569-5fd4-441e-88a2-beeb8fd48315,Michael Wiley,3019,35.04,27,"[""New Christine""]","[""441e831b"", ""1c5c81d7"", ""158cfa9e""]",0
+3160ffb5-7ca9-4bff-80bf-07b659031a44,Timothy Daniels,3346,132.28,34,"[""New Faith"", ""Bryanport""]","[""11417eb4""]",1
+9a752a15-919f-42bf-a418-a8c56e01db97,John Jenkins,2959,476.2,28,"[""New John"", ""West David"", ""Danielhaven""]","[""56809e69"", ""1e1618ff"", ""7d7df939""]",1
+7f44a527-593a-4af1-adb7-dbd3ff6d2176,Pamela Douglas,382,467.55,38,"[""Jeffreymouth"", ""Port Jenna"", ""Angelachester""]","[""453d1556""]",0
+5befe553-ad15-4d03-9f1b-ed8c8cf26d2b,Christopher Perez,3181,338.37,1,"[""Port Gerald""]","[""009d73e5"", ""a9f7d9b6""]",0
+e898f55a-5bf6-436d-affb-6a6fa4988d67,Emily Krause,2500,359.64,33,"[""East Timothy""]","[""96ecfd8c"", ""87d9eaa3""]",0
+370c7384-3c58-4f88-8341-56604286278e,Geoffrey Lowery,908,187.42,24,"[""Kimchester"", ""Mcdonaldland"", ""Harrisborough""]","[""a383d3dc"", ""c0d13c19""]",0
+e6539063-7368-4603-800f-3581ea5578ab,Sandra Edwards DDS,2304,45.45,2,"[""New Michael"", ""North Pennymouth""]","[""11872c3e""]",1
+4c30fce2-d79f-4f8c-9b81-70e195feec95,John Wright,1752,50.83,3,"[""New Lisa"", ""Lake Alexisberg"", ""Walkerton""]","[""19becd5f"", ""af189d9d"", ""6782b865""]",0
+df0251c2-28ca-40d2-8545-f25bb53f44cb,Kara Yates,2520,94.87,29,"[""Russotown""]","[""09858b83"", ""45e9c30b""]",0
+bd18f471-b128-4c58-8d10-035418e7f64e,Eric Hodge,2422,487.43,34,"[""Mcguirehaven""]","[""7fbc55df"", ""6824959f""]",0
+1d986bad-81e0-4b28-9b2c-a8419c9a3e71,Amber Murphy PhD,1875,261.49,9,"[""Colemanstad"", ""New David"", ""North Joshuafort""]","[""4d34f7c3""]",0
+17ca42ae-644d-49e5-8f67-405dcee13f02,Connor Fox,1859,97.8,12,"[""Rachaelville"", ""Lake Gabrielborough"", ""Timothyton""]","[""77eeb48d""]",0
+ff114740-5981-4d59-b671-9df6387f2c9a,Donald Ross,265,89.86,26,"[""Joshuaport""]","[""ddb6c7fb"", ""f4489dd0"", ""3db12ccf""]",0
+2171ed8e-6857-4d25-b9d1-5557f77302af,Cheryl Austin,3026,159.29,30,"[""East Timothy"", ""South Robert""]","[""e4c6d031""]",0
+2276a1b5-a4c8-43d5-8304-313a9380dc61,Mark Doyle,352,419.39,46,"[""Lake Robintown"", ""Joneschester""]","[""7f12b916""]",0
+6890e6a2-b85f-4386-882f-e7d82d48a36d,Brendan Wyatt,2045,255.22,34,"[""Davidsonchester"", ""Rickystad"", ""New Ian""]","[""7ed69e94"", ""0d535d80"", ""8a5b6aae""]",0
+44f9245a-0476-4a27-910a-73c598cbf53d,Judy Morris,288,287.38,13,"[""North Brianchester"", ""West Michael""]","[""7738014a"", ""f1f7aa81"", ""0dbfe345""]",0
+41aa3913-4158-4dd7-a220-c4b78b584731,Patricia Johnson,3119,120.04,29,"[""Lake Melaniemouth""]","[""4a36baa0"", ""b99b2f83"", ""812db869""]",0
+8028aed2-1475-41f1-b186-25caf389e8c4,Thomas Chung,103,46.65,20,"[""Davistown"", ""Lake Jason""]","[""a0788f78"", ""adfa4208""]",0
+0b4012d0-f361-40f9-ad91-b2a092ca2dd1,Yolanda Hawkins,2036,73.93,17,"[""Ericfort"", ""North John""]","[""2b401bb3"", ""3fa70be2"", ""9c7d55f7""]",0
+f7d2ec4d-543e-4792-95cb-09b9d19d0f25,Nicole Smith,1074,481.44,22,"[""Phillipsburgh"", ""Michaelville"", ""North Shannonland""]","[""0bb87cb1"", ""5fbfaa8e""]",0
+e3a86e16-5545-445e-b9cd-908c3bcc6497,Matthew Wade,3526,465.79,16,"[""South Philiptown"", ""North Amandachester""]","[""c226ab4e""]",0
+b99ca7ce-81f9-4352-be7e-6aac30369fa8,Crystal Clements,1924,294.37,15,"[""West Sarashire""]","[""b27a8f74""]",0
+e04ceff2-bb7e-4684-85ff-f918856334d3,Ashley Winters,2027,50.1,38,"[""West Sandramouth"", ""Michaelchester""]","[""96f9d069""]",0
+a663f81a-6261-4c50-86bd-f7e62ef0f99e,Rebecca Medina,1074,323.0,42,"[""East Scottchester"", ""Port Jennifer""]","[""43532791"", ""3fa6a74d""]",0
+9994ec14-84e2-440d-8d0b-7a098b60f630,Eddie Bryant,1093,311.38,29,"[""Lake Kelly""]","[""0ed6fd56"", ""c238e38f"", ""9a4d1d83""]",0
+7fb8baa3-b425-414f-9012-4eb884d9f46a,William Robinson,1140,56.61,44,"[""South Taylor""]","[""aa101ee4"", ""af22d15f""]",0
+bdca98dc-9028-46a9-8e2d-036c6517ecc6,Kimberly Hughes,3277,46.91,10,"[""East Daniel""]","[""b8951845""]",1
+9f821904-2bb4-4944-b334-95a167c99257,Alfred Hamilton,1644,333.33,48,"[""Zacharyland""]","[""c1ffd968"", ""0f4013b3"", ""c15e10da""]",0
+e66db9c5-7a56-45cc-aca4-a5379ba1a3c1,Charles Leach,1496,90.57,28,"[""West Tamara"", ""New Patricia""]","[""107ba732"", ""670a748f""]",0
+5efbca76-6baf-416c-853a-7ff348eac0ea,Richard Vang,869,214.03,20,"[""West Christopher"", ""Woodland""]","[""5ba8dc11"", ""3843f46b"", ""802078f0""]",0
+28c72c7f-18c6-464c-9a62-d7042a99be33,Mrs. Heather Torres MD,1359,266.39,35,"[""Port David"", ""Gomezmouth""]","[""6b7c0626"", ""f156b33f""]",0
+f11fa66a-98b3-4ac4-a55c-8e711fa5b9e4,Stephen Jackson,685,329.57,43,"[""South Curtistown"", ""Adamsbury"", ""Smithport""]","[""61b64c0c"", ""0b93a5c3""]",0
+23ee0f0f-7128-486e-907b-7aaf4c1262e4,Tyler Grimes,3367,128.58,4,"[""West Paul"", ""North Melissastad""]","[""53029af6"", ""129667b3"", ""c6b9a417""]",0
+2a268537-3a1e-4d5d-b08c-2507e7387a34,Kimberly Brooks,3370,459.05,35,"[""Lake Tammy"", ""Davisland""]","[""884dd0e2""]",0
+beb9bc26-d85c-4404-b7df-6fd97195f427,Melissa Rivera,3442,430.64,27,"[""New Normafurt""]","[""acf19096""]",0
+d33c8675-6434-48ba-be65-7002100abc82,Caleb Williams,3429,391.51,6,"[""North Ann"", ""Geoffreyside"", ""West Paul""]","[""e659d91d""]",0
+fa6fee02-f8ae-4c89-9e32-713b69fbe73e,Alan Dunn,2587,119.42,20,"[""South Luisborough""]","[""beb23aec"", ""212b77ae"", ""25f47171""]",0
+13f8f4d5-c5d7-44dd-b8c4-0991a0493c01,Dylan Owens,1429,222.26,21,"[""Smithburgh""]","[""1c417cfe"", ""aa2789fa""]",0
+e7166bda-d114-4644-a279-08523ec2a2f8,Jose Clark,1493,488.96,13,"[""Davisburgh""]","[""cf2f7d50"", ""53333bc7""]",0
+2a0f5c17-c43b-4435-b7ad-6ee52623a7e7,Susan Mercer,2074,47.43,2,"[""North Sonyatown""]","[""9fdfba9b""]",0
+68a1bcc2-a09b-4c07-bf7b-876ddc137403,John Edwards,3060,81.92,42,"[""New Robert"", ""Port Nicholasstad"", ""Markborough""]","[""d590076b""]",0
+96afb345-e919-4334-9541-3467fe0cd4f8,Michael Clay MD,3020,49.51,27,"[""Alexville"", ""South Pamela"", ""East Donnachester""]","[""508052c3"", ""4f977f11""]",0
+0b01ba47-a229-4e40-b5ef-1523bcb6a08f,Logan Chen,1109,480.86,6,"[""Port Ericfurt"", ""North Michelle"", ""Charlesstad""]","[""7ef68a76"", ""0cdf8a2d"", ""1eda8816""]",0
+d84bf19c-96b5-4b3a-8ead-36250a203fc3,Christopher Flores,3046,414.02,49,"[""East Donnatown"", ""South Toddside""]","[""df0aaa98"", ""dafa5faf"", ""82785752""]",0
+ae6cad6f-c31c-4021-a9ce-317a81a990f1,Hannah Garcia,2739,232.66,30,"[""West Julia"", ""Janicefort""]","[""6bed335e"", ""d7fdb7bc"", ""64f6d82e""]",0
+b71bf63e-d697-4990-a354-267f96b34d12,Kristy Reynolds,2918,112.45,48,"[""South Wendyburgh"", ""Barkerside""]","[""b1be763f""]",0
+344e60ea-9268-4d1e-8bf1-3068a363d24f,Caitlin Acosta,2830,140.88,9,"[""Michaeltown""]","[""1830dd97""]",0
+32dc9a5d-f212-4a86-8588-324f2f55396e,Amy Petersen,1031,265.56,31,"[""Levibury""]","[""a1c08ba5""]",0
+2abb0ce6-967b-4b3c-b047-f6914fdcf40d,David Lopez,1373,483.01,12,"[""South William"", ""Lake Jeffreychester""]","[""d1168f36"", ""b1acca1a"", ""e0a4cee0""]",0
+c2003656-ff4a-4f2f-8e4b-4eda59f13c85,Eric Hansen II,2109,54.55,6,"[""Nicholasbury"", ""West Davidland""]","[""401e65be"", ""be48d8a2"", ""498cf7ca""]",0
+cc1933b8-34e3-4e4a-b55e-de0c288fb2b1,Amanda Martinez,1068,308.49,18,"[""East Kennethmouth""]","[""d43eb292"", ""607a2de3"", ""27aec157""]",0
+3f5fd0da-2f63-413a-8e81-e20c392d62b6,Mary Peterson,373,212.62,32,"[""New Patricia""]","[""8d2d8792""]",0
+656b70ef-3f65-4c2d-9e70-9d547cd5455d,Carla Porter,1854,263.34,17,"[""Williammouth""]","[""df774cec"", ""4a6425e4""]",0
+ef969f9f-d986-4012-8695-8f319ffdb7a5,Adam Wilson,1967,310.53,44,"[""Port Kathrynland"", ""East Davidmouth""]","[""4ada0da8""]",0
+5be6b22c-b4d2-48df-a957-921acbe4b9c5,Margaret Mills,2909,89.67,44,"[""Lake Thomas"", ""West Michelleview"", ""Carrollville""]","[""f509f25d"", ""34a7e067""]",0
+f21def75-840d-4967-969b-82679fa52790,Jeremy Petersen,3435,41.9,32,"[""Lake Levi"", ""South Brian"", ""West John""]","[""b1bea867"", ""68b14185""]",0
+180d10dc-0672-419d-ae78-bc240ca008fe,Juan Patterson,1289,440.6,34,"[""Ashleyshire""]","[""7c926ea1"", ""38a1fdcc""]",0
+5f3a5025-c8c1-4063-939f-565f39ff9ea1,Christopher Phillips,1722,170.11,47,"[""South Sydneyfurt""]","[""43d4449f"", ""34bf96fc"", ""29da3396""]",0
+45f20f46-8884-4a9a-bfd6-837d82af21d7,Veronica Guerra DVM,152,381.76,22,"[""Robertmouth"", ""Monicatown"", ""West Loganfurt""]","[""8a0507ae"", ""494da743"", ""0d1872d1""]",0
+f35febbe-3212-4caf-b175-78fcb0547ddf,Jennifer Anderson,2127,385.31,7,"[""East Gina""]","[""1ee4fe11""]",0
+2c609dcb-4622-4043-807b-7c9fc81532f6,Linda Harrington,1549,435.23,5,"[""New Charlesstad"", ""New Travischester""]","[""0e78f3b9"", ""e9f69cce"", ""af8ac6ee""]",0
+3c9a4cd4-0f3c-40dc-80da-bd21a75e1f30,William Conrad,2234,232.69,19,"[""West Amandaport""]","[""a1dc02bc"", ""e3af5e29""]",0
+40445e8f-1994-43c0-9220-bd03af1fa243,Casey Hoover,2866,60.88,16,"[""South Christophershire""]","[""0b3e8ea7""]",0
+91469801-c072-43ec-8d08-84e46d8b5262,Gabriela Murphy,2714,36.45,16,"[""Samuelburgh"", ""Jacobmouth"", ""East Jennifer""]","[""7657529e"", ""9ff707dc""]",0
+00ee3ccb-c924-4e30-8cb6-c7ceb2235fa1,Stacy Williams,3562,219.83,16,"[""West Michael""]","[""99aed38f"", ""be86a307""]",0
+70dd872a-8c8c-4367-bf92-a1165d79cc24,Chelsea Armstrong,1606,116.05,48,"[""Shawnland"", ""Hardinmouth""]","[""e5ca94d6"", ""c6db78eb""]",0
+06effac4-3dd6-4328-a40c-f64f09e0bdb0,Timothy Sanchez,1895,54.21,31,"[""Port Kerry"", ""Jasonstad"", ""West Holly""]","[""7057ba26"", ""a7ef1087"", ""1ce6f52f""]",0
+7298dd46-25e6-4cee-a7f4-03c313240388,Frank Wilson,3509,98.39,14,"[""Lake Mitchellborough"", ""North Robertfort"", ""Aliciafort""]","[""7c3c5e65"", ""32221420""]",0
+bd995c94-79f8-4f4c-91d8-af3ac060752b,Chloe Logan,938,72.29,18,"[""Amandamouth""]","[""0fd4e219""]",0
+9960647f-5dc0-46ed-98b7-550f18f6f687,Morgan Fowler,2016,127.43,22,"[""Herreramouth""]","[""bba4d7c2""]",0
+441758b1-b83d-4759-b8a7-d2e5b05ca590,Michelle Mcconnell,1161,383.98,26,"[""Lake Preston"", ""Jamesstad""]","[""b2ee0e75"", ""26b76a10"", ""c1be717b""]",0
+de985d94-4c43-4198-8b94-29b6c1138051,Elizabeth Brooks,2045,75.67,1,"[""Port Jill"", ""New Angela"", ""Jonesfort""]","[""2bba25d3"", ""83894a33""]",1
+2a3e7167-11b1-44ea-8cd4-c883ec2f0721,Wendy Jackson,1776,167.48,46,"[""Jessicatown"", ""Port Michael"", ""West Erik""]","[""fb4c7d16"", ""5c198961""]",0
+4068e0e6-1629-45a3-a8ec-ff930510671a,Richard Ward,3621,273.24,7,"[""New Danny""]","[""3ef5a443"", ""4559eeec"", ""d10db721""]",0
+35eaed96-778d-4c59-8079-5c82828540d0,Valerie Decker,1675,300.6,22,"[""Hornton"", ""Powellfurt"", ""South Debbie""]","[""d9be6819"", ""045ec754"", ""3fe6ae55""]",0
+c0378f12-c05e-4190-90be-138d8fbabb84,Kyle Moore,1022,242.25,7,"[""Port Coreyhaven"", ""South Billyborough""]","[""89598767"", ""a7f40b40"", ""0438ef05""]",0
+1eacfe93-6f89-412b-a120-737c78564068,Sheri Macdonald,1987,461.97,34,"[""Mistyburgh"", ""New Matthewstad""]","[""8c2a1476""]",0
+b41b9656-a401-4820-9b4b-0bd6bc92c7b2,Parker Gray,1414,233.62,37,"[""North Ryanton"", ""Bennettmouth""]","[""7f5e9f8a""]",0
+d47b1d9b-74ca-4420-9c0b-bccafc568053,David Miller,2149,364.15,8,"[""South Michelle"", ""Port Robertborough"", ""Nguyenbury""]","[""58c0a4f2"", ""5facebff"", ""868debe2""]",0
+a8d3dfff-ba2f-48c6-9eea-ff4f66c73218,Pedro Anderson,1074,224.64,25,"[""South Jasmineside"", ""Brandonside"", ""Jacquelineland""]","[""1245248b"", ""f26897e9""]",0
+c381a3a6-9365-4ea2-bb57-e616e3cdcc46,James Rice,2437,335.97,35,"[""Lake Brianberg"", ""Smithside""]","[""3bfd739d"", ""c3b7f17b"", ""ce851c4f""]",0
+0ee567b7-e2e7-4c8f-8ecb-94d4274c8b69,William Vargas,2795,336.11,49,"[""Kellyside"", ""New Cameron"", ""Triciaside""]","[""4d1be81e"", ""59dd0d8a""]",0
+54669503-2e81-4697-8dcb-b051a0bc3455,Christopher Thomas,3489,155.39,41,"[""Garciahaven""]","[""d86362cb"", ""201397b4"", ""5ffc17bf""]",0
+d34741f9-aaed-4c56-a239-5a6ec74d5d8d,Jennifer Smith,789,55.17,38,"[""Newtonberg"", ""Kellerton""]","[""3d032dfd"", ""746c5cd0"", ""b3421c43""]",0
+de08a5c9-cbd2-4667-81be-d79dd4ea146f,Mark Church,289,146.37,28,"[""Sparkstown"", ""New Valerieton""]","[""4374560f""]",0
+316d0e2d-c631-4483-921c-4a45749930ac,Erica Walls,3068,375.1,11,"[""Jamesmouth"", ""Lake Willie""]","[""97158e44""]",0
+9315db3a-9d61-4569-94f0-c180c70f28b0,Renee Morales,172,268.89,22,"[""New Mirandaville"", ""Gibsonhaven""]","[""f879ba1b""]",0
+32f334fe-69b2-4190-a440-ff8a402ffd06,Zachary Reyes,3423,207.02,31,"[""Briantown""]","[""dcd2823a"", ""96512fea"", ""4a056b8c""]",0
+887fc925-5c31-4169-807c-d096626fe7c1,Kimberly Espinoza,1786,317.82,32,"[""New Danielleville"", ""North Paula"", ""Lake Jessica""]","[""ebf93dc6""]",0
+0b867088-cfb3-4f15-9680-1fb2580162a6,Michael Dunn,202,468.34,49,"[""Hooverborough"", ""Gordonport"", ""Elizabethhaven""]","[""85d4c191"", ""d7b62057"", ""9b3c2b9a""]",0
+5e181bd0-5421-4a41-89b8-51631f20a9e6,Danielle Miller,1943,21.26,19,"[""Woodberg""]","[""2e780ed3"", ""7c188997"", ""44dec4e3""]",0
+18b52809-d157-4576-bb51-08439009af13,Nathan Jackson,2037,354.35,7,"[""Pearsontown"", ""Harperland"", ""Nicholasland""]","[""ddfe2e44""]",0
+b3cc6cc3-c60b-4233-b50d-f85266f2784a,Howard Stewart,1018,178.55,26,"[""Hendersonmouth""]","[""37ecf5b8"", ""9b7a903b""]",1
+9a55c6ae-e9e8-49d2-968c-f70634d6e64b,Robin Liu,3093,21.36,1,"[""Garciaton""]","[""e6aba006"", ""8bcad343""]",0
+baf93062-1117-4834-88b0-12fe8564ebdc,Christina Thomas,2410,473.33,14,"[""Beltranshire"", ""North Jeffery""]","[""3c9fe99b"", ""6fba023c"", ""d20c1830""]",0
+ae34fb04-22de-43e1-aa1b-5af6e2134178,Alexandria Mckenzie,2818,34.56,37,"[""Port Vanessaside"", ""Jordanburgh""]","[""a5ad7888""]",0
+6b2d2515-00fc-4f62-8db6-5fb100d21324,Jesus Carson,692,25.88,28,"[""New Oscarberg"", ""Lake Bob"", ""West Jason""]","[""9c07e221"", ""e8e99e3e"", ""6891975d""]",0
+9cf5c730-a1a3-4fdc-8057-df24981f6acb,Natalie Rodriguez,926,237.07,15,"[""Kevintown"", ""North Coreyberg""]","[""73091c7b""]",1
+9552d934-ad5a-4aea-a1e3-2b85a6e6d346,Jose Barry,2222,107.42,30,"[""Port Briannafort""]","[""c5d996f1""]",0
+0250c66e-bd9d-468d-9608-985668d867ab,Robert Lin,2276,488.03,40,"[""Reeseshire""]","[""86d09a2f"", ""21732517""]",0
+8b90d5bc-3b96-4d34-9928-67f89b785ce3,Julia Thomas,3494,266.45,36,"[""Peterchester""]","[""1b498366"", ""19177d09""]",0
+3808c90c-f5f9-40d7-89d6-afe4240d30cf,Brittany Sosa,204,449.5,19,"[""West Markstad""]","[""e84f8725"", ""607cc210""]",1
+1530364c-a648-43f1-99da-41d73d356424,Tammy Adams DDS,2106,415.48,6,"[""Kimberlyside"", ""New Randy"", ""New Joshuashire""]","[""2ee470f3"", ""e8309032""]",0
+ea0867ff-8e53-4e40-a035-1b5d9c3e5a95,Daniel Ramirez,3153,397.64,10,"[""Lake Whitneybury""]","[""74831569""]",0
+f288726e-0934-4723-9eab-5197574a3fe8,Jeremy Garcia,1339,324.56,44,"[""Kathrynside""]","[""315effb6""]",0
+b7ba43b2-6bd6-4672-a20f-45b98b84cba5,David Arnold PhD,1935,335.11,50,"[""Lake Josephshire"", ""Anthonyside""]","[""dc205df9"", ""3ae3c58d"", ""698a607e""]",0
+d4da7b8f-3376-4bae-906c-336c5c910fc1,Jaime Payne,1898,243.06,40,"[""Martinport"", ""Ballberg""]","[""10cdf27e"", ""89f3199d""]",0
+19d0d38d-2ded-4f05-a1dc-29ffbe7d58e7,Heather Hutchinson,1457,195.43,46,"[""West Michaelton"", ""Tiffanytown"", ""New Patriciastad""]","[""62dec9e8""]",0
+709cf69e-4b63-4147-88b8-3e6e8ee613ba,Linda Campbell,3446,329.93,43,"[""East Tammy"", ""Briggsfurt"", ""Mitchellmouth""]","[""5087590c"", ""e46bf95a""]",0
+c7febc5d-3324-4833-87db-5585022c7ac5,Ryan Cuevas,1333,286.35,41,"[""Jonesview"", ""North Katherine""]","[""8f82db47"", ""1c8d94cb"", ""0bbb096d""]",0
+6da64a7e-ce75-42cd-ab52-e5073b37b990,George Christensen,471,110.63,33,"[""Ramirezland"", ""Terrenceton"", ""Cruzport""]","[""8fcfa669"", ""62ad5739"", ""06ca5609""]",0
+47c01965-d247-4c38-8c2f-c268821bdf4a,Erin Garcia,2593,459.87,21,"[""South Stephanieburgh"", ""Port Dorothyville""]","[""76b4f7cb"", ""674b80f8""]",0
+a2a2853b-970c-49be-a76f-aacbe9bd36ab,James Brown,2357,136.15,35,"[""West Sarah"", ""New Joshuamouth"", ""South Kathrynfurt""]","[""1df3443e"", ""fd9092f7"", ""0d53c43d""]",0
+d4a4dc97-54d7-4fe3-b543-6257c20e914a,Nicole Cordova,2105,465.2,7,"[""Copelandton"", ""Larahaven""]","[""c652da4f"", ""8cd65ba7"", ""04bff100""]",0
+45eef56c-3b8d-4ab9-9e7a-26ce7ef9f2c4,Jacob Lewis,736,62.29,12,"[""Jonesfort"", ""Martinezside""]","[""cc11888c"", ""dc52097f""]",0
+872f25ea-a7fe-4df1-99ed-d5fe5bdda380,Alejandro Young,2147,174.62,18,"[""Angelaburgh"", ""Lake Cheryl"", ""Stevensview""]","[""c3ba71d4""]",0
+c3789bdc-b3ca-4d1c-b1e1-0b246777a98c,Paula Gibbs,1827,93.19,43,"[""Weavermouth"", ""Sharonbury"", ""North Tinaton""]","[""97368a12"", ""4c5064b1"", ""bcff7887""]",0
+b42c5e98-c7e6-48bb-8e0e-7f53291157fe,Jose Lozano,2294,160.01,28,"[""Kaitlynshire""]","[""c2533498""]",0
+dac5b71e-3181-49fc-8536-4793382bdf72,Shawn Fowler,1957,486.66,47,"[""Carpenterfort""]","[""41071ef1""]",0
+470f218e-33bd-4366-ba19-9f678799615a,Andrea Kline,2869,13.72,22,"[""Lake Matthewmouth"", ""Allisonshire""]","[""2e20276c""]",0
+c1f21b29-ead0-4897-8d04-2a7db5770faf,Tracy Dean,1971,39.04,15,"[""Heatherburgh""]","[""275c624a"", ""37241a03"", ""b801d007""]",0
+3a4bd4a4-1031-4508-951a-5d254823ecad,Anna Carter,3373,476.93,46,"[""Chavezmouth"", ""West Cody""]","[""931d5ae5""]",0
+6dde5dee-051a-4d56-8af4-4dc727d74f31,Sarah Donovan,481,414.92,4,"[""Dustinmouth"", ""Martinezshire""]","[""d388f386""]",0
+3946c055-21ed-4478-8295-f2ebf35f93a6,Paula Gates DVM,2050,308.63,11,"[""Michaelbury""]","[""f6665bc7"", ""ffc84cfd""]",0
+2d1a2d5b-ea26-4ca1-b08b-57c787a15bce,Michael Hoffman,1174,118.4,10,"[""Houstonfort"", ""Greenberg"", ""Brandonbury""]","[""696b3f55"", ""910fc610""]",0
+48da3dab-ee2e-4044-bdcb-d28cdd76031d,Jose Diaz,3091,93.48,50,"[""Tammymouth"", ""Michelleport""]","[""c478ea1d"", ""1d7f3c7b""]",0
+031f55e3-5f04-41e3-b436-3bb0a52e939e,Christopher Gordon,3009,444.52,37,"[""Murrayport"", ""Johnsonport"", ""Perezland""]","[""59f0acaf""]",0
+8454d617-bca5-4962-8547-a116c2bd96cb,Jennifer Harris,3412,18.13,4,"[""Kevinberg"", ""Lake Derekfort"", ""New Erica""]","[""060628dc""]",0
+7121c911-6808-4884-90ad-d0b5049163bb,Todd White,3254,494.2,46,"[""East Jeffrey"", ""Derrickport"", ""Schroederstad""]","[""f90abd6f""]",1
+abc58133-5056-410c-a783-318acbdf410f,Michael Armstrong,913,387.7,34,"[""Jamesport""]","[""e0788bbc"", ""1c6f2e95"", ""04555b43""]",0
+62aa0c84-f2a0-403f-98a7-1ed10060cf03,Jenny Lucas,2290,436.06,12,"[""Port Raymond"", ""Davidmouth""]","[""ca6258c0"", ""a164f1e8"", ""a36517a8""]",0
+3d25c13b-71d9-4ff2-ab37-9310655b0009,Amy Moore,2977,466.97,16,"[""Hannahbury"", ""Doyleberg"", ""Lake Roy""]","[""96597f3c"", ""71711b54"", ""073fdf1f""]",0
+bf905492-fb47-48db-bf31-c04ebe0c3df4,Lisa Tapia,3434,141.31,30,"[""South Jasonfurt"", ""West Carrie""]","[""238d7acf"", ""12b116ac"", ""2553972b""]",0
+4ac0bce9-2c7b-4489-a71f-04e937c0cd04,Cassandra Valdez,245,211.05,41,"[""Janechester"", ""East Laura""]","[""66690600""]",0
+84e4749d-49ee-4523-ae91-cd67e0e78e56,Benjamin Clarke,235,390.53,39,"[""South Nicholas"", ""Karafort"", ""East Kelly""]","[""4d834b49""]",0
+444b1e18-48de-4658-8e47-a3d3dc0a257a,Edward Duncan,2218,135.44,2,"[""South Benjaminport"", ""New Christopher"", ""Lake Allen""]","[""3c2abfe3"", ""36eb038b"", ""05e8096a""]",0
+9fd34f79-bf49-4234-b06c-20a87f546e4a,Keith Thomas,2673,421.93,38,"[""Ashleechester"", ""Andrewsberg"", ""South Brittneyberg""]","[""4c03d711"", ""ab7ef2d6"", ""e3b4f736""]",0
+94557597-5c35-4805-a543-8ed89cf75e3d,Joshua Lindsey,3615,478.92,12,"[""East Caitlinberg"", ""East Nataliefurt"", ""Woodmouth""]","[""efb40665"", ""92a068e7""]",0
+980f72d2-21b1-4253-a9a2-79cf7f1e128c,Rebecca Sloan,2857,246.35,26,"[""Michaelmouth"", ""Millsshire""]","[""5580331d"", ""98f38608""]",0
+fe941daa-a18d-4342-a4d5-c0d24ec8da77,Chloe Thomas,2394,430.61,25,"[""North Sierraberg"", ""West Wendyberg""]","[""fd054a4b"", ""a12c17b1"", ""393f1d24""]",0
+25fac406-ad6b-4fee-a06c-4557dc737068,Catherine Neal,2252,62.17,48,"[""West Williamberg"", ""Lake Julie"", ""Johnsonstad""]","[""8c474752""]",0
+de9a6c69-ce6e-4b32-a87b-fac2b1d14ca4,Darrell Vasquez,3618,65.71,31,"[""Port Lindaberg""]","[""1364e0e6"", ""be064dca""]",0
+0e503aaf-ed93-468d-bf94-a41ad36691c6,Jennifer Freeman,1818,392.69,43,"[""South Michael""]","[""4b3507f4"", ""ba2ad735"", ""8378cd80""]",0
+25ae6f08-a06e-4878-a5f0-074517ae6930,Gregory Gomez,447,33.84,14,"[""Sarashire"", ""Robinfort""]","[""37eebde1"", ""78c225b8"", ""5770aed8""]",0
+7c5414ba-a3f4-42bc-acaf-818679b40df8,Christine Ortiz,534,346.31,29,"[""South Stephanie""]","[""557cc256"", ""e0840e92"", ""47f6e944""]",0
+0c9a8eac-d5b4-488f-853d-dffab9ea968d,Carrie Williams,730,335.21,27,"[""Coxtown"", ""Brianland""]","[""3b14c6a3"", ""c13fc47b""]",0
+9b2a41a9-b6bc-4ffc-8a85-8dc8d72d1fed,Melanie Dunn,3073,399.63,39,"[""Kimberlyborough"", ""Lake Ericshire"", ""West Dalton""]","[""74d76136""]",0
+27567fb7-fa6e-4b4d-a059-ff4bede4ba02,Angel Williams,2083,399.01,44,"[""North Mario"", ""South Claire""]","[""22a4aa3d"", ""569fd734""]",0
+06426b27-6904-4848-b6d6-97ef78340c57,Allen Arellano,1041,419.48,42,"[""West Garrett"", ""Kylemouth""]","[""e1083a27"", ""4a09f19b""]",0
+3df878ba-83c6-4a25-b3d5-183e6146d90a,Cody Rodriguez,1392,329.48,9,"[""Ashleyburgh"", ""East Mariechester"", ""Josefort""]","[""46f25bc1"", ""94fb94f2""]",0
+821753e2-a8c5-4d6a-934f-8397d4e014fa,Cheryl Murray,63,276.19,26,"[""West Michaelside"", ""Dicksonview"", ""Jamesstad""]","[""3d555e8a""]",0
+32944224-6017-4595-8344-39b4d4f6a790,Cynthia Duffy,2747,137.69,13,"[""Port Kerryfurt"", ""North Amandaview""]","[""7ed4097f"", ""9643314c"", ""84e3111b""]",0
+c7a8f021-a245-4e46-a493-83ca9ef7c62a,Christine Johnson,1460,308.71,28,"[""West Megan"", ""Hurleymouth"", ""New Sarahmouth""]","[""99f6a734"", ""3a5a63b3"", ""3936c174""]",0
+162b36b7-bf5f-4d41-97f4-328377528de8,Amanda Peterson,2235,92.33,11,"[""Stephanieland"", ""Andrewchester""]","[""8a6feadb"", ""363d633c"", ""776af4f5""]",0
+c85ed7a0-01ee-4fcc-8b60-33a5fdd169c6,Ian Jackson,33,210.21,4,"[""Brendaside"", ""Barbarafort"", ""Josephstad""]","[""ff77acf3"", ""5b1a0180"", ""887e589b""]",0
+c3e41ca2-fb61-4489-809c-506b2931797b,Amanda Ellis,1908,209.6,31,"[""West Andrewport"", ""West Kimberly"", ""Griffinmouth""]","[""f7e1fc12"", ""e4b49dff"", ""e43f7097""]",0
+9a5df4fb-f546-48c8-9147-cfb305c0bd95,Tommy Sullivan,687,399.1,34,"[""Simpsonbury"", ""New Kelseyberg"", ""West Marissaport""]","[""8e772329""]",1
+e6e6c797-eb08-4b00-9276-a6525551ba7e,Paul Harris,406,45.49,24,"[""New Andreafurt"", ""East Curtisborough"", ""Ramirezside""]","[""02b9bcfd"", ""dd098515""]",0
+e30e915a-f773-4366-a6a1-bd0b597cf93f,Victor Reynolds,165,115.14,42,"[""Terrellview"", ""Wallerstad""]","[""b896da8e"", ""575f41be""]",0
+35a6165d-a2a9-46c2-b25e-8d6b6fd2573e,Jennifer Perry,2295,132.8,31,"[""Port Kaylaside"", ""Lake Jonathanburgh"", ""Stevenside""]","[""c1d12de6"", ""93d5f78a"", ""17c2cfa6""]",0
+49bbf732-f4e8-44f8-bcf8-e8611283d30e,Dave Mckenzie,442,242.48,33,"[""West Donaldfurt""]","[""5e2e2739"", ""53ec85e9""]",0
+7f07dea2-a9a2-4aa5-a5dd-652aa5bfc84d,Gabriel Booth,351,426.5,42,"[""Port Emily"", ""South Jessicaview""]","[""fbc9cf13"", ""142c8b38""]",0
+5a0f00f4-5334-4816-a22b-31709bf9a091,Carl Guzman,841,323.05,3,"[""Stephensfort""]","[""2dd9da17"", ""b6665037"", ""5df74174""]",0
+e5cf1749-92dd-4e16-bd88-14803e0f3053,Samantha Hodges,2542,100.19,48,"[""North Jackside"", ""Williammouth"", ""Benjaminbury""]","[""1fb97f51"", ""c3ba1504""]",0
+2941b257-049c-4df4-a0b0-814c74a180cb,Joshua Paul,121,243.57,42,"[""Williammouth"", ""North Lisa""]","[""9ccd0a95"", ""01badb3c"", ""19d2adab""]",0
+56142b2d-665d-4608-83d2-d7383642eb92,Teresa Butler,2067,454.08,6,"[""New Jessica"", ""Steinland""]","[""93757448"", ""ff412ec2""]",0
+af759453-db91-4bfe-a641-64932a05744b,Katherine Molina,264,161.85,6,"[""South Karen""]","[""c31b7e33"", ""408b248a""]",0
+4ea2d25b-0ee4-417a-bc72-96e4c89fe791,Molly Marquez,3504,170.41,34,"[""Weavertown""]","[""7721afa5"", ""d7d71e2f""]",0
+54c2cae7-8599-45c0-905a-d83f8926b27c,Teresa Hill,3421,231.92,17,"[""West Mia"", ""Gomezville"", ""Benjamintown""]","[""0bf308f1"", ""6a24d078""]",0
+d6ac1d14-be72-435f-81dc-f7f4c7f04920,Lisa Greene,1324,280.39,21,"[""Lake Anthonyfort""]","[""327efd8f"", ""36ae95c2"", ""8f9b112e""]",0
+cea8e4e8-b73d-4f72-a3f2-e511117e9b98,Rebecca Bauer,3435,242.39,27,"[""Warrentown"", ""Lake Josephborough""]","[""b9ebbe6a"", ""01c3eea8"", ""186f3ca0""]",0
+29052f07-cc11-4e99-971f-8f0e226639ee,Mary Brown,1545,288.61,6,"[""Thomashaven"", ""Williamsland"", ""East Michael""]","[""6a40594e"", ""10f4708b""]",0
+df0467ef-0006-4285-8a65-9086fe8dfdc7,Yvonne Swanson,2844,196.14,41,"[""Staceytown"", ""Tonyfort""]","[""6b0ebe50"", ""19fb449c""]",0
+77e9961b-f517-456c-9c57-88d4c2e91bc6,Robert King,3053,351.2,32,"[""Pittmanshire"", ""Josephmouth"", ""Elizabethburgh""]","[""d0653206"", ""13f41911""]",0
+96f5c2b4-6f70-4fb2-b761-777f43cb8e77,Crystal Beasley,621,57.94,48,"[""Lesliefurt"", ""Port Michelle"", ""Jenniferhaven""]","[""70122b13"", ""51bbcf45"", ""fad48666""]",0
+4a6df3ba-9a62-4e89-8955-9874b1b195de,Philip Johnson,2621,106.01,17,"[""South Veronicatown""]","[""69dba4e0""]",0
+5807e531-14ed-4601-9907-7f8865c2ee98,Megan Taylor,1853,11.11,24,"[""West Robert""]","[""695331d5""]",0
+fdad793d-80d3-4911-a784-489473e5d554,Shelby Greene,1666,125.68,33,"[""Ramseyborough"", ""Johnfort""]","[""317e42a9"", ""cb58f749"", ""053e33fd""]",0
+23ed281e-71d3-4cfa-ac78-0e62ac16d6fd,Bridget Moreno,336,21.56,11,"[""Lake Tylertown"", ""Patriciashire""]","[""b16de904""]",0
+391c30e9-6ad3-4fc7-b077-f571cd32e08c,Gregory Smith,2347,316.93,30,"[""North Keithport""]","[""20ec127d"", ""8ce3bdd5""]",0
+545476e3-fb3b-4de6-8029-e167536ab8e9,Jason Crosby,3545,167.79,39,"[""Edwinland"", ""West Lisa"", ""Port Mary""]","[""817fe510"", ""cfb441dc"", ""8b2ca9b5""]",0
+cc1ce6b8-8c15-48f5-9e98-3195fec75c7c,Angela Barrett,2505,223.96,17,"[""Susanshire"", ""Terryville"", ""Hamiltonchester""]","[""8fa8092c"", ""79cb896d"", ""b24bb718""]",0
+b176a3b2-e7b1-4db9-838f-3549a54882ef,Diane Bell,1992,54.06,21,"[""Jacobburgh"", ""South Kathryn""]","[""988d003d"", ""87669628""]",1
+4ce367e3-a6ac-4bd3-8441-abf9358b7ab2,Diane Meyer,1592,429.39,14,"[""North Francisberg""]","[""551af12e"", ""4040c30d"", ""4dc68c18""]",0
+20717a3b-687c-485c-8ac8-cba48d8208db,Julia Little,798,366.84,7,"[""East Jessica"", ""Hansenmouth"", ""South Lauramouth""]","[""27211da9"", ""95f6adbf""]",0
+82d415bf-5331-4457-ab9d-3949adc3e1c8,John Smith,1833,127.25,24,"[""East Madelinehaven"", ""Rodriguezbury""]","[""27e4306e""]",1
+5fe8d5be-4154-4e01-8ffb-3575e2976c7a,Cynthia Crosby,1368,175.08,37,"[""Morganborough"", ""North Josephshire"", ""Port Mariah""]","[""3b545d7c"", ""c56077cd"", ""eb4083f4""]",0
+2ca2995d-dcf5-4ddc-a942-ceac9e0d69ca,Dana Jones,1431,420.13,32,"[""Stanleytown""]","[""ffc8b4d4"", ""fb87029d"", ""b052066b""]",0
+e868944e-5256-4746-a210-7d7354efe0b1,Alexandra Burton DVM,3583,163.33,27,"[""Bethanytown""]","[""2ef96ca9"", ""66a24e85"", ""ad398441""]",0
+7357e259-1c90-437c-b998-09d6a7cb035a,Kimberly Mercer,1368,259.19,27,"[""Bartonland""]","[""04e9a147""]",0
+37381aca-8b7b-4eeb-ac42-01c7e1de0f11,Stephanie Cooley,374,77.74,13,"[""North Sierra"", ""Carolynbury"", ""Joshuastad""]","[""56362c93"", ""1a913ad4"", ""e451b211""]",0
+4774f988-3e0a-4eb2-ac10-1ecac9bb7bef,Timothy Gonzalez,3430,356.22,31,"[""New Taraport""]","[""886f753b"", ""8df08dc5""]",0
+e9b3e962-5e76-40ce-899e-bfd7de73eacb,Diane Jimenez,71,338.76,6,"[""Lake Keithchester""]","[""8f13571e"", ""8af23509"", ""f69f8f45""]",0
+25976a5d-0325-4b03-b2c5-5cb66c4fd5d2,Joseph Mendez,349,440.24,43,"[""North Daniellefort"", ""Thomashaven"", ""East Nathan""]","[""10d4ea17""]",0
+348ffa0c-3630-4ae9-8a5a-340d47179933,Garrett Wheeler,1425,278.16,5,"[""Lake Jennifer"", ""West Michael"", ""Lake Jefferyview""]","[""69b0101f""]",0
+671258f1-bef9-4ecb-ab3c-1095037ea9ca,Scott Collins,2412,245.39,33,"[""Dawnstad"", ""Lake Robert"", ""New Shawn""]","[""c84a6283"", ""37a6d767"", ""11f07f64""]",1
+683a297d-f86e-46e3-b536-14bea048c945,Samuel Hall,3507,352.23,41,"[""Donaldfurt"", ""West Mark"", ""Terriberg""]","[""3c3594cc"", ""ca448ed5""]",0
+d5a56c6c-8a9f-423f-b724-2344d2bc282a,Christy Barrett,1288,496.63,3,"[""Nguyentown"", ""Rodriguezfurt""]","[""e21f0699""]",0
+261fd63d-9258-4553-be6e-049f33396282,Mr. Bradley Baldwin,2079,403.65,38,"[""Cannonville""]","[""3627a6dd""]",0
+ae3f8e3e-fbb3-4cdc-b14a-dc375a2ef9c5,Lisa Martinez,865,198.43,31,"[""Port Amanda"", ""New Austinton""]","[""fc9539d5""]",0
+b07ea68b-82db-4b99-89bd-0c0cf0177f4c,Phillip Parsons,3097,496.05,50,"[""Lake Rachel"", ""North Jessica"", ""East Kellybury""]","[""52c15645"", ""13975d16"", ""dc4c548b""]",0
+101cd81a-36a4-427b-aac4-80935853551c,Joshua Rodriguez,1537,432.87,41,"[""Kristophershire"", ""Martinezfort"", ""Erinborough""]","[""cb8be502"", ""1a2b5a3f""]",0
+e972c906-61c0-46b3-9de1-ca71efabcdfb,Colton Juarez,351,374.27,42,"[""Port Crystalmouth"", ""Oscarborough""]","[""d682c276""]",0
+4d8359c1-6910-4dea-b34f-bf73c0d9d782,Justin Bray,1195,119.5,9,"[""South Debbieland"", ""Williamsport"", ""Smithborough""]","[""a45b39a8""]",0
+6d761e8a-18ab-4ecf-89bc-bd7b94a3d458,Carol Olson,2548,80.51,14,"[""Jamesside"", ""Jessicaville"", ""New Joshua""]","[""f8d8ee08""]",0
+14b2de35-c0a1-40b4-a24d-5cbba1295afe,Sean Jackson,3403,488.69,27,"[""West Samantha""]","[""a7899ba9"", ""33843dcc"", ""bdec4277""]",0
+2fc498e9-ef16-4cef-a339-e0d1efba9668,Jason Woods,1736,438.71,35,"[""Millershire"", ""Jeremymouth"", ""Hicksfurt""]","[""d1fff3fd"", ""13b4460a"", ""3e273006""]",0
+7dfd0808-3938-4502-89c9-3c018d93e30a,Nicole Farmer,1162,136.29,17,"[""New Shelbyport"", ""South Heather""]","[""5feec79d"", ""e1ce5cfa"", ""04d573d7""]",0
+d8e65753-9f93-4d89-944d-88370858adc8,Sarah Bean,57,250.9,39,"[""Matthewsport""]","[""eb4fb114"", ""030a1123"", ""d7451846""]",0
+73658336-faff-4abb-a20a-4b9e0bd7e8b6,Brandon Phillips,1366,297.95,23,"[""West Laurenmouth""]","[""ea2a6a7c"", ""577957cf""]",0
+28a9245b-33d9-43b8-933e-d388316a0e9c,Noah Miles,2821,281.29,26,"[""Frederickberg"", ""Stevenmouth""]","[""54a5be08"", ""ad69cf8a"", ""d0a10741""]",0
+709a40a1-ec12-4560-a16b-33e3476ef8d5,Ana Barajas,13,73.55,22,"[""Port Danielborough"", ""Port Nathan""]","[""5481a7f8"", ""6aaba26f""]",0
+8abf2311-df93-4fe4-8334-3cb33a7c0ef5,Jon Hoffman,1553,81.11,41,"[""Leeberg"", ""Lake Melissafurt""]","[""18211c0b"", ""bec3ffc9""]",0
+75cce1e9-5d39-4759-91e3-230b4c338754,Jennifer Vance,987,174.09,3,"[""Andrewburgh"", ""South Darrell"", ""Fischerfurt""]","[""5c64e195""]",0
+ba4d9b0e-2255-4c2e-a11d-354d2dc7b8a8,Mark Dixon,1481,50.06,49,"[""Lake Laura"", ""Jenningsbury""]","[""5e41d4d3"", ""e410dc87"", ""2a2ed68b""]",0
+bd1e9c09-1b36-4fd8-b208-bee8dd977221,Sarah Nelson,2580,344.71,37,"[""Lindseyville"", ""Bakerchester""]","[""2570f0d4""]",0
+da878ef2-4d3b-4c43-9219-28eab54a188c,Destiny Waters,21,368.44,40,"[""Pacefort"", ""New Virginia"", ""Rodriguezshire""]","[""a42582e4"", ""b26e9b49"", ""04153af2""]",0
+54b772f8-deb1-415a-a8d3-b6399f0e0ecb,Ashley Johnson,2274,19.72,19,"[""Johnsonside"", ""Prattmouth"", ""South Dawnmouth""]","[""f28aae2c"", ""77e50078"", ""071721a2""]",0
+44a9b1c6-c48d-43b3-b706-0e5a82edf3fa,Katherine Wilkins,903,481.51,38,"[""New Brandontown"", ""Moorebury""]","[""3f314fc5"", ""7bc28853"", ""e5ccbdce""]",0
+7a70541a-94ed-4150-9115-d1adedded01b,Brandi Mann MD,879,360.54,25,"[""Peterburgh"", ""Williamsberg"", ""Floresmouth""]","[""0da66f36"", ""169f87f4"", ""1f11b82a""]",0
+8845cfcf-a3ad-4ded-87c2-ec75eb97dc28,Eric Hernandez,515,311.78,14,"[""Warrenmouth"", ""New Austin""]","[""2ff10e89""]",0
+087c5268-3f3a-4edf-97cf-a6e6329c4070,Dorothy Carlson,572,431.65,37,"[""Port Jessicafort"", ""Lake Bradleyfort""]","[""a4f3e8af"", ""a19e002f""]",0
+e0177fd3-4b28-496c-be45-908db8fab011,Matthew Carey,1934,418.24,21,"[""Apriltown"", ""North Leahborough"", ""Ashleyport""]","[""6b97980b""]",1
+7285d39c-0026-475b-80fb-860533c38d40,James Martinez,2565,462.2,23,"[""South Timothyborough"", ""South Jennifer"", ""Jesseville""]","[""d5bcf285"", ""b2a2bd2a"", ""63d366c3""]",0
+74e66fda-cc40-4985-96c7-428b9ba1ee6b,Eric Fuller,2670,48.31,19,"[""South Maryhaven"", ""Jeffreyborough""]","[""5877086a"", ""8937a234""]",0
+d06df132-38c4-4b82-917d-20d49959bb4a,Edward Greene,2908,33.56,47,"[""West Valeriemouth""]","[""498056bf"", ""c03f1a6b""]",0
+1a8a3c93-267f-401a-8563-c21d56a56966,Amanda Shannon,2630,439.16,22,"[""South Paige"", ""East Jamesbury""]","[""0f187660"", ""8dc7871e"", ""d554dc56""]",0
+a8a1ea99-cebf-4183-9c47-b1322213789d,Yolanda Mcdonald,2960,254.65,27,"[""South Dylanchester""]","[""098154a1""]",0
+f6fdfa23-7ca5-4b96-8dd6-50c225a121db,Alexa Andrews,3295,143.5,40,"[""South Juliefort"", ""Carsonberg"", ""Christinestad""]","[""08ac4167""]",0
+30472de0-3885-4bd2-a0a3-fe4cc1450323,Tracey Murphy,3178,370.9,9,"[""Port Tonya""]","[""d584a3ed"", ""6e94e9c3"", ""1d2a1b04""]",0
+28f825c1-221e-44f8-aca0-fb65928c3cda,Dr. Kimberly Williams,230,41.01,34,"[""Anitahaven""]","[""74c224b8"", ""1ed66d1a"", ""87230b4e""]",0
+980a51c2-5f5d-4824-b554-e291aae1fdac,Keith Nolan,3222,66.37,44,"[""New Julie"", ""West Justinhaven""]","[""4a9563cd"", ""d4010b09"", ""58c1e1f4""]",0
+a8df77b0-e710-42c9-b940-47caf5da5860,William Bridges,459,436.36,27,"[""Ortiztown"", ""East Olivia"", ""Mathischester""]","[""d133010c""]",0
+ec6449d7-555e-49fa-badb-ae200b431dda,Denise Paul,3204,313.8,14,"[""Robertsland"", ""Websterchester"", ""Lake Brian""]","[""831f62ff"", ""a3c81f8f"", ""38e0ecef""]",0
+f971eebd-4a39-41bb-aeb6-0eaab80b535a,Allison Gomez,1998,260.34,6,"[""North Richard"", ""South Christopher""]","[""02492e5b""]",0
+ea064865-4e84-420f-9502-cc2bd54fe51d,Stacy Walker,2144,267.37,26,"[""New Taylorview"", ""Santoschester""]","[""f5572678"", ""c7cd144e""]",0
+002f6cc2-ab5b-4f40-9c5d-869c5b72bd8a,Christina Wade,611,234.38,3,"[""Brittanyhaven"", ""Leemouth""]","[""c5acee4b"", ""2b08c762"", ""8da44476""]",0
+f70228b0-43a5-4309-9108-b2e49bee7b2f,Mary Hamilton,2836,83.9,40,"[""New Elizabethhaven""]","[""a1944225"", ""527f69cf"", ""dc9ef406""]",0
+b0cf76c8-836a-4aa8-a475-ee9505cec7db,Brandon Lee,302,118.42,30,"[""Greeneville"", ""Solomonfort""]","[""a0398774"", ""d4ce0b52"", ""639802f3""]",0
+2cdd1658-605d-45ea-ad8e-bde644c84218,Christina Ruiz,1985,291.9,29,"[""Anthonyside"", ""Wayneport""]","[""07af9bc6""]",0
+c499a3f2-f382-4992-8ec6-9dcf9d35f266,Beth Doyle,602,222.34,41,"[""New Karen"", ""Franktown""]","[""9e1dddcf"", ""b3af86fe""]",1
+8cff71f0-1205-4f32-9d88-6878f4b6425a,Jack Mcgee,3245,332.09,16,"[""North Taylortown"", ""North Rodney"", ""East Jesse""]","[""99f3ba8f"", ""611218a2""]",0
+2d45a16b-f92a-4966-a6e2-820b36171d50,Michelle Hobbs,2675,486.15,7,"[""South Thomasville"", ""Griffithland""]","[""68b5bcaa"", ""fcb89dfd"", ""aadca65b""]",0
+e3fcea0a-9a37-4c8d-89d3-2c7d4bb1e5dc,Margaret Williams,2687,265.31,17,"[""Kerryfort"", ""Barronbury"", ""East Elizabeth""]","[""21bf2d77"", ""eaf20d15""]",0
+4db5ef5f-7175-4440-a288-a295b39cf19b,Amber Wang,2888,352.8,44,"[""New Johnmouth""]","[""3d371a2c"", ""e12d293d"", ""6d83d8a6""]",0
+04334969-be3d-4e04-ad15-4c21bfb25abf,Mark Peterson,3387,366.29,14,"[""North Katrina""]","[""31efbda8"", ""0cdc67ab"", ""4b23cc34""]",0
+a7b9c030-b439-449b-8262-b65020201c39,Troy Hernandez,3119,386.18,9,"[""Lake Timothymouth"", ""Lake Johnland""]","[""7b7b5573"", ""eeb49787"", ""234441b3""]",0
+89e7b191-3b57-4029-8a6b-6132da78a19e,Dawn Vega,1665,371.69,2,"[""Danielmouth"", ""New John""]","[""f769ae81""]",0
+3341f492-39cf-487f-aba5-7f1c2d60489e,Eric Anderson,2571,101.41,41,"[""Rodneychester""]","[""503e1f8b""]",0
+828b03d3-2ae4-44d9-a638-07a9ef5ef49d,Terry Morris,1638,358.79,19,"[""New Jimmyport"", ""West Lisaview"", ""Stephanieshire""]","[""ce3dc548""]",0
+7d3d07d0-5328-4f70-8f12-5adb245ba8f8,Mark Torres,724,465.45,26,"[""West Kimberly"", ""West Amanda""]","[""66e6bfe0"", ""77b5fcc5""]",0
+4776ad02-f798-4818-b86d-3b7a922030eb,Haley Coleman,1288,107.02,31,"[""Port Amandaville""]","[""cb605de0""]",0
+26f46218-f722-4121-8eae-7bb23ab957a2,Nancy Allen,1114,155.98,10,"[""East Michael""]","[""f916c01f"", ""d9fb2bfa"", ""2c81c96f""]",0
+97ea999d-e087-4b04-8e52-397299d88fa6,Laura Frey,2244,195.69,49,"[""Annaborough""]","[""1a9178e8""]",0
+031acf1e-2b93-45e0-9196-65908b1ea9c7,Mary Bradshaw,1158,393.49,47,"[""South Gary""]","[""46fecd58"", ""2b268450""]",0
+d3fd6313-8050-49b3-9ee5-2e0c96ffabb4,Anthony Brown,212,167.23,12,"[""South Ann""]","[""57200edf"", ""eca6f77d""]",1
+36821d9d-0bae-4f6b-bbaa-32353788d0ef,Shawn Rice,1728,15.25,14,"[""Rhondaland"", ""Port Michaelland""]","[""3b990061"", ""5397d996""]",0
+4577326c-fd29-4337-a7c4-2d80bcdcad64,Sarah Scott,2267,146.08,25,"[""Salaston"", ""Chavezton""]","[""ed30639a""]",0
+05b49f34-1e47-40cf-bb3b-32124cff029d,Connie Larsen,2056,278.67,34,"[""Deanland"", ""Johnmouth""]","[""0a8644b2""]",0
+8a17a74d-509e-418a-9c4c-15ac5fd3f79b,Angela Allen,1474,293.71,47,"[""Andreafort"", ""New Pam"", ""Rogersview""]","[""4d81fc1c"", ""0c3257fa"", ""19352846""]",0
+0afdf6d7-a67b-4487-9821-3368005a226a,Samantha Wallace,344,202.95,30,"[""Lake Joseph"", ""New Alexberg""]","[""cd85363d"", ""25ba792a""]",0
+af3490fd-bc9d-4954-98ed-cc49e1630e44,Suzanne Sosa,1544,64.4,1,"[""Courtneyside"", ""Melissaton""]","[""eb8b2183"", ""c56158cb"", ""b304e1eb""]",0
+e733ee36-4a99-48c5-8a4a-81fc4797d8ae,Danielle Austin,2075,265.48,42,"[""Whitestad"", ""West Lance"", ""Maryshire""]","[""8561d5e1"", ""6402c998""]",0
+a10ceaf6-2c94-4a57-83ae-c684cf4611d2,Karen Kent,1051,194.01,28,"[""Andrewsmouth"", ""Wellsfurt"", ""Perezstad""]","[""25c8f1b3""]",0
+4999fbd6-94fb-4aa7-aab9-c20eb2cfbfd5,Janet Burton,2182,184.23,46,"[""Ellisberg""]","[""82601c06"", ""3d4c745c"", ""840e72ec""]",0
+173927fa-8de3-4441-9554-f2c3c1d20a4d,Kevin Taylor,102,480.07,43,"[""Martinport"", ""North Timothy""]","[""43725c95"", ""b7d869d6""]",0
+fbd5b71a-5407-43e5-b2fb-68024a62c146,Jennifer Black,2656,480.4,34,"[""Debrafurt""]","[""cd1a4d45""]",0
+99430bd5-4366-44f8-9db2-2a2752ea4736,Bonnie Gross,2646,48.61,42,"[""Curryshire""]","[""5def8926""]",0
+09a3c066-e2b3-46d4-b898-11f33a0e9700,Dennis Greer,573,373.02,49,"[""Walltown""]","[""b7b802a9"", ""d143cfd8"", ""e357ee08""]",0
+fffe1f16-95fd-442b-a3de-9a9533066a37,William Marks,3102,303.5,32,"[""Amandahaven""]","[""7486fb9c"", ""b6d71075""]",0
+71c9b568-f317-47d4-bc8d-5346deef67cc,Michelle Lucas,319,139.57,48,"[""East Heathertown"", ""Pierceburgh"", ""East Rose""]","[""81489455""]",0
+cbaab543-fa6b-4c6b-a0c2-156f285e8f4b,Dr. Cheryl Whitaker,2960,319.67,20,"[""Hollandtown"", ""Shaunton"", ""Washingtonbury""]","[""785c525c"", ""c9e686ce"", ""251c89c1""]",0
+c6884d75-71b3-4364-8e2e-3e6fd0c26046,Cindy Lin,1676,374.32,22,"[""Lake Kyleland""]","[""3a045464"", ""64c8479f"", ""6f09e7f3""]",0
+35c76adc-a4f4-4234-84a9-4f35fd5608bd,Dustin Wilson,479,415.12,13,"[""South Monique"", ""Port Ashleystad""]","[""4581d28b"", ""2370d8ea""]",0
+93f3aaa0-2eb4-45f9-8bb3-14bf3c6b0beb,Heather Weber,2229,124.14,41,"[""East Mirandaberg"", ""East Stephenside""]","[""117c5ac8"", ""e88c940a""]",0
+5071c298-6f4e-4dbe-b01b-05a757e39118,Christian Conner,2261,330.61,50,"[""South Tony"", ""Frankmouth"", ""Douglaschester""]","[""2d840f9a""]",0
+3801f081-b42a-467f-974c-aae1dacdd8ef,Hector Thornton,1269,137.3,33,"[""Livingstonfort"", ""Cummingsville""]","[""3ccba015"", ""99badf7e""]",0
+8fbb7bc2-77cc-4d12-833b-17ade3a73e00,Diana Williams,1297,454.09,50,"[""New Randy"", ""East Troy"", ""North Julia""]","[""2c0434f8""]",0
+8be83592-baee-4896-b4cc-697a3f68d6a5,David Parker,279,233.76,43,"[""Kennethville""]","[""20cb8ee4"", ""6e48df20"", ""5722fe7b""]",0
+601b782d-b90b-4f38-878d-2ebfbda8d335,Emily Solis,529,123.99,41,"[""Vanessaside"", ""Yangberg"", ""New Brettmouth""]","[""e71a3809"", ""dee19735""]",0
+6d3c954c-1f21-4bc3-bc09-a1dbcdd37c83,Melanie Parsons,3464,300.93,49,"[""East Justinchester"", ""North Daniel"", ""Brianport""]","[""d05a58fd"", ""30f82d23"", ""0d7d0353""]",0
+6e3c64dc-3654-4353-acb0-3a31f735b04f,Bradley Mccoy,2002,480.45,43,"[""East Jennifer"", ""East Charlotte"", ""North David""]","[""14df2113""]",0
+85f1c40b-9a4f-4c4e-a3ca-eaaf6172ddf4,Juan Brown,1877,306.84,14,"[""Desireeborough"", ""Larachester""]","[""1e93c8dd""]",0
+db64f26d-2cbd-441e-86b9-de57f1b19a19,Debra Shaw,173,280.4,27,"[""Port Johnchester"", ""New Joel"", ""Joseville""]","[""d077c1b5"", ""2ad762f5""]",0
+f946f0b0-8f45-4823-9f50-881c751e5ce0,Albert Williams,2089,238.26,32,"[""North Michael"", ""Millerhaven"", ""Michaelmouth""]","[""937a32df""]",1
+9c1cdb9f-72c8-4730-825a-a026c75e1cf6,Jennifer Walker DDS,50,310.84,45,"[""Patriciaberg""]","[""0b6c3669"", ""8555dd9b"", ""549e59c7""]",0
+0dec13e2-f4d5-45ec-a416-936d569061fd,William Reynolds,552,438.83,12,"[""Joshuaberg"", ""Williamsberg""]","[""49c3e63a""]",0
+68fe5918-ba8b-493a-9710-22cc052ecb4e,Jane Marsh,607,266.11,33,"[""West Stephanie"", ""Port Alexisburgh"", ""North Julieshire""]","[""5797b5d3""]",0
+198aec1c-4c50-4699-a25d-d922b9a82ca9,Jerry Mcdonald,801,257.1,8,"[""South Josephhaven"", ""West Joanhaven""]","[""abcc5daa"", ""c15e5ec1""]",0
+2ee5f9fc-8256-44c3-9e1e-2787c772f764,Diana Savage,1422,289.84,37,"[""West Georgeville"", ""Lake Ronald""]","[""54803f32""]",2
+8574377d-3a70-4639-ab71-619568dcbfe3,Diana Brown,3054,237.88,27,"[""Lake Julieton""]","[""a11b09d3"", ""d05a73d2"", ""35abd15c""]",0
+601816e3-116c-467a-a6dc-166da5eb379a,Marcus Sawyer,1396,114.74,32,"[""Lake Andrea"", ""Jeffreyport"", ""Hansenview""]","[""7001e28d""]",0
+6f57a426-dd68-4d5d-b636-b143d21de319,Whitney Bonilla,95,238.89,33,"[""Bentonview"", ""West Jamesville""]","[""709ee011"", ""2e5534e0"", ""20d130a5""]",0
+e71a35f6-096e-4f7a-9fe4-90067e81ab71,Scott Bishop,3419,98.5,19,"[""West Shane"", ""Lake Evanfort""]","[""0000202b"", ""89356488"", ""6573935f""]",0
+0ad54405-a0f4-4201-86de-1bc3b5a22f3d,Lauren Mejia,1727,152.24,24,"[""New Julieport"", ""Lake Lisastad"", ""Timothyport""]","[""1e25df97"", ""5a8fd260""]",1
+87f2d5f8-1095-498a-b23c-e67540d48022,Cassandra Green,732,75.95,43,"[""Port Craigburgh"", ""Norrismouth"", ""Rodriguezchester""]","[""1746d1f9""]",0
+055cfc7c-b5a7-493a-baa9-11e26bb618eb,Harold Lewis,931,56.85,2,"[""Melaniehaven"", ""North Tammy""]","[""722e9b88"", ""09cde997""]",0
+5844b5df-d0c1-45ab-961a-0372f3b63eaf,Martin Guzman,3164,282.98,11,"[""Lake Jerrytown"", ""West Annamouth"", ""North Kennethport""]","[""c0f943bf"", ""d81c5462""]",0
+2c73ead6-7243-460f-9817-63bf1842a167,David Warren,1705,415.83,25,"[""Hernandezshire"", ""South Charlesfurt"", ""South Julia""]","[""8cda9464"", ""6e64d71d"", ""a71df95b""]",0
+45506851-e87c-499e-98d9-baddd1e06a8b,Cody Sanders,701,70.96,36,"[""Greenemouth"", ""East Stevenchester""]","[""cba65a36"", ""459795d3""]",0
+47b9b6c6-a319-40bd-b84d-2bdd8713d7b3,Sheri Sloan,903,284.56,18,"[""North Jennifer""]","[""98e838ae"", ""dd0b32b1""]",0
+f7073c1c-4365-459b-9850-fe67869e7682,Arthur Hawkins,299,446.2,23,"[""Wendyview"", ""West Beth""]","[""1d3a6e48"", ""c0a77ec8"", ""48e31e9c""]",0
+66958af3-cf88-408e-a0d5-11f95c23a267,Tanya Nelson,1120,303.47,3,"[""Port Lisafort"", ""West Angelachester"", ""Lake Patriciastad""]","[""83ce930a""]",0
+3000bd01-b0e3-4964-bb61-58637bb3b829,Wesley Waters,3531,237.69,15,"[""Port Carolynville""]","[""9d20652d"", ""747c5152"", ""b6dfc3ee""]",0
+e8cc46cc-c371-48ea-b808-170bf0084d9f,Sharon Montgomery,1885,167.37,42,"[""Port Sheila"", ""West Kendrashire""]","[""81323bf5"", ""73b1a306""]",0
+2a848f84-c6fb-48c8-9999-b7161bf6158b,Dr. Christopher Melton,811,258.25,39,"[""South Gregory""]","[""bb15b616""]",0
+d5b3265e-8089-4167-b5a4-108918c1d058,Timothy Hansen,189,237.62,20,"[""Lake Joan"", ""Mikaylaside"", ""East Kennethmouth""]","[""f60c3b6a"", ""90aeca81""]",0
+473d8029-94d6-42a5-9a47-82e4e191741c,Michelle Lowe,51,141.91,38,"[""New Jasonbury"", ""Thompsonport""]","[""9afcaa47"", ""59d57b33"", ""bfc22fce""]",0
+85239d7c-725e-45ae-aa21-fa7946c68838,Yvette Jones,1306,264.1,29,"[""Lake Christine"", ""Port Andrewhaven"", ""Faulknerville""]","[""9dd5add8"", ""4f8d2107"", ""c05fc7c8""]",0
+49387f4f-6bd4-4d7b-b450-a8c5104c3de7,Danielle Newman,1481,102.13,49,"[""Paulview"", ""Lake Matthewhaven"", ""North Bailey""]","[""79ff00bc""]",0
+6940e912-df66-4689-b93d-47a5b0a031d9,Mark Taylor,233,157.25,39,"[""Englishside"", ""South Rachel"", ""North Monica""]","[""4a5edb81"", ""df565117"", ""bc1f3262""]",0
+e9b9c161-c09a-4c12-8562-7b4355c3a5a7,William Lopez,1840,41.4,29,"[""Elizabethport""]","[""689007a3"", ""d21758ba"", ""c3d3c38f""]",0
+a6cea44c-a7a6-40eb-bc8f-0566d672f319,Lori Martinez,2618,122.56,34,"[""South Wendymouth""]","[""d4085d8e"", ""3a6fa42b"", ""3c2d0329""]",0
+fca3f04f-2ce4-4d41-bcb0-c23e91a47151,Amanda Jones,2947,93.34,25,"[""Port Jennifer"", ""Deleonfurt""]","[""caabd933"", ""d98900d6"", ""66fdf05e""]",0
+9f8c8d7c-f4af-4a30-b4c2-a5f5de9b51ef,Michele Jordan,498,233.44,42,"[""Port Robert""]","[""1ab2a4d4"", ""17ad3508""]",0
+f8ebd584-f82d-4297-962e-14ffb6d1b2be,Brandi Henry,1358,182.15,28,"[""Lake Sandraton"", ""Hughesburgh""]","[""9115c5c7""]",1
+d78aa06b-466d-4fa9-965c-142bc079bd08,Andrew Nelson,3182,76.68,14,"[""New Kyle"", ""North Chelseashire""]","[""b489f07b""]",0
+68cfc407-cef5-4035-a0a3-175f347a81dd,Karen Olson,1914,341.52,28,"[""Jonesport"", ""Santiagoside"", ""Ernestside""]","[""636b2eca"", ""76b5669b"", ""904b24cd""]",0
+280f1af2-1d5d-4089-b1f6-87396ee2a1d7,Tamara Williams,3482,214.79,5,"[""New Tinaborough"", ""Port Danaville"", ""Dicksonland""]","[""547eba3e"", ""e6a79c80"", ""1e8602bd""]",0
+62925649-e891-4ed9-b98b-24055359067a,Christopher Ochoa,2117,154.5,18,"[""Kimborough"", ""Smithborough"", ""Jenningsview""]","[""c48a32b1"", ""15be7103""]",1
+6cc6496f-ebaf-442a-b5eb-83bea6d781c0,Darren Brown,220,316.31,42,"[""East Johnville"", ""New Jenniferfort""]","[""7a0e5627"", ""71e61e7a"", ""5840cde4""]",1
+712a0680-4157-4bdc-8676-f333238aebbc,Nicole Adams,1402,211.98,13,"[""Henryfurt"", ""East Thomasstad"", ""Shannontown""]","[""8ca31949"", ""25b91c25""]",0
+b3ff9f13-7e04-4aca-8294-7aeaebce94f2,Joshua Clay,3601,404.08,17,"[""Martinview""]","[""a1266dde"", ""31130024"", ""10d45457""]",0
+12b6d0ac-50ac-4c2b-8e97-9c2b48d5c09f,Ashley Johnson,2634,288.08,35,"[""New Theresamouth"", ""Lake Chase"", ""Nicholasmouth""]","[""2559dc17""]",0
+0293a25f-c777-4523-9692-d19dfbc71a9d,Kylie Martinez,1034,471.58,19,"[""West Alexanderhaven""]","[""bb1e3c05""]",0
+7d9e1326-7f4b-467d-a4a0-ea87493cc9c1,Paula Young,3272,67.54,18,"[""Kellyfort"", ""Williamsburgh""]","[""9f09fb63"", ""68291577"", ""b11039cf""]",0
+d27afcbe-c49d-4b31-99ba-70ce6bdf70ca,Anthony Peterson,288,66.51,50,"[""Lisaton"", ""South Michaelshire"", ""Morganhaven""]","[""cd6b2792"", ""8d4ff1b6"", ""6b43bd81""]",0
+447cd067-07ac-42e0-b5fb-d71d88086ec9,Nicole Underwood,1577,222.76,19,"[""Smithfurt"", ""Daviston"", ""Dominiquefort""]","[""1d2a317d"", ""0a1f2e2b"", ""4d9cfd21""]",0
+d2d96cd0-6a1e-4826-abe0-f7901b7291ef,Dan Johnson,1878,113.13,21,"[""East Tyler""]","[""44d9da4c"", ""3bd1e79d"", ""30d68f72""]",0
+c0e36e0d-6e12-426e-9f5d-96b842cc2f4f,Lisa King,1859,465.43,11,"[""Poolefurt""]","[""142e2149""]",0
+8593eb62-a6c6-46e3-823c-ce7b08d6efd3,Darryl Fernandez,1905,326.76,32,"[""Whitehaven"", ""South Richardside""]","[""6f511340""]",0
+151714bb-e72c-4cd5-8a80-a494b5bd4426,Marcus Chavez,2559,370.37,9,"[""Lake Michael"", ""Port Dawnberg""]","[""c06f8d08""]",0
+66acbf50-9ebb-4e13-b387-5363e26ff745,Kristy King,3371,153.54,50,"[""Lake Leeside""]","[""f54c1626"", ""19d9b1fd"", ""cfde5029""]",0
+35943b53-2cc5-43a9-a5c2-e70c32671b0a,Caroline Roberson,268,293.57,7,"[""North Angela""]","[""36476c41"", ""6c34665a"", ""9246a64d""]",0
+d1fbbb75-2c47-42f2-b4b2-25f05f8d594b,Austin Sanders,787,228.65,9,"[""South Georgemouth"", ""Powellburgh""]","[""1e5e6df0""]",0
+03565311-8feb-497a-9206-2e358487b4cf,Austin Galloway,1700,240.43,42,"[""Michaelstad""]","[""669e6426"", ""7ba617cf"", ""b7d7ef10""]",0
+20a73946-d4f7-4038-b082-358ca84d7593,Richard Ware,1366,350.53,41,"[""Torreshaven"", ""New Lawrenceborough""]","[""a9e0e7de""]",0
+a47389ed-0eaa-411b-aa3e-fe6ada77b942,Frederick Thompson,2854,123.97,48,"[""East Denise"", ""Port Timothy""]","[""0d640d6e"", ""f9e759f8"", ""9db383d3""]",0
+90a15d8d-115c-45e0-8c8c-f94e787e6cd8,Sean Cook,134,197.64,20,"[""Grahamfurt"", ""Hansenport""]","[""17551f7c""]",0
+d5b28aa8-7582-4cc9-adac-c0ee7fb10103,Darlene Allen,375,32.66,50,"[""Johnnybury""]","[""156e8d0e""]",0
+e71fa996-3c43-4871-a35f-4afea18ce275,Michael Martin,2396,104.21,30,"[""Stefanieland""]","[""f58c2fec"", ""02fff467"", ""4b35029e""]",0
+dc0adf59-bb32-4b27-b3b0-0e98144eba20,Felicia Rosales,1979,482.29,13,"[""Port Lisa"", ""Marymouth""]","[""bf8d5869"", ""4cae972e"", ""0a7490c1""]",0
+5d538fb4-36f4-42ab-8212-971857d1512f,Regina Lopez,1357,79.83,3,"[""South Courtney""]","[""1fa8a3aa""]",0
+267d4d7f-fd3d-476f-b2a6-55af02f4af43,Bradley Brown,1587,434.62,9,"[""Melendezhaven"", ""West Nicolehaven"", ""Port Amy""]","[""99581513"", ""e8a7e53c""]",0
+92c6c1f4-8cbd-431c-8de6-4ff74c215aa4,Brian Fischer,229,270.0,34,"[""Ashleymouth"", ""Joshuachester"", ""Webbtown""]","[""f3d68385""]",0
+d41f0114-d852-4c7c-ae88-d2f4d669ad09,Connor Curry,2903,383.11,13,"[""Sharpview""]","[""be658499"", ""376057d4""]",0
+a702503e-930c-449e-bcc0-a79f2e1fc3ca,Kathryn Burke,1260,46.24,12,"[""Reedborough"", ""South Davidshire"", ""Port Charlesville""]","[""37ce37f4""]",0
+60a966f7-4870-4197-ac3c-d8765d7db787,Lauren Walton,1554,292.46,8,"[""Melissaton"", ""Kristenborough"", ""Doylefurt""]","[""c592848b"", ""cf9e58b7""]",0
+dbb6ffcb-25e8-4e75-8f2f-ef6fd062ef1d,Eddie Miller,1521,230.65,1,"[""Sanchezshire"", ""West John"", ""South Adam""]","[""a9b62a04"", ""cbc2022d"", ""540a8493""]",0
+c6b6b86f-adfe-4e88-8429-ffa62e141e23,Edgar Park,1671,128.12,23,"[""Garnerview"", ""West Lindabury"", ""Port Charlotteside""]","[""b558e14b"", ""28b7dbda"", ""dcc8f5d0""]",0
+40ced5d9-bdbd-440f-8262-50e11c050d4d,Marcus Williams,1549,154.46,16,"[""Oconnorberg"", ""Stephaniechester"", ""Erinport""]","[""53d9f27a"", ""6525e3bd"", ""4666048a""]",0
+dada4da4-c9d5-49c8-bf24-392c20476711,Eric Smith,1204,424.01,24,"[""Coreyport"", ""Turnermouth""]","[""8b8f1017"", ""82b54067""]",0
+b98053d8-aa7d-4ec3-9502-2d78fd36e69c,George George,758,172.23,24,"[""West Brianmouth""]","[""ad1a8905""]",0
+6dafd607-4573-47a1-b187-b200d778df1d,Duane Fields,2392,125.75,49,"[""North Ronald"", ""South Harrytown"", ""New Jennifer""]","[""1d869a9b"", ""9a330d53"", ""1ac673f5""]",0
+e113bb64-0556-4161-a971-33d9efa17ac0,Theresa Montgomery,1010,136.67,14,"[""East Kelly"", ""New Stephanie"", ""New Carolmouth""]","[""a8f8afa0"", ""86d436bd"", ""1499597b""]",0
+c41a06c5-6c43-4c2f-b0d7-9946a0bd0877,Tammy Smith,1603,442.04,4,"[""Ramirezmouth"", ""West Tashamouth""]","[""0c177421""]",0
+ad76b3cb-8c73-4f21-9b2c-aea135e492cc,Breanna Taylor,405,246.11,30,"[""Port Kaitlyn""]","[""206cd5ae"", ""4177ba95""]",0
+6613f6ad-638a-4e81-9419-4cf8c03a1242,Adam Mendoza,1509,469.17,31,"[""East James"", ""Larrytown""]","[""5493f188"", ""dbbd16c7""]",0
+691e0de2-7573-4f28-98bc-b14f4182aa0f,Bradley Howe,2418,34.58,28,"[""New Sharon""]","[""171d533f"", ""81e4f4a1""]",0
+6d181632-b2c2-489a-8c71-87d543b0d544,William Martin,598,300.84,36,"[""Port Taylorton"", ""Cindyburgh""]","[""ad693e5c"", ""2f36494d""]",0
+d073e4cd-ef93-4202-bbcb-4d36ef1d893d,Roger Johnson DDS,2935,449.95,26,"[""Millerchester"", ""Robbinsberg""]","[""21d78f28"", ""8d30d9cc"", ""9da331ef""]",0
+c9cceaa0-d1f4-44be-8b75-969106215ef1,Sandra Hull,3140,86.69,42,"[""Johnsonbury"", ""East David"", ""Goodmanshire""]","[""ef266b38"", ""717750b1"", ""0c0c5ec1""]",0
+f413f1a3-a842-48df-a2df-7cdde414b4db,Nathaniel Schultz,2555,140.11,30,"[""Ronaldmouth"", ""East Lisa"", ""Perryland""]","[""7b17603c""]",0
+a6e7c317-1e83-4df4-9eff-b688e38c7dbc,Nicholas Ellis,1486,487.69,32,"[""South Victor"", ""Tannerstad""]","[""b5059ce4""]",0
+381d42e7-f33a-4157-b713-fa90c4dc30b7,Kristy Sanders,131,151.69,18,"[""New Anthony"", ""Miguelberg"", ""Port Michaelmouth""]","[""bee37d7b"", ""b9ad9cfb""]",0
+246f71a9-b181-41e0-97cf-07465fc1c048,Deborah Carter,1794,82.81,4,"[""West David""]","[""1d5f316c"", ""973e55a0"", ""031f8df6""]",0
+99989e31-1d11-404d-9020-03241d1d9bce,William Robertson,1782,358.16,42,"[""Brittneyfort""]","[""f3690397"", ""2e596b82"", ""bbbb28ec""]",0
+e62f646a-8979-4f12-8268-b303fe3aae68,Andrea Garcia,2335,159.35,8,"[""North Joshuaview"", ""Lake Darleneview""]","[""e59bb692"", ""5433158b"", ""e9a4f117""]",0
+2618180e-4c29-4a05-bb11-0be104e1c3bd,Aaron Byrd,3448,310.87,17,"[""Lake Samuel""]","[""dd19c182"", ""edee4239"", ""b10f2c90""]",0
+8beed957-b5da-46e3-bd75-5076e9cbdc99,Gregory Curtis,801,139.91,25,"[""West Sarashire"", ""East Christina"", ""North Gabrielville""]","[""8b00aae3"", ""a949947e""]",0
+37bac8ae-4c73-4d8a-9f74-430362e777da,Michelle Smith,3180,354.39,37,"[""East Kimville""]","[""ffa29385"", ""ed97f3ad"", ""ac2c8fc1""]",0
+70d8c1b9-1b28-4425-809c-6cfb2d5d07a2,Jamie Phillips,1580,129.74,9,"[""Mooreside"", ""East Timothy"", ""Andreaport""]","[""e5b73410"", ""4308943d"", ""638d78a4""]",0
+7a2c2117-dfaa-4ac3-9f67-e555fac9e8c0,Brandon West,2095,490.24,24,"[""New Andrewfort"", ""Patriciamouth""]","[""32616fc4"", ""898e2356"", ""a43a13ce""]",0
+42a70988-d9f2-4ffa-8d12-ee2bf99e7d70,Daniel Gutierrez,2091,305.66,35,"[""South Jasonberg"", ""Arnoldshire""]","[""4fcec5e6""]",0
+fd2ed12a-ee39-4f50-9a36-79054f5c8fe7,Kyle Lewis,1412,24.77,14,"[""Port Lisa"", ""East Cristiantown""]","[""c0842044"", ""a7fc27cd""]",0
+1b158496-2182-4696-b2e5-3ef95b772ccc,Elizabeth Lopez,2849,172.21,34,"[""Lovefurt""]","[""e490860f"", ""d3f18a21""]",0
+ecf0ac38-a595-425f-8321-3d25ff780945,Jennifer Haney,2298,451.25,28,"[""Lake Cynthia"", ""Jessicaberg""]","[""1acbb0fb""]",0
+e00c9bfc-a1d7-4e76-8622-76ae49ff82d6,John Fitzgerald,1833,330.69,2,"[""New Thomas""]","[""7eccd20b"", ""3a4888bf"", ""13d595f0""]",0
+a809c0b1-aafe-4780-8875-87692ab6198e,Thomas Holt,130,313.32,23,"[""New Justin""]","[""99381302""]",0
+a3185178-eb3d-4c8a-86e3-93eb35ed01a2,Amanda Padilla,1753,232.29,25,"[""Claudiashire"", ""Sanchezview""]","[""be8caefd"", ""80ae49c4""]",0
+bba676e8-7a21-4fe6-acf5-11d971f3dd53,Donald Phillips,1579,452.4,46,"[""North Jasonside""]","[""a37ad65b"", ""132a039e"", ""6177da7f""]",0
+46935ca7-08e6-4dd5-8fea-c3508a0dd997,Heather Hernandez,1828,289.81,44,"[""Jordanshire""]","[""0a8bf220"", ""d8d72066""]",0
+4b0c78b6-519e-498f-884a-2ec338fe0d50,Natalie Thompson,2667,443.23,39,"[""Port Benjamin""]","[""3f85220b"", ""aa0b5e91"", ""df2ebdc4""]",0
+0d0dc95d-bab0-4c09-a0b6-82094f96ca4c,Thomas Holland,1232,365.96,22,"[""South Edward"", ""East John"", ""Lancehaven""]","[""de5c44f9""]",0
