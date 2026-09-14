@@ -8,6 +8,10 @@ from backend.schemas.api_models import TransactionRequest, DecisionRequest, Inve
 from database.connection import get_db
 from database.models import Transaction, InvestigationLog, Decision
 from agents.graph import build_graph
+from agents.state import InvestigationState
+from utils.logger import setup_logger
+
+logger = setup_logger("API_Routes")
 
 router = APIRouter()
 graph = build_graph()
@@ -25,6 +29,7 @@ except Exception:
 @router.post("/api/investigate", response_model=InvestigationResponse)
 async def investigate_transaction(request: TransactionRequest, db: Session = Depends(get_db)):
     tx_id = request.transaction_id
+    logger.info(f"Received investigation request for Transaction ID: {tx_id}")
     
     # Check cache
     if redis_client:
